@@ -16,10 +16,9 @@ import { PRODUCTS, PREMIUM_PRODUCTS } from './constants';
 import CurativeJuicesScreen from './screens/CurativeJuicesScreen';
 import MedicinalBottlesScreen from './screens/MedicinalBottlesScreen';
 import MedicinalOintmentsScreen from './screens/MedicinalOintmentsScreen';
-import IdeaGeneratorScreen from './screens/IdeaGeneratorScreen';
 
 
-type View = 'main' | 'bible' | 'quickGuide' | 'simplePreparations' | 'arthritisRecipes' | 'checkout' | 'curativeJuices' | 'medicinalBottles' | 'medicinalOintments' | 'ideaGenerator';
+type View = 'main' | 'bible' | 'quickGuide' | 'simplePreparations' | 'arthritisRecipes' | 'checkout' | 'curativeJuices' | 'medicinalBottles' | 'medicinalOintments';
 
 const App: React.FC = () => {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -41,7 +40,6 @@ const App: React.FC = () => {
     else if (productId === 5) setView('curativeJuices');
     else if (productId === 6) setView('medicinalBottles');
     else if (productId === 7) setView('medicinalOintments');
-    else if (productId === 100) setView('ideaGenerator');
     else {
         // Placeholder for other premium products
         alert(`Acessando conteúdo de: ${[...PRODUCTS, ...PREMIUM_PRODUCTS].find(p => p.id === productId)?.title}`);
@@ -83,7 +81,6 @@ const App: React.FC = () => {
     if (view === 'curativeJuices') return <CurativeJuicesScreen />;
     if (view === 'medicinalBottles') return <MedicinalBottlesScreen />;
     if (view === 'medicinalOintments') return <MedicinalOintmentsScreen />;
-    if (view === 'ideaGenerator') return <IdeaGeneratorScreen />;
     if (view === 'checkout' && productToCheckout) return <CheckoutScreen product={productToCheckout} onConfirmPurchase={handlePurchaseConfirm} />;
 
 

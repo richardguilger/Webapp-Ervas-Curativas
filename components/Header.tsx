@@ -2,13 +2,13 @@
 import React from 'react';
 import SearchBar from './SearchBar';
 import { Tab } from '../types';
-import { BookIcon, CogIcon, LeafIcon, ArrowLeftIcon, ClipboardListIcon, BookOpenIcon, CreditCardIcon, BeakerIcon, SparklesIcon } from './Icon';
+import { BookIcon, CogIcon, LeafIcon, ArrowLeftIcon, ClipboardListIcon, BookOpenIcon, CreditCardIcon, BeakerIcon } from './Icon';
 
 interface HeaderProps {
   activeTab: Tab;
   searchTerm: string;
   setSearchTerm: (term: string) => void;
-  view: 'main' | 'bible' | 'quickGuide' | 'simplePreparations' | 'arthritisRecipes' | 'checkout' | 'curativeJuices' | 'medicinalBottles' | 'medicinalOintments' | 'ideaGenerator';
+  view: 'main' | 'bible' | 'quickGuide' | 'simplePreparations' | 'arthritisRecipes' | 'checkout' | 'curativeJuices' | 'medicinalBottles' | 'medicinalOintments';
   onBack: () => void;
 }
 
@@ -153,22 +153,6 @@ const MedicinalOintmentsHeader: React.FC<{ onBack: () => void }> = ({ onBack }) 
     </div>
 );
 
-const IdeaGeneratorHeader: React.FC<{ onBack: () => void }> = ({ onBack }) => (
-    <div className="flex items-center gap-3">
-        <button onClick={onBack} className="p-2 -ml-2 text-brand-muted hover:text-brand-text transition-colors">
-            <ArrowLeftIcon className="w-6 h-6" />
-        </button>
-        <div className="bg-brand-premium text-white p-3 rounded-full">
-            <SparklesIcon className="w-6 h-6" />
-        </div>
-        <div>
-            <h1 className="text-xl font-bold text-brand-text">Gerador de Ideias</h1>
-            <p className="text-sm text-brand-muted">Crie conteúdo com Inteligência Artificial</p>
-        </div>
-    </div>
-);
-
-
 const CheckoutHeader: React.FC<{ onBack: () => void }> = ({ onBack }) => (
     <div className="flex items-center gap-3">
         <button onClick={onBack} className="p-2 -ml-2 text-brand-muted hover:text-brand-text transition-colors">
@@ -203,8 +187,6 @@ const Header: React.FC<HeaderProps> = ({ activeTab, searchTerm, setSearchTerm, v
             return <MedicinalBottlesHeader onBack={onBack}/>;
         case 'medicinalOintments':
             return <MedicinalOintmentsHeader onBack={onBack}/>;
-        case 'ideaGenerator':
-            return <IdeaGeneratorHeader onBack={onBack}/>;
         case 'checkout':
             return <CheckoutHeader onBack={onBack}/>;
         default:

@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { PreparationSection, PreparationContent } from '../types';
 import { ChevronDownIcon } from './Icon';
@@ -56,7 +55,7 @@ const ContentRenderer: React.FC<{ content: PreparationContent }> = ({ content })
                             {content.rows?.map((row, rowIndex) => (
                                 <tr key={rowIndex} className="bg-white border-b border-brand-secondary">
                                     {row.map((cell, cellIndex) => <td key={cellIndex} className="px-4 py-2">{cell}</td>)}
-                                tr>
+                                </tr>
                             ))}
                         </tbody>
                     </table>

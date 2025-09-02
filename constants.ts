@@ -29,13 +29,6 @@ export const PRODUCTS: Product[] = [
     description: "Alívio natural para dores e inflamações articulares.",
     isBonus: true,
     imageUrl: "https://images.unsplash.com/photo-1596234628020-205a1912423c?q=80&w=400&h=400&fit=crop"
-  },
-  {
-    id: 100, // ID para o Gerador de Ideias
-    title: "Gerador de Ideias com IA",
-    description: "Crie banners e textos para seus posts com IA.",
-    isBonus: true,
-    imageUrl: "https://images.unsplash.com/photo-1677756119517-756a188d2278?q=80&w=400&h=400&fit=crop"
   }
 ];
 
