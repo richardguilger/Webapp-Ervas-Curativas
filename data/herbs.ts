@@ -1,7 +1,5 @@
 import { Herb } from '../types';
 
-// This is a subset of the herbs from the PDF for demonstration purposes.
-// A full implementation would include all herbs listed.
 export const HERBS: Herb[] = [
   {
     "id": 1,
@@ -10,25 +8,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Folhas, planta inteira",
     "formaDeUsoPrincipal": "Chá, Tintura, Compressa, Banho de assento",
     "usosPrincipais": [
-      "Antioxidante",
-      "Câncer",
-      "Anti-inflamatório",
-      "Antialérgico (bronquite, asma)",
-      "Antibacteriano",
-      "Herpes",
-      "Malária",
-      "Leishmaniose",
-      "Febre e Dor",
-      "Úlceras Estomacais e Controle de Acidez",
-      "Diarreia",
-      "Pressão Alta e Angina",
-      "Dor de Dente",
-      "Aftas e Lesões Bucais",
-      "Hepatite e Proteção do Fígado",
-      "Diabetes, Insulina e Glicemia",
-      "Cicatrizante",
-      "Furúnculos e Hemorroidas",
-      "Parto e Pós-parto"
+      "Antioxidante", "Câncer", "Anti-inflamatório", "Antialérgico (bronquite, asma)", "Antibacteriano", "Herpes", "Malária", "Leishmaniose", "Febre e Dor", "Úlceras Estomacais e Controle de Acidez", "Diarreia", "Pressão Alta e Angina", "Dor de Dente", "Aftas e Lesões Bucais", "Hepatite e Proteção do Fígado", "Diabetes, Insulina e Glicemia", "Cicatrizante", "Furúnculos e Hemorroidas", "Parto e Pós-parto"
     ],
     "receitasRapidas": [
       {
@@ -54,17 +34,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Flores, folhas e raízes",
     "formaDeUsoPrincipal": "Chá, Decocção, Compressa",
     "usosPrincipais": [
-      "Artrite e Reumatismo",
-      "Febre",
-      "Infecções do Trato Urinário",
-      "Gripe e Resfriado",
-      "Dores de Cabeça",
-      "Retenção de Líquidos",
-      "Problemas Respiratórios (bronquite, tosse)",
-      "Problemas de Pele (feridas, erupções)",
-      "Gota",
-      "Diarreia",
-      "Úlceras Bucais"
+      "Artrite e Reumatismo", "Febre", "Infecções do Trato Urinário", "Gripe e Resfriado", "Dores de Cabeça", "Retenção de Líquidos", "Problemas Respiratórios (bronquite, tosse)", "Problemas de Pele (feridas, erupções)", "Gota", "Diarreia", "Úlceras Bucais"
     ],
     "receitasRapidas": [
       {
@@ -86,17 +56,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Folhas",
     "formaDeUsoPrincipal": "Chá, Tintura",
     "usosPrincipais": [
-      "Colesterol (total e LDL)",
-      "Claudicação Intermitente (DAOP)",
-      "Antiviral (Herpes, Gripes)",
-      "Antimicrobiano",
-      "Diabetes",
-      "Pressão Arterial Alta",
-      "Perda de Peso",
-      "Epilepsia",
-      "Úlcera gástrica e duodenal",
-      "Proteção do fígado",
-      "Cálculos renais"
+      "Colesterol (total e LDL)", "Claudicação Intermitente (DAOP)", "Antiviral (Herpes, Gripes)", "Antimicrobiano", "Diabetes", "Pressão Arterial Alta", "Perda de Peso", "Epilepsia", "Úlcera gástrica e duodenal", "Proteção do fígado", "Cálculos renais"
     ],
     "receitasRapidas": [
       {
@@ -118,12 +78,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Folhas, Flores",
     "formaDeUsoPrincipal": "Chá",
     "usosPrincipais": [
-      "Diabetes tipo 2",
-      "Proteção do Fígado e Gordura no Fígado (esteatose hepática)",
-      "Pressão Arterial Alta e Melhora da Circulação",
-      "Reduz Colesterol",
-      "Antimicrobiano",
-      "Anti-inflamatório e Febre"
+      "Diabetes tipo 2", "Proteção do Fígado e Gordura no Fígado (esteatose hepática)", "Pressão Arterial Alta e Melhora da Circulação", "Reduz Colesterol", "Antimicrobiano", "Anti-inflamatório e Febre"
     ],
     "receitasRapidas": [
       {
@@ -141,16 +96,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Folhas, Flores",
     "formaDeUsoPrincipal": "Chá, óleo infundido, pomada, compressa, cataplasma",
     "usosPrincipais": [
-      "Doenças do Estômago e Intestinais",
-      "Sistema Imunológico e Linfático",
-      "Doenças de Pele (cortes, queimaduras, herpes)",
-      "Antienvelhecimento e Produção de Colágeno",
-      "Alivia Espasmos Musculares",
-      "Úlceras, Feridas e Hemorroidas",
-      "Menstruação e TPM",
-      "Saúde Bucal",
-      "Inibe o Câncer",
-      "Desintoxicação do Fígado e Vesícula Biliar"
+      "Doenças do Estômago e Intestinais", "Sistema Imunológico e Linfático", "Doenças de Pele (cortes, queimaduras, herpes)", "Antienvelhecimento e Produção de Colágeno", "Alivia Espasmos Musculares", "Úlceras, Feridas e Hemorroidas", "Menstruação e TPM", "Saúde Bucal", "Inibe o Câncer", "Desintoxicação do Fígado e Vesícula Biliar"
     ],
     "receitasRapidas": [
       {
@@ -168,21 +114,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Fruto, folhas, raízes",
     "formaDeUsoPrincipal": "Chá, Decocção, Cápsulas",
     "usosPrincipais": [
-      "Disfunção Erétil e Infertilidade Masculina",
-      "Problemas Cardíacos",
-      "Dor e Inflamação",
-      "Desequilíbrios Hormonais e Menopausa",
-      "Infecções Urinárias e Pedras nos Rins",
-      "Atividade Imunomoduladora",
-      "Diabetes",
-      "Colesterol e Triglicerídeos",
-      "Ansiedade e Depressão",
-      "Proteção do Fígado",
-      "Cólicas Intestinais",
-      "Câncer",
-      "Antibacteriana",
-      "Parasitas",
-      "Cáries dentárias"
+      "Disfunção Erétil e Infertilidade Masculina", "Problemas Cardíacos", "Dor e Inflamação", "Desequilíbrios Hormonais e Menopausa", "Infecções Urinárias e Pedras nos Rins", "Atividade Imunomoduladora", "Diabetes", "Colesterol e Triglicerídeos", "Ansiedade e Depressão", "Proteção do Fígado", "Cólicas Intestinais", "Câncer", "Antibacteriana", "Parasitas", "Cáries dentárias"
     ],
     "receitasRapidas": [
       {
@@ -208,13 +140,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Toda a planta, principalmente a raiz",
     "formaDeUsoPrincipal": "Infusão (Chá)",
     "usosPrincipais": [
-      "Diurética",
-      "Relaxante muscular",
-      "Analgésica",
-      "Sedativa",
-      "Normaliza a Função Psicológica (TEPT, Ansiedade)",
-      "Antiespasmódica (incontinência)",
-      "Suprime a Produção de Leite"
+      "Diurética", "Relaxante muscular", "Analgésica", "Sedativa", "Normaliza a Função Psicológica (TEPT, Ansiedade)", "Antiespasmódica (incontinência)", "Suprime a Produção de Leite"
     ],
     "receitasRapidas": [
       {
@@ -232,14 +158,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Sementes",
     "formaDeUsoPrincipal": "Cápsulas, Pomada",
     "usosPrincipais": [
-      "Insuficiência Circulatória Venosa Crônica",
-      "Varizes",
-      "Hematomas",
-      "Inchaço e Retenção de Líquidos",
-      "Artrite e Artrose",
-      "Cansaço e Peso nas Pernas",
-      "Dores nas Pernas",
-      "Hemorroidas"
+      "Insuficiência Circulatória Venosa Crônica", "Varizes", "Hematomas", "Inchaço e Retenção de Líquidos", "Artrite e Artrose", "Cansaço e Peso nas Pernas", "Dores nas Pernas", "Hemorroidas"
     ],
     "receitasRapidas": [
       {
@@ -257,12 +176,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Raiz, folhas",
     "formaDeUsoPrincipal": "Chá, Decocção, Cataplasma",
     "usosPrincipais": [
-      "Dores de Garganta",
-      "Hepatite B",
-      "Estancar Sangramentos",
-      "Secar Tecidos",
-      "Diarreia e Desconforto Estomacal",
-      "Aftas"
+      "Dores de Garganta", "Hepatite B", "Estancar Sangramentos", "Secar Tecidos", "Diarreia e Desconforto Estomacal", "Aftas"
     ],
     "receitasRapidas": [
       {
@@ -284,29 +198,15 @@ export const HERBS: Herb[] = [
     "parteUsada": "Flores secas",
     "formaDeUsoPrincipal": "Chá, Óleo Essencial, Inalação a vapor",
     "usosPrincipais": [
-      "Alergias e Eczema",
-      "Asma, Bronquite, Coqueluche e Congestão",
-      "Problemas Digestivos (gases, cólicas, gastrite, inchaço)",
-      "Dores Musculares",
-      "Insônia e Ansiedade",
-      "Cólicas infantis",
-      "Problemas oculares (Conjuntivite)"
+      "Alergias e Eczema", "Asma, Bronquite, Coqueluche e Congestão", "Problemas Digestivos (gases, cólicas, gastrite, inchaço)", "Dores Musculares", "Insônia e Ansiedade", "Cólicas infantis", "Problemas oculares (Conjuntivite)"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Chá calmante",
-        "descricao": "1 a 2 colheres de sobremesa de flores secas para 1 xícara de água (150 ml). Despeje água fervente, tampe, espere esfriar e coe. Beba 3 xícaras por dia."
-      },
-      {
-        "titulo": "Compressa para olhos",
-        "descricao": "Fazer um chá forte, esperar esfriar, coar bem. Umedecer gaze ou algodão e aplicar sobre os olhos fechados por 5–10 min."
-      },
-      {
-        "titulo": "Inalação para congestão",
-        "descricao": "Adicione duas colheres de chá de pétalas a uma panela de água fervente. Inale o vapor até que o catarro seja liberado."
+        "titulo": "Chá de Camomila",
+        "descricao": "Use de 1 a 2 colheres de sobremesa de flores secas para 1 xícara de água (150 ml). Despeje a água fervente sobre as ervas, tampe, aguarde esfriar e coe. Beba 3 xícaras por dia. Para dormir melhor, tome 1 xícara 30 minutos antes de deitar-se."
       }
     ],
-    "cuidadosEContraindicacoes": "Evitar uso em caso de alergia a plantas da família Asteraceae (margarida, crisântemo, arnica). Pode potencializar efeito de sedativos.",
+    "cuidadosEContraindicacoes": "Embora seja incomum, algumas pessoas têm reações alérgicas à Camomila. Pessoas com alergias à família Asteraceae, incluindo a ambrosia e os crisântemos, não devem ter cautela ao consumir a Camomila.",
     "imagemUrl": "https://i.imgur.com/L1b5eAg.jpeg"
   },
   {
@@ -316,15 +216,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Rizoma (raiz)",
     "formaDeUsoPrincipal": "Decocção, Chá",
     "usosPrincipais": [
-      "Náuseas e Vômitos",
-      "Indigestão, Gases, Acidez e Síndrome do Intestino Irritável",
-      "Dor de Garganta e Infecções Respiratórias",
-      "Artrite, Artrite Psoriática e Fibromialgia",
-      "Dores Musculares",
-      "Resfriados e Gripes",
-      "Problemas Menstruais e TPM",
-      "Diabetes e Controle da Glicemia",
-      "Colesterol Alto e Circulação Sanguínea"
+      "Náuseas e Vômitos", "Indigestão, Gases, Acidez e Síndrome do Intestino Irritável", "Dor de Garganta e Infecções Respiratórias", "Artrite, Artrite Psoriática e Fibromialgia", "Dores Musculares", "Resfriados e Gripes", "Problemas Menstruais e TPM", "Diabetes e Controle da Glicemia", "Colesterol Alto e Circulação Sanguínea"
     ],
     "receitasRapidas": [
       {
@@ -332,7 +224,7 @@ export const HERBS: Herb[] = [
         "descricao": "1 colher de sobremesa de raízes picadas para 1 xícara de água (150 ml). Ferver em fogo brando por 5 minutos. Beba 3 xícaras por dia. Para problemas digestivos, beba 1 xícara antes das refeições."
       }
     ],
-    "cuidadosEContraindicacoes": "O uso medicinal deve ser feito com cautela, especialmente em casos de úlceras gástricas, problemas cardíacos, ou diabetes. Evite doses elevadas para prevenir efeitos como azia e desconforto gastrointestinal.",
+    "cuidadosEContraindicacoes": "O uso medicinal do Gengibre deve ser feito com cautela, especialmente em casos de úlceras gástricas, problemas cardíacos, ou diabetes, pois pode interferir no tratamento. Evite doses elevadas para prevenir efeitos como azia e desconforto gastrointestinal.",
     "imagemUrl": "https://i.imgur.com/8aJ5m6S.jpeg"
   },
   {
@@ -342,13 +234,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Folhas (frescas ou secas)",
     "formaDeUsoPrincipal": "Chá, Cataplasma, Pomada, Banho",
     "usosPrincipais": [
-      "Dor Nervosa",
-      "Artrite",
-      "Erupções Cutâneas",
-      "Constipação e Problemas Digestivos",
-      "Irritações Cutâneas (Dermatite, Eczema, Urticária)",
-      "Herpes e Varizes",
-      "Furúnculos e Doenças Venéreas"
+      "Dor Nervosa", "Artrite", "Erupções Cutâneas", "Constipação e Problemas Digestivos", "Irritações Cutâneas (Dermatite, Eczema, Urticária)", "Herpes e Varizes", "Furúnculos e Doenças Venéreas"
     ],
     "receitasRapidas": [
       {
@@ -366,10 +252,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Folhas e sementes",
     "formaDeUsoPrincipal": "Chá, Cataplasma, Compressa",
     "usosPrincipais": [
-      "Pedras nos Rins",
-      "Problemas Digestivos",
-      "Cuidados com Feridas e Pele",
-      "Diarreia"
+      "Pedras nos Rins", "Problemas Digestivos", "Cuidados com Feridas e Pele", "Diarreia"
     ],
     "receitasRapidas": [
       {
@@ -377,15 +260,15 @@ export const HERBS: Herb[] = [
         "descricao": "1 colher de chá de folhas secas ou 2 de frescas trituradas para 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
       },
       {
-        "titulo": "Chá Forte para Uso Externo",
-        "descricao": "Use 3 colheres de sopa de folhas secas para 1 xícara de água (150 ml). Use para lavar feridas ou fazer compressas."
+        "titulo": "Chá Forte para Lavar Feridas e Fazer Compressas",
+        "descricao": "Use 3 colheres de sopa de folhas secas de Agrimônia para 1 xícara de água (150 ml). Nesta concentração, use apenas para tratamento externo."
       },
       {
         "titulo": "Cataplasma",
         "descricao": "Esmague uma quantidade adequada de folhas frescas e aplique sobre a área afetada. Mantenha no local com uma bandagem ou pano limpo. Aplique de 2 a 3 vezes por dia."
       }
     ],
-    "cuidadosEContraindicacoes": "Por ter propriedades fotossensibilizantes, pode causar reações adversas ao se expor ao sol. A ingestão exagerada pode causar prisão de ventre. Mulheres grávidas, lactantes e pacientes que fazem uso de medicamento anticoagulantes não devem usar.",
+    "cuidadosEContraindicacoes": "Por ter propriedades fotossensibilizantes, algumas pessoas podem ter reações adversas ao se exporem ao sol. Devido a alta presença de taninos, a ingestão exagerada pode causar prisão de ventre. Mulheres grávidas, lactantes e pacientes que fazem uso de medicamento anticoagulantes não devem usar a Agrimônia.",
     "imagemUrl": "https://i.imgur.com/Yw9v0uO.jpeg"
   },
   {
@@ -395,14 +278,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Folhas",
     "formaDeUsoPrincipal": "Chá, Extratos, Cápsulas",
     "usosPrincipais": [
-      "Circulação Sanguínea e Antioxidante",
-      "Demência e Doença de Alzheimer",
-      "Tontura e Vertigem",
-      "Zumbido no Ouvido",
-      "Síndrome das Pernas Inquietas",
-      "Claudicação Intermitente",
-      "Ansiedade e Depressão",
-      "Problemas Cognitivos Associados ao Envelhecimento"
+      "Circulação Sanguínea e Antioxidante", "Demência e Doença de Alzheimer", "Tontura e Vertigem", "Zumbido no Ouvido", "Síndrome das Pernas Inquietas", "Claudicação Intermitente", "Ansiedade e Depressão", "Problemas Cognitivos Associados ao Envelhecimento"
     ],
     "receitasRapidas": [
       {
@@ -410,11 +286,11 @@ export const HERBS: Herb[] = [
         "descricao": "1 colher de chá de folhas secas (ou 2 de frescas) para 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
       },
       {
-        "titulo": "Cápsulas de Extrato Seco",
-        "descricao": "Nas lojas especializadas em produtos fitoterápicos podem ser adquiridas cápsulas do extrato seco padronizado. A dosagem varia conforme o fabricante."
+        "titulo": "Cápsulas",
+        "descricao": "Nas lojas especializadas em produtos fitoterápicos podem ser adquiridas cápsulas do extrato seco padronizado."
       }
     ],
-    "cuidadosEContraindicacoes": "Pode causar dor de cabeça, distúrbios gastrointestinais e reações alérgicas. Evitar uso excessivo, especialmente em pessoas com distúrbios hemorrágicos ou que tomam anticoagulantes. Consulte um profissional de saúde antes do uso.",
+    "cuidadosEContraindicacoes": "O uso medicinal do Ginkgo pode causar efeitos colaterais como dor de cabeça, distúrbios gastrointestinais e reações alérgicas. É essencial evitar uso excessivo, especialmente em pessoas com distúrbios hemorrágicos ou que tomam anticoagulantes. Consulte um profissional de saúde antes do uso.",
     "imagemUrl": "https://i.imgur.com/0Fw9m3S.jpeg"
   },
   {
@@ -424,22 +300,15 @@ export const HERBS: Herb[] = [
     "parteUsada": "Gel da folha",
     "formaDeUsoPrincipal": "Gel tópico, Suco",
     "usosPrincipais": [
-      "Cuidados com a Pele, Queimaduras, Eczema",
-      "Azia e Síndrome do Intestino Irritável",
-      "Redução dos Níveis de Açúcar no Sangue em Diabéticos",
-      "Laxante"
+      "Cuidados com a Pele, Queimaduras, Eczema", "Azia e Síndrome do Intestino Irritável", "Redução dos Níveis de Açúcar no Sangue em Diabéticos", "Laxante"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Uso Externo do Gel",
-        "descricao": "Colha as folhas, coloque na vertical em água por 24h para remover a aloína. Corte a folha ao meio e raspe o gel. Use como bálsamo calmante diretamente na pele."
-      },
-      {
-        "titulo": "Uso Interno do Gel",
-        "descricao": "Após remover a aloína, adicione 28 a 85 gramas do gel a um suco de frutas. O gel puro é desagradável e amargo."
+        "titulo": "Como Usar a Babosa",
+        "descricao": "Colha as folhas cortando-as próximo a sua base e coloque-as na vertical dentro de um copo ou jarra de água por 24 horas. Isso fará com que a aloína, que é uma substância tóxica se ingerida, seja removida. Para uso externo, corte a folha ao meio com uma faca e raspe o gel do interior da folha. Para uso interno, experimente 28 a 85 gramas do gel adicionados a um suco de frutas."
       }
     ],
-    "cuidadosEContraindicacoes": "O gel contém aloína, que é irritante para o intestino e deve ser removida antes do uso interno. Não use internamente durante a gravidez e se tiver hemorroidas ou problemas nos rins.",
+    "cuidadosEContraindicacoes": "O gel contém uma substância de cor marrom denominada aloína que é irritante para o intestino. Não use internamente durante a gravidez e se tiver hemorroidas ou problemas nos rins.",
     "imagemUrl": "https://i.imgur.com/kY7hF2w.jpeg"
   },
   {
@@ -449,13 +318,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Folhas",
     "formaDeUsoPrincipal": "Chá, Óleo essencial, Compressa",
     "usosPrincipais": [
-      "Resfriados, Gripe, Congestão Bronquial",
-      "Herpes",
-      "Saúde cardíaca e Angina",
-      "Feridas, Cortes e Queimaduras",
-      "Facilita a Digestão",
-      "Diarreia",
-      "Infecções Fúngicas na Pele"
+      "Resfriados, Gripe, Congestão Bronquial", "Herpes", "Saúde cardíaca e Angina", "Feridas, Cortes e Queimaduras", "Facilita a Digestão", "Diarreia", "Infecções Fúngicas na Pele"
     ],
     "receitasRapidas": [
       {
@@ -477,11 +340,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Folhas",
     "formaDeUsoPrincipal": "Chá, Alimento",
     "usosPrincipais": [
-      "Problemas Digestivos, Indigestão e Gases",
-      "Infecções Urinárias, Cistite e Uretrite",
-      "Anemia",
-      "Tosse, Bronquite, Sinusite",
-      "Artrite, Tendinite e Inflamações Crônicas"
+      "Problemas Digestivos, Indigestão e Gases", "Infecções Urinárias, Cistite e Uretrite", "Anemia", "Tosse, Bronquite, Sinusite", "Artrite, Tendinite e Inflamações Crônicas"
     ],
     "receitasRapidas": [
       {
@@ -499,11 +358,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Folhas",
     "formaDeUsoPrincipal": "Chá",
     "usosPrincipais": [
-      "Infecções do Trato Urinário",
-      "Infecções Respiratórias, Gripes, Resfriados",
-      "Cortes, Feridas, Infecções de Pele",
-      "Alopecia e Queda de Cabelo",
-      "Depressão, Fadiga e Astenia"
+      "Infecções do Trato Urinário", "Infecções Respiratórias, Gripes, Resfriados", "Cortes, Feridas, Infecções de Pele", "Alopecia e Queda de Cabelo", "Depressão, Fadiga e Astenia"
     ],
     "receitasRapidas": [
       {
@@ -518,79 +373,58 @@ export const HERBS: Herb[] = [
     "id": 19,
     "nomePopular": "Ashwagandha",
     "nomeCientifico": "Withania somnifera",
-    "parteUsada": "Raiz",
-    "formaDeUsoPrincipal": "Decocção, Pó, Cápsulas",
+    "parteUsada": "Raiz, Folhas",
+    "formaDeUsoPrincipal": "Chá, Pó, Cápsulas",
     "usosPrincipais": [
-      "Adaptógeno (estresse, fadiga)",
-      "Ansiedade e Depressão",
-      "Melhora da função cognitiva e memória",
-      "Aumento da força e massa muscular",
-      "Saúde sexual e fertilidade",
-      "Anti-inflamatório (artrite)",
-      "Redução do cortisol",
-      "Melhora do sono"
+      "Combate o Estresse e a Ansiedade", "Melhora quadros de Depressão", "Reduz os Níveis de Cortisol", "Reduz os Níveis de Glicose", "Câncer", "Melhora Memória e Proteção dos Neurônios", "Aumenta Estamina e Resistência", "Dor nas Articulações e Artrite", "Aumenta Libido e Fertilidade", "Fortalece o Sistema Imunológico"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Decocção de Raiz de Ashwagandha",
-        "descricao": "1 colher de chá de raiz seca e picada para 1 xícara de água (150 ml). Ferver por 10-15 minutos em fogo baixo. Coar e beber 1 a 2 vezes por dia."
+        "titulo": "Chá de Ashwagandha",
+        "descricao": "1 colher de chá de folhas secas ou 2 de frescas para 1 xícara de água (150 ml). Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Beba 3 xícaras por dia."
       },
       {
-        "titulo": "Leite Dourado com Ashwagandha",
-        "descricao": "Misture 1 colher de chá de pó de ashwagandha em um copo de leite morno com uma pitada de cúrcuma e mel. Beba antes de dormir para um sono reparador."
+        "titulo": "Cápsulas com o extrato seco",
+        "descricao": "É possível encontrar o extrato seco padronizado em forma de cápsulas. A dosagem diária depende da concentração e geralmente está descrita no rótulo do frasco."
       }
     ],
-    "cuidadosEContraindicacoes": "Evitar durante a gravidez. Pode interagir com sedativos e medicamentos para tireoide. Pessoas com doenças autoimunes devem consultar um profissional de saúde antes do uso.",
+    "cuidadosEContraindicacoes": "Acredita-se que a Ashwagandha seja segura por ser amplamente usada ao longo da história. Contudo, existem poucos estudos de longo prazo avaliando eventuais efeitos adversos. Portanto fique atento e suspenda o uso por algum tempo caso perceba algum efeito indesejado.",
     "imagemUrl": "https://i.imgur.com/7gK5c3m.jpeg"
   },
   {
     "id": 20,
     "nomePopular": "Hibisco",
-    "nomeCientifico": "Hibiscus sabdariffa",
-    "parteUsada": "Cálices das flores",
-    "formaDeUsoPrincipal": "Chá (infusão)",
+    "nomeCientifico": "Hibiscus rosa-sinensis",
+    "parteUsada": "Folhas e flores",
+    "formaDeUsoPrincipal": "Chá",
     "usosPrincipais": [
-      "Controle da pressão arterial",
-      "Redução do colesterol LDL",
-      "Diurético e auxílio na perda de peso",
-      "Saúde do fígado",
-      "Antioxidante",
-      "Propriedades antibacterianas",
-      "Alívio de cólicas menstruais"
+      "Perda de Peso e Controle de Apetite", "Hipertensão arterial", "Colesterol Alto e Prevenção de Doenças Cardiovasculares", "Problemas Digestivos e Constipação", "Inflamações e Dores Articulares", "Infecções Bacterianas e Fúngicas", "Problemas Menstruais e Distúrbios Hormonais", "Doenças Hepáticas e Proteção do Fígado", "Diabetes e Controle da Glicemia"
     ],
     "receitasRapidas": [
       {
         "titulo": "Chá de Hibisco",
-        "descricao": "1 colher de sopa de cálices secos para 1 litro de água. Ferva a água, desligue o fogo e adicione o hibisco. Deixe em infusão por 5 a 10 minutos. Coe e beba quente ou frio."
+        "descricao": "1 colher de chá de folhas secas ou 2 de frescas para 1 xícara de água (150 ml). Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Beba 3 xícaras por dia."
       }
     ],
-    "cuidadosEContraindicacoes": "Pode interferir com medicamentos para pressão alta e diabetes. Não recomendado para gestantes ou lactantes, pois pode afetar os níveis hormonais.",
+    "cuidadosEContraindicacoes": "O uso de Hibisco pode causar reações alérgicas em algumas pessoas e não é recomendado para gestantes. Pessoas com pressão arterial baixa ou que tomam medicamentos antihipertensivos devem usá-lo com cautela.",
     "imagemUrl": "https://i.imgur.com/2m2T3Z1.jpeg"
   },
   {
     "id": 21,
     "nomePopular": "Erva de Cobra",
-    "nomeCientifico": "Eupatorium rugosum (Ageratina altissima)",
-    "parteUsada": "Raiz",
-    "formaDeUsoPrincipal": "Decocção, Cataplasma (uso externo)",
+    "nomeCientifico": "Eupatorium perfoliatum",
+    "parteUsada": "Partes aéreas",
+    "formaDeUsoPrincipal": "Chá, Tintura",
     "usosPrincipais": [
-      "Febre e suor excessivo (diaforético)",
-      "Malária",
-      "Picadas de cobra (uso tópico tradicional)",
-      "Dores reumáticas",
-      "Gripes e resfriados"
+      "Resfriados, Gripe, Bronquite, Congestão e Excesso de Muco", "Dengue", "Malária", "Febre Amarela e Tifoide"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Decocção para Febre",
-        "descricao": "1 colher de chá de raiz seca para 2 xícaras de água. Ferver em fogo baixo até reduzir pela metade. Tomar em pequenas doses ao longo do dia."
-      },
-      {
-        "titulo": "Cataplasma para Picadas (Uso Externo)",
-        "descricao": "Esmagar a raiz fresca e aplicar sobre a área da picada de inseto ou cobra (como primeiros socorros, procurar ajuda médica imediatamente)."
+        "titulo": "Chá de Erva de Cobra",
+        "descricao": "1 colher de chá de folhas secas (ou o dobro de frescas) para 1 xícara de água (150 ml). Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Beba 3 xícaras por dia."
       }
     ],
-    "cuidadosEContraindicacoes": "Planta tóxica se usada incorretamente. Contém tremetol, que pode causar 'doença do leite'. O uso interno deve ser feito com extrema cautela e sob supervisão de um profissional experiente. Não usar durante a gravidez ou amamentação.",
+    "cuidadosEContraindicacoes": "Não use em mulheres grávidas, lactantes e crianças pequenas. Não é adequado para uso a longo prazo.",
     "imagemUrl": "https://i.imgur.com/kS9w0yv.jpeg"
   },
   {
@@ -598,21 +432,17 @@ export const HERBS: Herb[] = [
     "nomePopular": "Salgueiro Branco",
     "nomeCientifico": "Salix alba",
     "parteUsada": "Casca",
-    "formaDeUsoPrincipal": "Decocção, Tintura, Cápsulas",
+    "formaDeUsoPrincipal": "Decocção",
     "usosPrincipais": [
-      "Analgésico (dores de cabeça, dores musculares)",
-      "Anti-inflamatório (artrite, reumatismo)",
-      "Antipirético (redução da febre)",
-      "Alívio de dores nas costas",
-      "Dores menstruais"
+      "Dor e Inflamação", "Febre", "Artrite, Osteoartrite e Reumatismo", "Dor de Cabeça", "Condições Relacionadas ao Trato Digestivo", "Bursite, Tendinite e Problemas Musculares e Esqueléticos"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Decocção de Casca de Salgueiro",
-        "descricao": "1-2 colheres de chá de casca seca para 1 xícara de água (150 ml). Ferver em fogo baixo por 10-15 minutos. Deixe em infusão por mais 30 minutos, coe e beba 3-4 vezes ao dia."
+        "titulo": "Decocção de Salgueiro Branco",
+        "descricao": "1 colher de sobremesa de cascas picadas para 1 xícara de água (150 ml). Ferver em fogo brando por 5 minutos, desligar e coar. Beba 2 xícaras por dia. Pode usar para compressas externas de 3 a 5 vezes por dia."
       }
     ],
-    "cuidadosEContraindicacoes": "Contém salicina, precursora da aspirina. Não deve ser usado por pessoas com alergia a aspirina, distúrbios de coagulação, úlceras ou problemas renais/hepáticos. Não recomendado para crianças, gestantes ou lactantes.",
+    "cuidadosEContraindicacoes": "Contraindicado para pessoas alérgicas a salicilatos, grávidas, lactantes e crianças menores de 16 anos. Usar com cautela em pessoas com distúrbios gastrointestinais, problemas de sangramento, ou condições renais e hepáticas.",
     "imagemUrl": "https://i.imgur.com/d8p1Q4D.jpeg"
   },
   {
@@ -620,48 +450,35 @@ export const HERBS: Herb[] = [
     "nomePopular": "Borragem",
     "nomeCientifico": "Borago officinalis",
     "parteUsada": "Folhas, flores, óleo das sementes",
-    "formaDeUsoPrincipal": "Chá, Óleo (cápsulas)",
+    "formaDeUsoPrincipal": "Chá, Óleo",
     "usosPrincipais": [
-      "Anti-inflamatório (artrite reumatoide)",
-      "Saúde da pele (eczema, psoríase)",
-      "Redução do estresse e suporte adrenal",
-      "Sintomas da TPM e menopausa",
-      "Problemas respiratórios (tosse, bronquite)",
-      "Diurético leve"
+      "Aftas e Gargantas Irritadas", "Modula os Hormônios, TPM e Problemas Menstruais", "Antioxidante", "Dermatite Atópica", "Sudorese e febre", "Artrite e Gota", "Problemas Digestivos e Síndrome do Intestino Irritável", "Pneumonia", "Ajuda a Evitar a Neurodegeneração", "Problemas na Pele e Feridas"
     ],
     "receitasRapidas": [
       {
         "titulo": "Chá de Borragem",
-        "descricao": "1 colher de sopa de folhas e flores frescas (ou 1 de chá secas) para 1 xícara de água fervente. Deixe em infusão por 10 minutos. Beba 2-3 vezes ao dia."
+        "descricao": "1 colher de chá de folhas secas (ou o dobro de frescas) para 1 xícara de água (150 ml). Despeje a água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
       }
     ],
-    "cuidadosEContraindicacoes": "As folhas contêm alcaloides pirrolizidínicos que podem ser tóxicos para o fígado em uso prolongado ou altas doses. Prefira o óleo das sementes, que é livre desses alcaloides. Evitar durante a gravidez e amamentação.",
+    "cuidadosEContraindicacoes": "As folhas contêm alcaloides pirrolizidínicos tóxicos para o fígado. O uso deve ser evitado por longos períodos. Pessoas com problemas hepáticos não devem usar. Não recomendado para mulheres grávidas e lactantes.",
     "imagemUrl": "https://i.imgur.com/x0r4qfB.jpeg"
   },
   {
     "id": 24,
     "nomePopular": "Amor do Hortelão",
     "nomeCientifico": "Galium aparine",
-    "parteUsada": "Partes aéreas",
-    "formaDeUsoPrincipal": "Chá, Suco fresco, Tintura",
+    "parteUsada": "Folhas e caules",
+    "formaDeUsoPrincipal": "Suco, Compressa, Chá",
     "usosPrincipais": [
-      "Tônico linfático (linfonodos inchados)",
-      "Diurético (cistite, pedras nos rins)",
-      "Problemas de pele (psoríase, eczema)",
-      "Limpeza e desintoxicação do corpo",
-      "Úlceras e feridas (uso externo)"
+      "Desintoxicar o Corpo, Drenar o Sistema Linfático", "Acne, Psoríase, Eczema, Abscessos e Furúnculos", "Infecções na Bexiga e no Trato Urinário", "Pedras nos Rins", "Câncer", "Neoplasias e Febres", "Erupções na Pele", "Estancar Sangramentos e Aliviar Queimadura", "Amigdalite, Dor de Garganta", "Problemas de Próstata"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Chá de Amor do Hortelão",
-        "descricao": "2-3 colheres de chá da erva fresca (ou 1 seca) por xícara de água fervente. Infusão por 10-15 minutos. Beba 3 vezes ao dia."
-      },
-      {
-        "titulo": "Suco Fresco",
-        "descricao": "Bata um punhado da planta fresca com um pouco de água no liquidificador e coe. Tomar em pequenas doses."
+        "titulo": "Suco de Amor do Hortelão",
+        "descricao": "1 xícara de folhas frescas e 1 xícara de água. Misture no liquidificador e coe. Tome 2 xícaras (150 ml) por dia. O mesmo suco pode ser usado para compressas."
       }
     ],
-    "cuidadosEContraindicacoes": "Geralmente seguro. Pessoas com diabetes devem usar com cautela devido ao efeito diurético. Evitar durante a gravidez por falta de estudos.",
+    "cuidadosEContraindicacoes": "É considerada uma planta segura, mas deve ser evitada durante a gravidez e lactação por falta de estudos conclusivos.",
     "imagemUrl": "https://i.imgur.com/z4b0mNq.jpeg"
   },
   {
@@ -669,43 +486,32 @@ export const HERBS: Herb[] = [
     "nomePopular": "Poejo",
     "nomeCientifico": "Mentha pulegium",
     "parteUsada": "Folhas e flores",
-    "formaDeUsoPrincipal": "Chá, Xarope",
+    "formaDeUsoPrincipal": "Chá",
     "usosPrincipais": [
-      "Expectorante (gripes, resfriados, bronquite)",
-      "Digestivo (gases, indigestão)",
-      "Repelente de insetos",
-      "Alívio de cólicas menstruais (emenagogo)",
-      "Febre (diaforético)"
+      "Tosse, Bronquite, Gripe e Resfriado", "Indigestão, Gases e Cólicas Intestinais", "Cólicas Menstruais", "Ansiedade e Insônia", "Parasitas Intestinais"
     ],
     "receitasRapidas": [
       {
         "titulo": "Chá de Poejo",
-        "descricao": "1 colher de chá de folhas secas por xícara de água fervente. Infusão por 5-10 minutos. Beba até 3 vezes ao dia."
+        "descricao": "1 colher de chá de folhas secas (ou o dobro de frescas) para 1 xícara de água (150 ml). Despeje a água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
       }
     ],
-    "cuidadosEContraindicacoes": "Contém pulegona, uma substância tóxica para o fígado e que pode induzir o aborto. NÃO DEVE SER CONSUMIDO POR GESTANTES. Usar com moderação e por curtos períodos. O óleo essencial é altamente tóxico e não deve ser ingerido.",
+    "cuidadosEContraindicacoes": "A planta contém pulegona, um composto que pode ser tóxico em grandes quantidades, especialmente para o fígado e os rins. O uso durante a gravidez é contraindicado devido ao risco de aborto.",
     "imagemUrl": "https://i.imgur.com/5lR3s1P.jpeg"
   },
   {
     "id": 26,
     "nomePopular": "Licopódio",
     "nomeCientifico": "Lycopodium clavatum",
-    "parteUsada": "Esporos (pó), Folhas (chá)",
+    "parteUsada": "Esporos, Raízes",
     "formaDeUsoPrincipal": "Pó, Decocção",
     "usosPrincipais": [
-      "Problemas no Sistema Urinário e Pedras nos Rins",
-      "Problemas de Pele (alergias, psoríase, eczema)",
-      "Tratamento de Feridas",
-      "Artrite Reumatoide"
+      "Problemas no Sistema Urinário e Pedras nos Rins", "Problemas de Pele (alergias, psoríase, eczema)", "Tratamento de Feridas", "Artrite Reumatoide"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Pó de Esporos para Pele",
-        "descricao": "Esfregue o pó formado pelos esporos na área afetada para tratar alergias, queimaduras, eczema, infecções fúngicas e outras dermatites."
-      },
-      {
-        "titulo": "Decocção para Uso Interno",
-        "descricao": "1 colher de sobremesa de raízes secas para 1 xícara de água (150 ml). Ferver em fogo brando por 5 minutos. Beba 3 xícaras por dia para problemas urinários."
+        "titulo": "Decocção de Licopódio",
+        "descricao": "1 colher de sobremesa de raízes secas para 1 xícara de água (150 ml). Ferver por 5 minutos em fogo brando. Beba 3 xícaras por dia."
       }
     ],
     "cuidadosEContraindicacoes": "Contém pequenas quantidades de alcaloides, que são uma substância tóxica e podem causar paralisia nos nervos motores se consumidos em grandes quantidades.",
@@ -715,15 +521,10 @@ export const HERBS: Herb[] = [
     "id": 27,
     "nomePopular": "Tussilagem",
     "nomeCientifico": "Tussilago farfara",
-    "parteUsada": "Folhas, Flores",
+    "parteUsada": "Folhas, Flores, Raízes",
     "formaDeUsoPrincipal": "Decocção, Óleo medicado, Cataplasma",
     "usosPrincipais": [
-      "Asma, Tosse Convulsa, Laringite, Tosse, Enfisema e Bronquite",
-      "Expectorante",
-      "Emoliente e Demulcente",
-      "Diurética",
-      "Sistema Imunológico",
-      "Eczema, Feridas e Irritações na pele"
+      "Asma, Tosse Convulsa, Laringite, Tosse, Enfisema e Bronquite", "Expectorante", "Emoliente e Demulcente", "Diurética", "Sistema Imunológico", "Eczema, Feridas e Irritações na pele"
     ],
     "receitasRapidas": [
       {
@@ -741,28 +542,19 @@ export const HERBS: Herb[] = [
     "parteUsada": "Folhas",
     "formaDeUsoPrincipal": "Chá, Óleo infundido",
     "usosPrincipais": [
-      "Doenças Hepáticas, Hepatite, Cirrose",
-      "Previne e Trata Queda de Cabelos",
-      "Artrite, Dores Musculares e Inflamações",
-      "Problemas Respiratórios, Asma, Bronquite",
-      "Diabetes",
-      "Cicatrizante, Dermatites, Eczema, Ferida, Furúnculos",
-      "Distúrbios Digestivos",
-      "Transtornos Cognitivos",
-      "Doenças Cardiovasculares",
-      "Distúrbios Reprodutivos"
+      "Doenças Hepáticas, Hepatite, Cirrose", "Previne e Trata Queda de Cabelos", "Artrite, Dores Musculares e Inflamações", "Problemas Respiratórios, Asma, Bronquite", "Diabetes", "Cicatrizante, Dermatites, Eczema, Ferida, Furúnculos", "Distúrbios Digestivos", "Transtornos Cognitivos", "Doenças Cardiovasculares", "Distúrbios Reprodutivos"
     ],
     "receitasRapidas": [
       {
         "titulo": "Chá de Erva Botão",
-        "descricao": "1 colher de chá de folhas secas ou 2 de frescas para 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
+        "descricao": "1 colher de chá de folhas secas (ou 2 de frescas) para 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
       },
       {
         "titulo": "Óleo Infundido de Erva Botão",
         "descricao": "Para uso nos cabelos ou aplicação externa na pele, pode ser feito o óleo infundido com as folhas."
       }
     ],
-    "cuidadosEContraindicacoes": "Evitar por grávidas e lactantes. Pode reduzir a pressão arterial, exigindo cautela. Pode interagir com medicamentos metabolizados pelo fígado.",
+    "cuidadosEContraindicacoes": "Deve ser evitada por grávidas e lactantes. Pode reduzir a pressão arterial, exigindo cautela. Pode interagir com medicamentos metabolizados pelo fígado.",
     "imagemUrl": "https://i.imgur.com/eun02sC.jpeg"
   },
   {
@@ -772,16 +564,12 @@ export const HERBS: Herb[] = [
     "parteUsada": "Caules, Folhas",
     "formaDeUsoPrincipal": "Chá",
     "usosPrincipais": [
-      "Problemas ósseos, Artrite, Tendinite, Bursite e Dores Musculares",
-      "Contenção de Sangramentos",
-      "Cálculos Renais, Infecção Urinária, Inchaço e Gota",
-      "Infecções",
-      "Fungos nos Pés e nas Unhas"
+      "Problemas ósseos, Artrite, Tendinite, Bursite e Dores Musculares", "Contenção de Sangramentos", "Cálculos Renais, Infecção Urinária, Inchaço e Gota", "Infecções", "Fungos nos Pés e nas Unhas"
     ],
     "receitasRapidas": [
       {
         "titulo": "Chá de Equisetum",
-        "descricao": "1 colher de chá de caules e folhas secas para 1 xícara de água (150 ml). Se usar frescos, dobre a quantidade. Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
+        "descricao": "1 colher de chá de caules e folhas secas (ou o dobro de frescos) para 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
       }
     ],
     "cuidadosEContraindicacoes": "O uso contínuo ou excessivo pode sobrecarregar o fígado e causar problemas hepáticos. Por ser diurética, pode causar desequilíbrio eletrolítico. Não use por períodos superiores a 30 dias.",
@@ -794,14 +582,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Raiz",
     "formaDeUsoPrincipal": "Decocção",
     "usosPrincipais": [
-      "Indigestão",
-      "Flatulência",
-      "Falta de apetite",
-      "Anemia Ferropriva",
-      "Infecções por Micro-organismos",
-      "Doenças do fígado e Pedras na Vesícula Biliar",
-      "Problemas circulatórios",
-      "Inflamações"
+      "Indigestão", "Flatulência", "Falta de apetite", "Anemia Ferropriva", "Infecções por Micro-organismos", "Doenças do fígado e Pedras na Vesícula Biliar", "Problemas circulatórios", "Inflamações"
     ],
     "receitasRapidas": [
       {
@@ -819,16 +600,12 @@ export const HERBS: Herb[] = [
     "parteUsada": "Fruto, Folhas, Sementes",
     "formaDeUsoPrincipal": "Chá, Cataplasma",
     "usosPrincipais": [
-      "Diabetes",
-      "Antioxidante",
-      "Diurético, Eliminação de Toxinas e Problemas Renais",
-      "Cicatrização e Furúnculos",
-      "Asma e Bronquite"
+      "Diabetes", "Antioxidante", "Diurético, Eliminação de Toxinas e Problemas Renais", "Cicatrização e Furúnculos", "Asma e Bronquite"
     ],
     "receitasRapidas": [
       {
         "titulo": "Chá de Purungo",
-        "descricao": "1 colher de chá de folhas secas para uma 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade. Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
+        "descricao": "1 colher de chá de folhas secas (ou o dobro de frescas) para uma 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
       }
     ],
     "cuidadosEContraindicacoes": "Usar com moderação, pois o consumo excessivo pode causar desconforto gastrointestinal.",
@@ -841,47 +618,33 @@ export const HERBS: Herb[] = [
     "parteUsada": "Folhas, Casca",
     "formaDeUsoPrincipal": "Chá, Pomada, Compressa",
     "usosPrincipais": [
-      "Varizes",
-      "Hemorroidas",
-      "Problemas Oculares",
-      "Doença da Pele, Dermatose, Eczemas",
-      "Pele Ressecada",
-      "Menopausa",
-      "Hemorragia"
+      "Varizes", "Hemorroidas", "Problemas Oculares", "Doença da Pele, Dermatose, Eczemas", "Pele Ressecada", "Menopausa", "Hemorragia"
     ],
     "receitasRapidas": [
       {
         "titulo": "Chá de Folhas de Hamamelis",
-        "descricao": "1 colher de chá de folhas secas ou 2 de frescas para 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
+        "descricao": "1 colher de chá de folhas secas (ou o dobro de frescas) para 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
       }
     ],
-    "cuidadosEContraindicacoes": "Não usar internamente por grávidas, lactantes ou menores de 12 anos. Não usar em caso de lesões do trato digestivo. A ingestão exagerada pode causar náuseas e vômitos.",
+    "cuidadosEContraindicacoes": "Não deve ser usado internamente por grávidas, mulheres amamentando ou menores de 12 anos de idade. Não deve ser usado em caso de lesões da mucosa do trato digestivo. A ingestão exagerada de pode causar náuseas, vómitos e dor de estômago.",
     "imagemUrl": "https://i.imgur.com/d7K9gLp.jpeg"
   },
   {
     "id": 33,
     "nomePopular": "Confrei",
     "nomeCientifico": "Symphytum officinale",
-    "parteUsada": "Raiz e folhas",
-    "formaDeUsoPrincipal": "Cataplasma, Pomada, Compressa (Uso externo)",
+    "parteUsada": "Raiz, Folhas",
+    "formaDeUsoPrincipal": "Pomada de Confrei (uso externo)",
     "usosPrincipais": [
-      "Cicatrizante de feridas e ossos (fraturas)",
-      "Contusões, entorses e distensões musculares",
-      "Anti-inflamatório para articulações",
-      "Queimaduras e irritações na pele",
-      "Úlceras de pele"
+      "Tosse, Congestão e Asma", "Entorses e Contusões", "Dor nas Costas", "Osteoartrite", "Lesões na Pele, Queimaduras, Furúnculos, Acnes, Eczema, Psoríase e Feridas"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Cataplasma de Folhas Frescas",
-        "descricao": "Esmague folhas frescas de confrei até formar uma pasta. Aplique diretamente sobre a área afetada (fratura, contusão) e cubra com uma gaze. Troque a cada poucas horas."
-      },
-      {
-        "titulo": "Óleo Infuso de Confrei (para pomadas)",
-        "descricao": "Pique a raiz seca e coloque em um frasco com azeite de oliva. Deixe em local aquecido por 2 a 4 semanas, coe e use para fazer pomadas."
+        "titulo": "Pomada de Confrei",
+        "descricao": "Veja o livro sobre preparações medicinais que você recebeu como bônus."
       }
     ],
-    "cuidadosEContraindicacoes": "NÃO USAR INTERNAMENTE. Contém alcaloides pirrolizidínicos que são tóxicos para o fígado. O uso deve ser estritamente externo e em pele intacta (não aplicar em feridas abertas e profundas).",
+    "cuidadosEContraindicacoes": "Evite o uso interno do Confrei, pois ele contém alguns compostos que podem ser tóxicos se ingeridos.",
     "imagemUrl": "https://i.imgur.com/9vJ8B2K.jpeg"
   },
   {
@@ -891,11 +654,7 @@ export const HERBS: Herb[] = [
     "parteUsada": "Raízes",
     "formaDeUsoPrincipal": "Decocção",
     "usosPrincipais": [
-      "Gota",
-      "Artrite Reumatoide",
-      "Problemas do Trato Urinário, Pedras nos Rins",
-      "Próstata Inchada",
-      "Icterícia"
+      "Gota", "Artrite Reumatoide", "Problemas do Trato Urinário, Pedras nos Rins", "Próstata Inchada", "Icterícia"
     ],
     "receitasRapidas": [
       {
@@ -908,1057 +667,1256 @@ export const HERBS: Herb[] = [
   },
   {
     "id": 35,
-    "nomePopular": "Dente-de-leão",
+    "nomePopular": "Dente de Leão",
     "nomeCientifico": "Taraxacum officinale",
-    "parteUsada": "Folhas, raízes, flores",
-    "formaDeUsoPrincipal": "Chá, Decocção, Salada (folhas frescas)",
+    "parteUsada": "Folhas, Raízes",
+    "formaDeUsoPrincipal": "Chá, Decocção",
     "usosPrincipais": [
-      "Tônico para o fígado e vesícula biliar",
-      "Diurético (sem perda de potássio)",
-      "Melhora a digestão e estimula o apetite",
-      "Fonte de vitaminas e minerais (A, C, K, Ferro)",
-      "Problemas de pele (acne, eczema)",
-      "Purificador do sangue"
+      "Perda de Peso", "Redução do Colesterol", "Função do Fígado e Vesícula Biliar", "Problemas Digestivos, Gases e Inchaço", "Diurético", "Diabetes", "Anti-inflamatório e Alívio da Dor", "Desintoxicação"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Chá das Folhas (Diurético)",
-        "descricao": "1-2 colheres de chá de folhas secas por xícara de água fervente. Infusão por 10 minutos."
+        "titulo": "Decocção de Raiz Dente de Leão",
+        "descricao": "1 colher de sobremesa de raízes secas para 1 xícara de água (150 ml). Ferver por 5 minutos em fogo brando. Beba 3 xícaras por dia."
       },
       {
-        "titulo": "Decocção da Raiz (Fígado)",
-        "descricao": "1 colher de chá de raiz seca e picada por xícara de água. Ferver em fogo baixo por 10-15 minutos. Beba antes das refeições."
+        "titulo": "Chá das Folhas de Dente de Leão",
+        "descricao": "1 colher de chá de folhas secas (ou o dobro de frescas) para 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
       }
     ],
-    "cuidadosEContraindicacoes": "Geralmente seguro. Evitar em caso de obstrução dos ductos biliares ou alergia a plantas da família Asteraceae.",
+    "cuidadosEContraindicacoes": "Geralmente considerado seguro. Não recomendado para quem tem doença hemorroidal ou inflamação do intestino. Não tomar se estiver grávida ou amamentando sem consultar um médico.",
     "imagemUrl": "https://i.imgur.com/p5M0w8p.jpeg"
   },
   {
     "id": 36,
-    "nomePopular": "Língua-de-vaca",
+    "nomePopular": "Língua de Vaca",
     "nomeCientifico": "Rumex crispus",
-    "parteUsada": "Raiz",
-    "formaDeUsoPrincipal": "Decocção, Tintura",
+    "parteUsada": "Folhas, Raízes",
+    "formaDeUsoPrincipal": "Chá",
     "usosPrincipais": [
-        "Alterativo (limpador do sangue)",
-        "Laxante suave (em doses baixas, é adstringente)",
-        "Tônico para o fígado",
-        "Tratamento de problemas de pele crônicos (associados a toxinas)",
-        "Fonte de ferro (para anemia)"
+      "Constipação e Diarreia", "Anti-inflamatório", "Desintoxicação", "Antioxidante", "Problemas de Pele", "Fígado e Vesícula Biliar", "Benefícios para o Sangue e a Circulação Sanguínea", "Diabetes"
     ],
     "receitasRapidas": [
-        {
-            "titulo": "Decocção de Raiz de Língua-de-vaca",
-            "descricao": "1-2 colheres de chá de raiz seca picada por xícara de água. Ferver em fogo baixo por 10-15 minutos. Tomar 1-2 vezes ao dia."
-        }
+      {
+        "titulo": "Chá de Língua de Vaca",
+        "descricao": "1 colher de chá de folhas secas (ou o dobro de frescas) para 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
+      }
     ],
-    "cuidadosEContraindicacoes": "Contém oxalatos, evitar o uso prolongado ou em altas doses por pessoas com tendência a pedras nos rins. Não usar em caso de irritação intestinal.",
+    "cuidadosEContraindicacoes": "O uso prolongado pode levar à dependência de laxantes. O consumo excessivo pode causar desequilíbrio eletrolítico.",
     "imagemUrl": "https://i.imgur.com/v8R4s7D.jpeg"
   },
   {
     "id": 37,
     "nomePopular": "Ênula",
     "nomeCientifico": "Inula helenium",
-    "parteUsada": "Raiz",
-    "formaDeUsoPrincipal": "Decocção, Xarope, Tintura",
+    "parteUsada": "Raízes, Folhas",
+    "formaDeUsoPrincipal": "Chá, Decocção",
     "usosPrincipais": [
-        "Expectorante potente (bronquite crônica, asma, tosse com catarro espesso)",
-        "Antisséptico pulmonar",
-        "Tônico digestivo (estimula a digestão)",
-        "Antiparasitário (vermífugo)"
+      "Antimicrobiana", "Tônico", "Tosse e Catarro", "Melhora a Digestão", "Diabetes", "Diurética"
     ],
     "receitasRapidas": [
-        {
-            "titulo": "Decocção de Raiz de Ênula",
-            "descricao": "1 colher de chá de raiz seca picada por xícara de água. Ferver em fogo baixo por 10-15 minutos. Beba 3 vezes ao dia."
-        }
+      {
+        "titulo": "Chá de Folhas de Ênula",
+        "descricao": "1 colher de chá de folhas secas (ou o dobro de frescas) para 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
+      },
+      {
+        "titulo": "Decocção de Raízes de Ênula",
+        "descricao": "1 colher de sobremesa de raízes secas para 1 xícara de água (150 ml). Ferver por 5 minutos em fogo brando. Beba 3 xícaras por dia."
+      }
     ],
-    "cuidadosEContraindicacoes": "Evitar em doses altas, pode causar náuseas e vômitos. Não usar na gravidez. Pessoas alérgicas a plantas da família Asteraceae podem ter reações.",
+    "cuidadosEContraindicacoes": "O uso excessivo pode causar náuseas, vômitos e diarreia. Suspender o uso 1 semana antes de cirurgias. Mulheres grávidas e lactantes não devem usar sem acompanhamento médico.",
     "imagemUrl": "https://i.imgur.com/f9L8g7s.jpeg"
   },
   {
     "id": 38,
     "nomePopular": "Funcho",
     "nomeCientifico": "Foeniculum vulgare",
-    "parteUsada": "Sementes, folhas, raiz",
-    "formaDeUsoPrincipal": "Chá, Decocção, Alimento",
+    "parteUsada": "Sementes, Raiz",
+    "formaDeUsoPrincipal": "Chá, Decocção",
     "usosPrincipais": [
-        "Alívio de gases e cólicas (carminativo)",
-        "Melhora a digestão",
-        "Expectorante para tosse e resfriados",
-        "Promove a produção de leite (galactagogo)",
-        "Alívio de dores menstruais",
-        "Anti-inflamatório para os olhos (compressa)"
+      "Problemas Digestivos", "Cólicas em Bebês", "Problemas Urinários e Pedras nos Rins", "Problemas Menstruais e Tensão Pré-Menstrual", "Diurético"
     ],
     "receitasRapidas": [
-        {
-            "titulo": "Chá de Sementes de Funcho",
-            "descricao": "1 colher de chá de sementes levemente esmagadas por xícara de água fervente. Deixar em infusão por 10 minutos."
-        },
-        {
-            "titulo": "Decocção da Raiz",
-            "descricao": "Ferver 1 colher de chá de raiz picada em uma xícara de água por 10 minutos. Útil para problemas urinários."
-        }
+      {
+        "titulo": "Chá de Sementes Funcho",
+        "descricao": "1 colher de chá de sementes para 1 xícara (150 ml) de água. Despeje água fervente. Beba 3 xícaras por dia. Para problemas digestivos, beba antes ou logo após as refeições."
+      },
+      {
+        "titulo": "Decocção de Raiz de Funcho",
+        "descricao": "1 colher de sobremesa de raízes secas picadas para 1 xícara de água (150 ml). Ferver por 5 minutos em fogo brando. Beba 3 xícaras por dia."
+      }
     ],
-    "cuidadosEContraindicacoes": "Evitar em altas doses durante a gravidez. O óleo essencial não deve ser ingerido e pode causar reações na pele.",
+    "cuidadosEContraindicacoes": "Por ter propriedades fotoestimuladores, algumas pessoas podem apresentar manchas na pele. Não deve ser consumido por mulheres grávidas.",
     "imagemUrl": "https://i.imgur.com/3sF3n5R.jpeg"
   },
   {
     "id": 39,
     "nomePopular": "Tanaceto",
-    "nomeCientifico": "Tanacetum vulgare",
-    "parteUsada": "Folhas e flores",
-    "formaDeUsoPrincipal": "Chá, Tintura (uso cuidadoso)",
+    "nomeCientifico": "Tanacetum parthenium",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá",
     "usosPrincipais": [
-        "Expulsão de vermes intestinais",
-        "Estimulante menstrual (emenagogo)",
-        "Alívio de enxaquecas e febre",
-        "Repelente de insetos (uso externo)",
-        "Tratamento de contusões e reumatismo (uso tópico)"
+      "Enxaquecas e Dores de Cabeça de Origem Muscular", "Febre, gripes e resfriados e Cólicas", "Cólicas Menstruais e Regulação da Menstruação", "Sedativo"
     ],
     "receitasRapidas": [
-        {
-            "titulo": "Chá para Uso Externo",
-            "descricao": "Fazer uma infusão forte com 2 colheres de sopa da erva seca para 250ml de água. Usar como compressa em áreas doloridas."
-        }
+      {
+        "titulo": "Chá de Tanaceto",
+        "descricao": "1 colher de chá de folhas secas (ou o dobro de frescas) para 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
+      }
     ],
-    "cuidadosEContraindicacoes": "Planta tóxica. Contém tujona, que pode causar convulsões e danos ao sistema nervoso. NÃO DEVE SER USADA POR GESTANTES (é abortiva). O uso interno deve ser feito apenas sob estrita supervisão de um profissional experiente.",
+    "cuidadosEContraindicacoes": "Algumas pessoas têm uma reação alérgica. Mastigar as folhas pode causar feridas na boca. Não use durante a gravidez. Não use com problemas de coagulação sanguínea ou anticoagulantes.",
     "imagemUrl": "https://i.imgur.com/K7p9e4G.jpeg"
   },
   {
     "id": 40,
-    "nomePopular": "Arnica-brasileira",
-    "nomeCientifico": "Solidago microglossa",
-    "parteUsada": "Flores e folhas",
-    "formaDeUsoPrincipal": "Compressa, Pomada (uso externo)",
+    "nomePopular": "Arnica Brasileira",
+    "nomeCientifico": "Solidago chilensis",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá",
     "usosPrincipais": [
-        "Anti-inflamatório e analgésico",
-        "Tratamento de contusões, hematomas e dores musculares",
-        "Alívio de dores articulares e reumatismo",
-        "Cicatrizante para ferimentos superficiais"
+      "Dores nas Articulações", "Trato Urinário e Rins", "Antifúngico", "Pele, Feridas e Controle de Sangramento", "Resfriados, Alergias e Congestão Brônquica", "Diarreia", "Reforça o Sistema Cardiovascular"
     ],
     "receitasRapidas": [
-        {
-            "titulo": "Compressa para Contusões",
-            "descricao": "Fazer um chá forte com 2 colheres de sopa da erva para 250ml de água. Coar, esperar amornar e aplicar com um pano sobre a área afetada."
-        }
+      {
+        "titulo": "Chá de Arnica Brasileira",
+        "descricao": "1 colher de sobremesa de folhas secas para 1 xícara de água. Despeje a água fervente sobre as ervas, tampe, aguarde esfriar e coe. Beba 1 xícara, 3 vezes por dia."
+      }
     ],
-    "cuidadosEContraindicacoes": "Uso estritamente externo. Não ingerir, pois é tóxica. Não aplicar sobre feridas abertas. Pode causar dermatite em pessoas sensíveis.",
+    "cuidadosEContraindicacoes": "Por ser diurética, não deve ser usada por quem tem problemas renais crônicos. Em locais de clima quente, redobre os cuidados com a desidratação. Em algumas pessoas, pode causar aumento da pressão arterial. Não use se estiver grávida, pois não há estudos sobre possíveis riscos ao bebê.",
     "imagemUrl": "https://i.imgur.com/C9r8m3Q.jpeg"
   },
   {
     "id": 41,
-    "nomePopular": "Cúrcuma",
-    "nomeCientifico": "Curcuma longa",
-    "parteUsada": "Rizoma",
-    "formaDeUsoPrincipal": "Pó, Chá",
+    "nomePopular": "Agrião",
+    "nomeCientifico": "Nasturtium officinale",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Salada, Suco, Chá com mel",
     "usosPrincipais": [
-      "Anti-Inflamatório",
-      "Antioxidante",
-      "Artrite, Artrite Reumatoide e Osteoartrite",
-      "Propriedades Antimicrobianas e Cicatrização",
-      "Função Cerebral e Prevenção de Doenças Neurodegenerativas",
-      "Câncer",
-      "Doenças Cardíacas",
-      "Trombose",
-      "Reduz os Níveis de Colesterol e Triglicerídeos"
+      "Tosse e problemas pulmonares", "Antimicrobiano e Tuberculose", "Diabetes", "Colesterol e Triglicerídeos", "Câncer", "Proteção do fígado e dos rins", "Pedras nos rins", "Anti-inflamatório", "Cicatrização de feridas"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Água de Cúrcuma",
-        "descricao": "Adicionar 1 colher de chá do rizoma em um pouco de água e beber. Repita de 2 a 3 vezes por dia."
+        "titulo": "Salada",
+        "descricao": "Incluir como salada durante as refeições, principalmente para problemas crônicos como diabetes e colesterol."
+      },
+      {
+        "titulo": "Suco de Agrião",
+        "descricao": "Use 1 xícara de folhas frescas de Agrião e 1 copo de água. Misture no liquidificador e coe se desejar. Beba de 1 a 2 copos por dia."
+      },
+      {
+        "titulo": "Agrião com mel para tosse",
+        "descricao": "Use um maço de Agrião fresco e corte as folhas e caules. Ferva em uma xícara de água. Cozinhe por 5 a 10 minutos. Coe. Adicione 1 a 2 colheres de sopa de mel. Espere esfriar e beba de 2 a 3 vezes ao dia."
       }
     ],
-    "cuidadosEContraindicacoes": "Pode retardar a coagulação do sangue. Usar com cautela com anticoagulantes. Suspender o uso uma semana antes de cirurgias. Evitar na gravidez.",
-    "imagemUrl": "https://i.imgur.com/v8R4s7D.jpeg"
+    "cuidadosEContraindicacoes": "Em geral, o uso do Agrião é muito seguro e a minha única recomendação é evitar o consumo exagerado, que pode causar distúrbios gastrointestinais devido ao elevado teor de fibras.",
+    "imagemUrl": "https://i.imgur.com/2bB1J3G.jpeg"
   },
   {
     "id": 42,
-    "nomePopular": "Lúpulo",
-    "nomeCientifico": "Humulus lupulus",
-    "parteUsada": "Flores femininas (cones)",
-    "formaDeUsoPrincipal": "Chá, Tintura, Travesseiro aromático",
+    "nomePopular": "Alho",
+    "nomeCientifico": "Allium sativum",
+    "parteUsada": "Bulbo (dentes)",
+    "formaDeUsoPrincipal": "Cru, Chá, Água de alho, Tintura, Óleo",
     "usosPrincipais": [
-        "Sedativo e indutor do sono (insônia)",
-        "Alívio da ansiedade, tensão e nervosismo",
-        "Tônico amargo para estimular a digestão",
-        "Antiespasmódico (cólicas digestivas e menstruais)",
-        "Alívio de sintomas da menopausa (contém fitoestrógenos)"
+      "Infecções Virais, Bacterianas e Parasitárias", "Candidíase, Fungos e Infecções Fúngicas", "Diabetes", "Bronquite, Asma, Congestão", "Níveis Elevados de Colesterol e de Pressão Arterial", "Verrugas, Acne, Micoses"
     ],
     "receitasRapidas": [
-        {
-            "titulo": "Chá para Dormir",
-            "descricao": "Infundir 1-2 cones de lúpulo em uma xícara de água fervente por 10-15 minutos. Beber antes de deitar."
-        },
-        {
-            "titulo": "Travesseiro de Ervas",
-            "descricao": "Encher uma pequena almofada com cones de lúpulo secos para inalar o aroma relaxante durante a noite."
-        }
+      {
+        "titulo": "Chá de Alho",
+        "descricao": "Coloque 3 dentes de alho moído e 500 ml de água em uma panela. Deixe ferver em fogo baixo por 5 minutos. Desligue o fogo e espere esfriar. Coe e guarde na geladeira por até 24 horas. Beba 10 ml, repetindo 3 vezes por dia."
+      },
+      {
+        "titulo": "Água de Alho",
+        "descricao": "Coloque 1 dente de alho esmagado em 1 copo de água e deixe pernoitar. Na manhã seguinte, coe para retirar os fragmentos de alho e beba. Reduz o colesterol e o açúcar no sangue."
+      }
     ],
-    "cuidadosEContraindicacoes": "Pode causar sonolência, evitar antes de dirigir. Não recomendado para pessoas com depressão. O uso de longo prazo não é aconselhado devido aos efeitos hormonais.",
-    "imagemUrl": "https://i.imgur.com/x5v8p9B.jpeg"
+    "cuidadosEContraindicacoes": "Pode causar mau hálito e odor corporal. Em excesso, pode causar irritação gastrointestinal. Pode interagir com anticoagulantes.",
+    "imagemUrl": "https://i.imgur.com/o1b2m3n.jpeg"
   },
   {
     "id": 43,
-    "nomePopular": "Raiz Forte",
-    "nomeCientifico": "Armoracia rusticana",
-    "parteUsada": "Raiz",
-    "formaDeUsoPrincipal": "Cataplasma, Chá, Vinagre",
+    "nomePopular": "Amaranto",
+    "nomeCientifico": "Amaranthus caudatus",
+    "parteUsada": "Folhas, sementes",
+    "formaDeUsoPrincipal": "Chá, Decocção, Alimento",
     "usosPrincipais": [
-      "Feridas Infectadas",
-      "Problemas Respiratórios, Gripe, Febres",
-      "Infecções do Trato Urinário",
-      "Artrite e Inflamações da Pele"
+      "Diabetes", "Vermes Intestinais", "Malária", "Candidíases, Infecções Urinárias, Infecções por Fungos e Bactérias", "Analgésico, Anti-inflamatório e Febre", "Reduz o Colesterol", "Doenças Crônicas, Degenerativas e Envelhecimento"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Decocção de Raiz Forte",
-        "descricao": "1 colher de sobremesa de raiz seca picada ou ralada para 150 ml de água. Ferver em fogo baixo por 5 minutos. Beba 3 vezes por dia (50 ml por vez)."
+        "titulo": "Chá de Amaranto",
+        "descricao": "Uma colher de sobremesa das folhas secas para 1 xícara de água (150 ml). Despeje a água fervente sobre as ervas, tampe, aguarde esfriar. Beba 3 xícaras distribuídas ao longo do dia."
+      },
+      {
+        "titulo": "Decocção de Raiz de Amaranto",
+        "descricao": "Use 1 colher de sobremesa das raízes de Amaranto picadas para 1 xícara de água (150 ml). Coloque as ervas e a água em uma panela, leve ao fogo baixo e deixe cozinhar por 5 minutos. Use para lavar feridas e micoses externas ou para mergulhar as partes afetadas."
       }
     ],
-    "cuidadosEContraindicacoes": "Não usar em caso de úlceras estomacais, doença hemorroidal e problemas de tireoide. Pode causar irritação na pele em aplicação direta.",
-    "imagemUrl": "https://i.imgur.com/rS2a8Vf.jpeg"
+    "cuidadosEContraindicacoes": "Investigações de toxicidade aguda mostraram que o Amaranto pode ser usado com segurança. Porém, recomendo que mulheres grávidas não façam uso do Amaranto sem acompanhamento médico.",
+    "imagemUrl": "https://i.imgur.com/N7b0g8f.jpeg"
   },
   {
     "id": 44,
-    "nomePopular": "Tupinambur",
-    "nomeCientifico": "Helianthus tuberosus",
-    "parteUsada": "Tubérculos",
-    "formaDeUsoPrincipal": "Suco, Alimento",
+    "nomePopular": "Amora Branca",
+    "nomeCientifico": "Morus alba",
+    "parteUsada": "Folhas, frutos, casca da raiz",
+    "formaDeUsoPrincipal": "Chá, Alimento",
     "usosPrincipais": [
-      "Controle do Colesterol",
-      "Diabetes",
-      "Problemas Digestivos"
+      "Diabetes", "Hipertensão", "Colesterol alto", "Problemas respiratórios", "Inflamações", "Distúrbios digestivos", "Infecções bacterianas", "Proteção do fígado", "Envelhecimento precoce", "Hiperpigmentação da pele", "Obesidade", "Anemia", "Artrite", "Infecções virais", "Febre", "Analgésica", "Menopausa"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Suco de Tupinambur",
-        "descricao": "1 xícara de Tupinambur picado e 1 copo de água. Misture no liquidificador e beba 1 copo por dia logo ao acordar."
+        "titulo": "Chá de Amora Branca",
+        "descricao": "1 colher de chá de folhas de folhas secas ou 2 colheres de chá de folhas frescas para uma 1 xícara de água (150 ml). Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Coe para retirar as ervas e tome 3 xícaras por dia."
       }
     ],
-    "cuidadosEContraindicacoes": "Pode causar desconforto digestivo e gases excessivos em algumas pessoas.",
-    "imagemUrl": "https://i.imgur.com/k9b8R7t.jpeg"
+    "cuidadosEContraindicacoes": "Pessoas com hipoglicemia ou em tratamento para diabetes devem monitorar cuidadosamente os níveis de glicose. Suspender seu uso antes de procedimentos cirúrgicos, já que pode interferir na coagulação sanguínea.",
+    "imagemUrl": "https://i.imgur.com/J7d8K4L.jpeg"
   },
   {
     "id": 45,
-    "nomePopular": "Ançarinha-branca",
-    "nomeCientifico": "Chenopodium album",
-    "parteUsada": "Folhas e sementes",
-    "formaDeUsoPrincipal": "Alimento (cozido), Cataplasma",
+    "nomePopular": "Angelica",
+    "nomeCientifico": "Angelica archangelica",
+    "parteUsada": "Raízes, folhas e sementes",
+    "formaDeUsoPrincipal": "Chá, Decocção",
     "usosPrincipais": [
-        "Altamente nutritiva (rica em vitaminas A, C, e minerais)",
-        "Laxante suave",
-        "Anti-inflamatório (cataplasma para picadas de insetos e dores articulares)",
-        "Alívio de dores de dente (mascar as folhas)",
-        "Vermífugo (sementes)"
+      "Ansiedade e Estresse", "Insônia", "Problemas Digestivos, Gases, Cólicas Estomacais", "Espasmos Musculares e Cólicas Menstruais", "Inflamação e Dor", "Doenças Respiratórias, Tosse, Bronquite", "Varizes e Problemas Circulatórios", "Dispepsia, Apetite e Digestão", "Dor de Cabeça e Enxaqueca", "Dermatite, Acne e Eczema", "Desintoxicação e Fígado Sobrecarregado", "Candidíase, Micoses, Infecções Fúngicas"
     ],
     "receitasRapidas": [
-        {
-            "titulo": "Consumo Alimentar",
-            "descricao": "Cozinhar as folhas como espinafre para remover oxalatos e saponinas. Podem ser adicionadas a sopas e refogados."
-        },
-        {
-            "titulo": "Cataplasma",
-            "descricao": "Esmagar as folhas frescas e aplicar sobre a área inflamada."
-        }
+      {
+        "titulo": "Chá de Folhas Angélica",
+        "descricao": "Use 1 colher de sopa de folhas secas para 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade de ervas. Despeje a água fervente sobre as ervas, tampe, aguarde esfriar e coe. Beba 3 xícaras distribuídas ao longo do dia."
+      },
+      {
+        "titulo": "Decocção de Raiz de Angélica",
+        "descricao": "Use 1 colher de sobremesa da raiz seca ralada. Coloque as ervas em uma panela com 1 xícara de água (150 ml) e leve ao fogo baixo. Deixe ferver por 5 minutos. Use para lavar feridas, fazer compressas ou beba 2 xícaras por dia."
+      }
     ],
-    "cuidadosEContraindicacoes": "Contém oxalatos e saponinas; o cozimento é recomendado. Pessoas com tendência a pedras nos rins devem consumir com moderação.",
-    "imagemUrl": "https://i.imgur.com/F3u2o1M.jpeg"
+    "cuidadosEContraindicacoes": "Não deve ser usada durante a gravidez por interferir nas contrações uterinas. Pessoas com problemas de coagulação devem evitá-la. A planta pode aumentar a sensibilidade da pele ao sol.",
+    "imagemUrl": "https://i.imgur.com/d7K9gLp.jpeg"
   },
   {
     "id": 46,
-    "nomePopular": "Lavanda",
-    "nomeCientifico": "Lavandula angustifolia",
+    "nomePopular": "Arnica",
+    "nomeCientifico": "Arnica montana",
     "parteUsada": "Flores",
-    "formaDeUsoPrincipal": "Chá, Óleo essencial, Tintura",
+    "formaDeUsoPrincipal": "Óleo medicado, gel ou pomada (uso externo)",
     "usosPrincipais": [
-        "Calmante para ansiedade, estresse e insônia",
-        "Alívio de dores de cabeça tensionais",
-        "Antisséptico e cicatrizante para queimaduras, cortes e picadas de insetos",
-        "Relaxante muscular",
-        "Alívio de problemas digestivos de origem nervosa"
+      "Contusões e Hematomas", "Dores Musculares e Articulares", "Entorses e Distensões", "Lesões Esportivas", "Artrite", "Inflamação e Edema", "Dores Pós-Cirúrgicas", "Cólicas Menstruais", "Lesões Traumáticas", "Dor de Cabeça e Enxaqueca"
     ],
     "receitasRapidas": [
-        {
-            "titulo": "Chá de Lavanda",
-            "descricao": "Infundir 1 colher de chá de flores secas em uma xícara de água fervente por 5-10 minutos."
-        },
-        {
-            "titulo": "Óleo Essencial para Relaxamento",
-            "descricao": "Adicionar algumas gotas a um difusor, banho quente ou a um óleo carreador para massagem."
-        }
+      {
+        "titulo": "Uso Tópico",
+        "descricao": "Aplicar um creme de Arnica na região da cabeça e pescoço, 2 a 3 vezes por dia, para aliviar a dor e relaxar os músculos tensionados."
+      }
     ],
-    "cuidadosEContraindicacoes": "Geralmente seguro. O óleo essencial não deve ser ingerido e deve ser diluído para aplicação na pele para evitar irritação.",
-    "imagemUrl": "https://i.imgur.com/g7a8s9C.jpeg"
+    "cuidadosEContraindicacoes": "A Arnica não deve ser ingerida. Use apenas externamente, na forma de óleo medicado, gel ou pomada, e nunca em feridas abertas.",
+    "imagemUrl": "https://i.imgur.com/C9r8m3Q.jpeg"
   },
   {
     "id": 47,
-    "nomePopular": "Alho-poró",
-    "nomeCientifico": "Allium porrum",
-    "parteUsada": "Planta inteira",
-    "formaDeUsoPrincipal": "Alimento (cozido)",
+    "nomePopular": "Aroeira Salsa",
+    "nomeCientifico": "Schinus molle",
+    "parteUsada": "Folhas, frutos, casca",
+    "formaDeUsoPrincipal": "Chá, infusão",
     "usosPrincipais": [
-        "Diurético",
-        "Laxante suave",
-        "Antisséptico para o trato respiratório e intestinal",
-        "Fonte de vitaminas A, C e K",
-        "Apoio à saúde cardiovascular"
+      "Anti-inflamatória", "Analgésica", "Antimicrobiana", "Cicatrizante", "Antioxidante", "Antiespasmódica", "Gastroprotetor", "Depressão"
     ],
     "receitasRapidas": [
-        {
-            "titulo": "Sopa de Alho-poró",
-            "descricao": "Cozinhar o alho-poró em sopas e caldos para extrair seus benefícios, especialmente para o sistema respiratório."
-        }
+      {
+        "titulo": "Chá de Aroeira Salsa",
+        "descricao": "1 colher de chá de folhas de folhas secas ou 2 colheres de chá de folhas frescas para uma 1 xícara de água (150 ml). Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Coe para retirar as ervas e tome 3 xícaras por dia."
+      }
     ],
-    "cuidadosEContraindicacoes": "Como outros membros da família Allium, pode causar gases em pessoas sensíveis. Contém oxalatos, consumir com moderação em caso de problemas renais.",
-    "imagemUrl": "https://i.imgur.com/t3g4h5S.jpeg"
+    "cuidadosEContraindicacoes": "O uso excessivo pode causar irritação na pele e mucosas, além de reações alérgicas em pessoas sensíveis a algum composto.",
+    "imagemUrl": "https://i.imgur.com/v8R4s7D.jpeg"
   },
   {
     "id": 48,
-    "nomePopular": "Louro",
-    "nomeCientifico": "Laurus nobilis",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Tempero",
-    "usosPrincipais": [
-      "Bronquite, Asma e Infecções Respiratórias",
-      "Contusão, Hematomas e Lesões Traumáticas",
-      "Acne, Eczema e Problemas de Pele",
-      "Feridas, Lesões e Irritações na Pele",
-      "Desregulação Menstrual, Cólicas e Síndrome Pré-Menstrual",
-      "Alopecia, Queda de Cabelo e Problemas no Couro Cabeludo",
-      "Tontura, Vertigem e Enxaquecas"
-    ],
-    "receitasRapidas": [
-      {
-        "titulo": "Chá de Louro",
-        "descricao": "1 colher de chá de folhas secas ou 2 de frescas para 1 xícara de água (150 ml). Despeje a água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
-      }
-    ],
-    "cuidadosEContraindicacoes": "Pode causar reações alérgicas. O uso excessivo pode levar a distúrbios gastrointestinais. Evite o uso durante a gravidez e a amamentação.",
-    "imagemUrl": "https://i.imgur.com/9nF7s5B.jpeg"
-  },
-  {
-    "id": 49,
-    "nomePopular": "Tomilho Limão",
-    "nomeCientifico": "Thymus citriodorus",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Aromaterapia",
-    "usosPrincipais": [
-      "Problemas Respiratórios, Asma e Alívio da Congestão",
-      "Infecções Virais, Bacterianas e Fúngicas",
-      "Função Imunológica",
-      "Aromaterapia para Asma"
-    ],
-    "receitasRapidas": [
-      {
-        "titulo": "Chá de Tomilho Limão",
-        "descricao": "1 colher de sobremesa de folhas secas para 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade. Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
-      }
-    ],
-    "cuidadosEContraindicacoes": "Pode causar reações em pessoas altamente alérgicas. Não use durante a gravidez ou amamentação.",
-    "imagemUrl": "https://i.imgur.com/6X2h8vj.jpeg"
-  },
-  {
-    "id": 50,
-    "nomePopular": "Erva-cidreira",
-    "nomeCientifico": "Lippia alba",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá",
-    "usosPrincipais": [
-        "Calmante, sedativo e ansiolítico",
-        "Alívio de problemas digestivos e cólicas (antiespasmódico)",
-        "Combate a gripes e resfriados",
-        "Redução da pressão arterial",
-        "Analgésico suave"
-    ],
-    "receitasRapidas": [
-        {
-            "titulo": "Chá Calmante",
-            "descricao": "Infundir um punhado de folhas frescas ou 1 colher de sopa de folhas secas em uma xícara de água fervente por 5-10 minutos."
-        }
-    ],
-    "cuidadosEContraindicacoes": "Pode causar sonolência e potencializar o efeito de outros sedativos. Usar com cautela em pessoas com pressão arterial baixa.",
-    "imagemUrl": "https://i.imgur.com/L9p8m7N.jpeg"
-  },
-  {
-    "id": 51,
-    "nomePopular": "Alcaçuz",
-    "nomeCientifico": "Glycyrrhiza glabra",
-    "parteUsada": "Raiz",
-    "formaDeUsoPrincipal": "Decocção, Tintura, Pastilhas",
-    "usosPrincipais": [
-        "Expectorante e emoliente para tosse e dor de garganta",
-        "Anti-inflamatório para úlceras gástricas e gastrite",
-        "Suporte para a glândula adrenal (fadiga, estresse)",
-        "Ação antiviral e imunoestimulante",
-        "Alívio de sintomas da menopausa"
-    ],
-    "receitasRapidas": [
-        {
-            "titulo": "Decocção da Raiz",
-            "descricao": "Ferver 1 colher de chá de raiz picada em uma xícara de água por 10-15 minutos em fogo baixo."
-        }
-    ],
-    "cuidadosEContraindicacoes": "O uso prolongado (mais de 4-6 semanas) ou em altas doses pode causar aumento da pressão arterial, retenção de líquidos e perda de potássio. Evitar na gravidez, amamentação, doenças cardíacas, renais ou hepáticas.",
-    "imagemUrl": "https://i.imgur.com/d2j3k4F.jpeg"
-  },
-  {
-    "id": 52,
-    "nomePopular": "Melão de São Caetano",
-    "nomeCientifico": "Momordica charantia",
-    "parteUsada": "Fruto, Folhas, Sementes",
-    "formaDeUsoPrincipal": "Chá, Suco",
-    "usosPrincipais": [
-      "Diabetes",
-      "Infecções por Bactérias e Vírus",
-      "Melhora a Digestão e a Constipação",
-      "Protege e Regenera o Fígado",
-      "Tratar Obesidade e Promover a Perda de Peso",
-      "Reduz o Colesterol, Vasodilatadora e Reduz a Pressão Arterial",
-      "Câncer",
-      "Inflamações Crônicas",
-      "Doenças Autoimunes e Aumento da Imunidade",
-      "Vermes e Parasitas",
-      "Feridas e Infecções da Pele",
-      "Asma, Bronquite, Tosse e Outros Problemas Respiratórios",
-      "Regula o Ciclo Menstrual, Alivia Cólicas e Contraceptivo",
-      "Aumento de Plaquetas e Dengue"
-    ],
-    "receitasRapidas": [
-      {
-        "titulo": "Chá de Melão de São Caetano",
-        "descricao": "1 colher de chá de folhas secas ou 2 de frescas para 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
-      },
-      {
-        "titulo": "Suco dos Frutos",
-        "descricao": "Use 2 frutos maduros para 1 copo de água. Misture os frutos e a água com um liquidificador. Coe e beba 2 copos por dia."
-      }
-    ],
-    "cuidadosEContraindicacoes": "Pode causar distúrbios gastrointestinais. Evitar o uso durante a gravidez e a amamentação. Pode interagir com medicamentos para diabetes e anticoagulantes.",
-    "imagemUrl": "https://i.imgur.com/tX2eJt2.jpeg"
-  },
-  {
-    "id": 53,
-    "nomePopular": "Levístico",
-    "nomeCientifico": "Levisticum officinale",
-    "parteUsada": "Raízes, Folhas",
-    "formaDeUsoPrincipal": "Chá, Decocção",
-    "usosPrincipais": [
-      "Doenças do Trato Urinário, Cistite, Uretrite",
-      "Indigestão, Flatulência, Cólicas Intestinais",
-      "Distúrbios Menstruais e Tensão Pré-Menstrual (TPM)",
-      "Bronquite, Tosse Persistente, Resfriados e Outras Condições Respiratórias",
-      "Artrite e Reumatismo",
-      "Desordens Cardiovasculares",
-      "Estresse e Ansiedade"
-    ],
-    "receitasRapidas": [
-      {
-        "titulo": "Chá de Levístico",
-        "descricao": "1 colher de sobremesa de folhas secas para 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade. Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
-      }
-    ],
-    "cuidadosEContraindicacoes": "O uso excessivo pode causar sensibilidade ao sol. Evitar o uso durante a gravidez e em pessoas com problemas renais agudos.",
-    "imagemUrl": "https://i.imgur.com/a9k9Y8r.jpeg"
-  },
-  {
-    "id": 54,
-    "nomePopular": "Pulmonária",
-    "nomeCientifico": "Pulmonaria officinalis",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Xarope",
-    "usosPrincipais": [
-        "Expectorante e emoliente (para tosse, bronquite, asma)",
-        "Tratamento de problemas respiratórios",
-        "Adstringente suave (para diarreia e hemorroidas)",
-        "Cicatrizante para pequenas feridas"
-    ],
-    "receitasRapidas": [
-        {
-            "titulo": "Chá de Pulmonária",
-            "descricao": "1-2 colheres de chá de folhas secas por xícara de água fervente. Infusão por 10-15 minutos. Beba até 3 vezes ao dia."
-        }
-    ],
-    "cuidadosEContraindicacoes": "Contém pequenas quantidades de alcaloides pirrolizidínicos. O uso deve ser de curto prazo e evitado na gravidez, amamentação e em pessoas com doenças hepáticas.",
-    "imagemUrl": "https://i.imgur.com/c6F8s9b.jpeg"
-  },
-  {
-    "id": 55,
-    "nomePopular": "Malva",
-    "nomeCientifico": "Malva sylvestris",
+    "nomePopular": "Artemísia",
+    "nomeCientifico": "Artemisia vulgaris",
     "parteUsada": "Folhas e flores",
-    "formaDeUsoPrincipal": "Chá, Cataplasma",
+    "formaDeUsoPrincipal": "Chá, tintura, cápsulas",
     "usosPrincipais": [
-        "Emoliente (suaviza tecidos irritados)",
-        "Anti-inflamatório (garganta, estômago, intestinos)",
-        "Expectorante suave para tosse seca",
-        "Laxante suave",
-        "Cicatrizante para irritações de pele"
-    ],
-    "receitasRapidas": [
-        {
-            "titulo": "Chá para Dor de Garganta",
-            "descricao": "Infundir 1 colher de sopa de flores e folhas secas em 1 xícara de água fervente por 10 minutos. Usar para beber ou gargarejar."
-        },
-        {
-            "titulo": "Cataplasma para Pele Irritada",
-            "descricao": "Amassar folhas frescas com um pouco de água morna e aplicar sobre a área afetada."
-        }
-    ],
-    "cuidadosEContraindicacoes": "Geralmente considerada segura. O consumo excessivo pode ter um efeito laxante. Evitar colher em locais poluídos.",
-    "imagemUrl": "https://i.imgur.com/1sF2G3t.jpeg"
-  },
-  {
-    "id": 56,
-    "nomePopular": "Malva Branca",
-    "nomeCientifico": "Althea officinalis",
-    "parteUsada": "Raiz",
-    "formaDeUsoPrincipal": "Decocção, Pomada, Cataplasma",
-    "usosPrincipais": [
-      "Úlceras na Pele, Ferimentos e Remoção de Objetos Estranhos",
-      "Irritações de Pele, Inflamações e Inchaços",
-      "Infecções do Trato Urinário e Cistite",
-      "Azia, Úlceras Pépticas, Intestino Permeável e Problemas Digestivos",
-      "Tosse Seca, Bronquite, Asma Brônquica, Congestão e Pleurisia"
+      "Problemas digestivos, Cólicas e Gases", "Menstruação e Cólicas Menstruais", "Tensão Pré-Menstrual (TPM)", "Menopausa", "Síndrome do Ovário Policístico (SOP)", "Tosse, Bronquite e Expectorante", "Infecção Urinária, Feridas e Irritações na Pele", "Ansiedade, Estresse e Insônia"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Decocção de Raiz de Malva Branca",
-        "descricao": "1 colher de sobremesa de raízes secas e picadas para 1 xícara de água (150 ml). Ferver por 5 minutos em fogo baixo. Beba 3 xícaras ao longo do dia."
-      }
-    ],
-    "cuidadosEContraindicacoes": "Geralmente segura. O consumo excessivo pode causar desconforto gastrointestinal. Consultar profissional de saúde se estiver grávida ou amamentando.",
-    "imagemUrl": "https://i.imgur.com/J3y5p6s.jpeg"
-  },
-  {
-    "id": 57,
-    "nomePopular": "Cardo Mariano",
-    "nomeCientifico": "Silybum marianum",
-    "parteUsada": "Sementes",
-    "formaDeUsoPrincipal": "Cápsulas de extrato padronizado, Tintura",
-    "usosPrincipais": [
-      "Proteção e regeneração do fígado (hepatoprotetor)",
-      "Desintoxicação hepática (álcool, toxinas)",
-      "Tratamento de hepatite, cirrose e gordura no fígado",
-      "Melhora da digestão (produção de bile)",
-      "Antioxidante",
-      "Redução do colesterol"
-    ],
-    "receitasRapidas": [
-      {
-        "titulo": "Uso do Extrato",
-        "descricao": "A forma mais eficaz é o extrato padronizado em silimarina, encontrado em cápsulas. Seguir a dosagem do fabricante. O chá das sementes não extrai bem os princípios ativos."
-      }
-    ],
-    "cuidadosEContraindicacoes": "Geralmente seguro. Pode ter um leve efeito laxativo. Pessoas alérgicas a plantas da família Asteraceae devem evitar. Pode interagir com alguns medicamentos metabolizados pelo fígado.",
-    "imagemUrl": "https://i.imgur.com/b5R6s8T.jpeg"
-  },
-  {
-    "id": 58,
-    "nomePopular": "Rubim",
-    "nomeCientifico": "Leonurus sibiricus",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá",
-    "usosPrincipais": [
-      "Parto, Menstruação Atrasada, TPM",
-      "Hipertireoidismo",
-      "Trombose",
-      "Saúde do Coração",
-      "Ansiedade e Depressão",
-      "Insônia e Problemas de Sono",
-      "Transtorno do Déficit de Atenção com Hiperatividade (TDAH)"
-    ],
-    "receitasRapidas": [
-      {
-        "titulo": "Chá de Rubim",
-        "descricao": "1 colher de sobremesa de folhas secas para 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade. Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
-      }
-    ],
-    "cuidadosEContraindicacoes": "Deve ser usada com cautela por pessoas que estejam fazendo uso de medicamentos sintéticos para problemas cardíacos.",
-    "imagemUrl": "https://i.imgur.com/q3S9n0Y.jpeg"
-  },
-  {
-    "id": 59,
-    "nomePopular": "Verbasco",
-    "nomeCientifico": "Verbascum thapsus",
-    "parteUsada": "Folhas e flores",
-    "formaDeUsoPrincipal": "Chá, Óleo infuso",
-    "usosPrincipais": [
-        "Tônico pulmonar e expectorante",
-        "Alívio de tosse seca e espasmódica",
-        "Emoliente para o trato respiratório",
-        "Analgésico para dor de ouvido (óleo das flores)",
-        "Anti-inflamatório"
-    ],
-    "receitasRapidas": [
-        {
-            "titulo": "Chá de Folhas para Tosse",
-            "descricao": "Infundir 1-2 colheres de chá de folhas secas em 1 xícara de água fervente por 15 minutos. Coar muito bem em um pano fino para remover os pelos irritantes."
-        },
-        {
-            "titulo": "Óleo de Flores para Dor de Ouvido",
-            "descricao": "Encher um pequeno frasco com flores frescas de verbasco e cobrir com azeite de oliva. Deixar ao sol por 2-3 semanas. Coar e aplicar 1-2 gotas mornas no ouvido."
-        }
-    ],
-    "cuidadosEContraindicacoes": "É crucial coar o chá das folhas para remover os pelos finos, que podem irritar a garganta. O óleo não deve ser usado se houver perfuração do tímpano.",
-    "imagemUrl": "https://i.imgur.com/d0bFv9n.jpeg"
-  },
-  {
-    "id": 60,
-    "nomePopular": "Orégano",
-    "nomeCientifico": "Origanum vulgare",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Óleo, Tempero",
-    "usosPrincipais": [
-        "Antimicrobiano de amplo espectro (bactérias, fungos, vírus)",
-        "Antioxidante potente",
-        "Expectorante e antiespasmódico",
-        "Digestivo (alivia gases)",
-        "Anti-inflamatório"
-    ],
-    "receitasRapidas": [
-        {
-            "titulo": "Chá para Resfriado",
-            "descricao": "Infundir 1 colher de chá de orégano seco em 1 xícara de água fervente por 10 minutos."
-        },
-        {
-            "titulo": "Óleo de Orégano (Uso Cuidadoso)",
-            "descricao": "O óleo essencial é muito forte. Para infecções fúngicas, diluir 1-2 gotas em uma colher de chá de óleo de coco e aplicar topicamente."
-        }
-    ],
-    "cuidadosEContraindicacoes": "O óleo essencial é extremamente potente e pode causar irritação na pele e mucosas se não for bem diluído. Não deve ser ingerido puro. Evitar o uso terapêutico na gravidez.",
-    "imagemUrl": "https://i.imgur.com/kS9w0yw.jpeg"
-  },
-  {
-    "id": 61,
-    "nomePopular": "Margarida",
-    "nomeCientifico": "Leucanthemum vulgare",
-    "parteUsada": "Folhas, Flores, Caules",
-    "formaDeUsoPrincipal": "Chá",
-    "usosPrincipais": [
-      "Artrite, Dermatite, Úlceras Gástricas e Inflamações",
-      "Problemas Digestivos",
-      "Feridas e Cortes",
-      "Dores de Cabeça, Enxaquecas",
-      "Sintomas de Resfriado e Gripe"
-    ],
-    "receitasRapidas": [
-      {
-        "titulo": "Chá de Margarida",
-        "descricao": "1 colher de sobremesa das folhas, flores e caules secos para 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras ao longo do dia."
-      }
-    ],
-    "cuidadosEContraindicacoes": "Pessoas com alergia a plantas da família Asteraceae devem evitar o uso. Consultar profissional de saúde se estiver grávida ou amamentando.",
-    "imagemUrl": "https://i.imgur.com/L5B7n6C.jpeg"
-  },
-  {
-    "id": 62,
-    "nomePopular": "Hortelã-pimenta",
-    "nomeCientifico": "Mentha x piperita",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Óleo essencial",
-    "usosPrincipais": [
-        "Alívio de problemas digestivos (gases, indigestão, náuseas, SII)",
-        "Analgésico tópico (dores de cabeça, dores musculares)",
-        "Descongestionante (inalação)",
-        "Refrescante e estimulante mental"
-    ],
-    "receitasRapidas": [
-        {
-            "titulo": "Chá Digestivo",
-            "descricao": "Infundir 1 colher de sopa de folhas frescas (ou 1 de chá secas) em 1 xícara de água fervente por 5-10 minutos. Tomar após as refeições."
-        },
-        {
-            "titulo": "Alívio para Dor de Cabeça",
-            "descricao": "Diluir 1 gota de óleo essencial em uma colher de chá de óleo vegetal e massagear nas têmporas, testa e nuca (evitar os olhos)."
-        }
-    ],
-    "cuidadosEContraindicacoes": "Pode piorar o refluxo ácido em algumas pessoas, pois relaxa o esfíncter esofágico. O óleo essencial não deve ser ingerido e deve ser evitado em crianças pequenas.",
-    "imagemUrl": "https://i.imgur.com/x0r4qfC.jpeg"
-  },
-  {
-    "id": 63,
-    "nomePopular": "Tanchagem",
-    "nomeCientifico": "Plantago major",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Cataplasma, Chá, Tintura",
-    "usosPrincipais": [
-        "Cicatrizante e adstringente (para cortes e feridas)",
-        "Alívio de picadas de insetos e irritações na pele",
-        "Anti-inflamatório",
-        "Expectorante e emoliente (problemas respiratórios)",
-        "Suaviza o trato digestivo (gastrite)"
-    ],
-    "receitasRapidas": [
-        {
-            "titulo": "Cataplasma Rápido para Picadas",
-            "descricao": "Mascar uma folha fresca e aplicar diretamente sobre a picada de inseto para aliviar a dor e o inchaço."
-        },
-        {
-            "titulo": "Chá para Uso Interno",
-            "descricao": "Infundir 1 colher de sopa de folhas frescas (ou 1 de chá secas) em 1 xícara de água fervente por 10 minutos."
-        }
-    ],
-    "cuidadosEContraindicacoes": "Extremamente segura para uso interno e externo. Considerada uma das plantas medicinais mais seguras e versáteis.",
-    "imagemUrl": "https://i.imgur.com/9v8B2kC.jpeg"
-  },
-  {
-    "id": 64,
-    "nomePopular": "Figo da Índia",
-    "nomeCientifico": "Opuntia ficus-indica",
-    "parteUsada": "Fruto",
-    "formaDeUsoPrincipal": "Suco, Fruto fresco",
-    "usosPrincipais": [
-      "Doenças Inflamatórias",
-      "Doença Cardíaca, Colesterol e Circulação",
-      "Artrite e Dores nas Articulações",
-      "Diabetes",
-      "Dores Musculares e Fadiga"
-    ],
-    "receitasRapidas": [
-      {
-        "titulo": "Consumo do Fruto",
-        "descricao": "O suco do fruto fresco é a forma mais comum de uso. Pode ser consumido diariamente para aliviar inflamações e dores articulares."
-      }
-    ],
-    "cuidadosEContraindicacoes": "A colheita deve ser feita com cuidado para evitar os pequenos espinhos. O consumo excessivo pode ter efeito laxante.",
-    "imagemUrl": "https://i.imgur.com/uT3gS2B.jpeg"
-  },
-  {
-    "id": 65,
-    "nomePopular": "Prunela",
-    "nomeCientifico": "Prunella vulgaris",
-    "parteUsada": "Planta inteira",
-    "formaDeUsoPrincipal": "Chá, Suco, Cataplasma",
-    "usosPrincipais": [
-      "Diabetes",
-      "Cicatrização de Feridas, Infecções na Pele e Furúnculos",
-      "Infecções Virais (Herpes Labial e Genital)",
-      "Infecções Respiratórias",
-      "Alergias, Doenças Autoimunes e Inflamações Crônica",
-      "Câncer",
-      "Picadas de Insetos e Mordidas",
-      "Problemas Renais e Hipertensão",
-      "Problemas no Fígado",
-      "Hemorragias",
-      "Problemas Digestivos, Cólicas, Doença de Crohn, Gastroenterite, Úlceras e Colite Ulcerosa",
-      "Hemorroidas"
-    ],
-    "receitasRapidas": [
-      {
-        "titulo": "Chá de Prunela para Uso Interno",
-        "descricao": "1 colher de sobremesa das folhas secas para 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba de 2 a 3 xícaras ao longo do dia."
+        "titulo": "Chá de Artemísia",
+        "descricao": "Use 1 colher de sobremesa de folhas secas para uma 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade de erva. Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Coe para retirar as ervas e tome de 2 à 3 xícaras por dia."
       },
       {
         "titulo": "Chá Forte para Uso Externo",
-        "descricao": "4 colheres de sobremesa das folhas secas para 1 xícara de água (150 ml). Usar como compressa ou lavagem."
+        "descricao": "Use 3 colheres de sobremesa das folhas secas para 1 xícara de água (150 ml). Se usar as folhas frescas, dobre quantidade de erva. Despeje a água fervente sobre as ervas, tampe, aguarde esfriar e coe para remover as ervas. Use para lavar a área afetada e fazer compressas."
       }
     ],
-    "cuidadosEContraindicacoes": "O uso a longo prazo, em doses altas, pode afetar o fígado e os rins. Usar com moderação.",
-    "imagemUrl": "https://i.imgur.com/rS2a8Vf.jpeg"
+    "cuidadosEContraindicacoes": "Contraindicada durante a gravidez e amamentação e pode causar irritação gástrica e reações alérgicas. O uso prolongado pode ser tóxico e deve ser feito com moderação ou sob orientação médica.",
+    "imagemUrl": "https://i.imgur.com/O6LdMbv.jpeg"
   },
   {
-    "id": 66,
-    "nomePopular": "Beldroega",
-    "nomeCientifico": "Portulaca oleracea",
-    "parteUsada": "Folhas, Sementes",
-    "formaDeUsoPrincipal": "Chá, Suco",
+    "id": 49,
+    "nomePopular": "Barba de Velho",
+    "nomeCientifico": "Tillandsia usneoides",
+    "parteUsada": "Planta inteira",
+    "formaDeUsoPrincipal": "Chá, inalações, compressas",
     "usosPrincipais": [
-      "Sangramento Uterino",
-      "Infecções Fúngicas",
-      "Diabetes",
-      "Redução do Colesterol",
-      "Asma e Problemas Brônquicos",
-      "Câncer"
+      "Problemas Respiratórios", "Inflamações e Feridas", "Reumatismo e Dores Articulares", "Problemas de Pele"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Chá de Folhas de Beldroega",
-        "descricao": "1 colher de sobremesa de folhas secas para 1 xícara de água (150 ml). Se usar a planta fresca, dobre a quantidade. Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras ao longo do dia."
+        "titulo": "Uso em Chá ou Inalação",
+        "descricao": "Fazer uma infusão com a planta seca para beber ou inalar o vapor, para problemas respiratórios."
       }
     ],
-    "cuidadosEContraindicacoes": "Considerada segura para consumo em grandes quantidades, sem efeitos colaterais.",
-    "imagemUrl": "https://i.imgur.com/N5i3G3q.jpeg"
+    "cuidadosEContraindicacoes": "Está em risco de extinção em alguns estados do Brasil devido a superexploração para confecção de artesanato. Por isso, sempre que possível, escolha outras plantas no lugar da Barba de Velho.",
+    "imagemUrl": "https://i.imgur.com/d8p1Q4D.jpeg"
   },
   {
-    "id": 67,
-    "nomePopular": "Trevo Vermelho",
-    "nomeCientifico": "Trifolium pratense",
-    "parteUsada": "Flores",
-    "formaDeUsoPrincipal": "Chá, Tintura",
+    "id": 50,
+    "nomePopular": "Bardana",
+    "nomeCientifico": "Arctium lappa",
+    "parteUsada": "Raiz",
+    "formaDeUsoPrincipal": "Decocção",
     "usosPrincipais": [
-        "Fonte de fitoestrógenos (alívio dos sintomas da menopausa)",
-        "Alterativo (purificador do sangue e da linfa)",
-        "Expectorante para tosses espasmódicas",
-        "Tônico nutritivo (rico em minerais)",
-        "Auxiliar em problemas de pele crônicos (eczema, psoríase)"
+      "Problemas na Pele (acne, eczema, psoríase)", "Desintoxicação e Limpeza do Fígado", "Tratamento do Câncer", "Diabetes", "Fortalece o Sistema Imunológico", "Diurética", "Osteoartrite", "Dor de Garganta e Amigdalite"
     ],
     "receitasRapidas": [
-        {
-            "titulo": "Chá de Flores de Trevo Vermelho",
-            "descricao": "Infundir 1 colher de sopa de flores secas em 1 xícara de água fervente por 15 minutos. Beber 2-3 vezes ao dia."
-        }
+      {
+        "titulo": "Decocção de Raiz de Bardana",
+        "descricao": "Use 1 colher de sobremesa de raízes secas para 1 xícara de água (150 ml). Coloque as raízes e a água em uma panela e leve ao fogo brando. Deixe ferver por 5 minutos. Beba 3 xícaras por dia."
+      }
     ],
-    "cuidadosEContraindicacoes": "Contém cumarinas, que podem afinar o sangue; evitar o uso com medicamentos anticoagulantes. Devido à sua atividade estrogênica, não é recomendado para gestantes, lactantes ou em casos de cânceres sensíveis a hormônios.",
-    "imagemUrl": "https://i.imgur.com/p5M0w8q.jpeg"
+    "cuidadosEContraindicacoes": "Pessoas alérgicas a plantas da família Asteraceae podem ter reações. Pode interagir com medicamentos para diabetes e diuréticos. Evitar na gravidez.",
+    "imagemUrl": "https://i.imgur.com/p5M0w8p.jpeg"
   },
   {
-    "id": 68,
-    "nomePopular": "Alecrim",
-    "nomeCientifico": "Salvia rosmarinus",
+    "id": 51,
+    "nomePopular": "Cebolinha",
+    "nomeCientifico": "Allium schoenoprasum",
     "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Óleo essencial, Tempero",
+    "formaDeUsoPrincipal": "Alimento, Tempero",
     "usosPrincipais": [
-        "Estimulante circulatório e cerebral",
-        "Melhora a memória e a concentração",
-        "Digestivo (carminativo)",
-        "Antioxidante e anti-inflamatório",
-        "Antisséptico",
-        "Alivia dores de cabeça"
+      "Anti-inflamatório", "Reduz a Pressão Arterial, e o Colesterol", "Digestão", "Diurético", "Fortalece o Sistema Imunológico"
     ],
     "receitasRapidas": [
-        {
-            "titulo": "Chá Estimulante",
-            "descricao": "Infundir 1 colher de chá de folhas secas em 1 xícara de água fervente por 5-10 minutos. Ideal para tomar pela manhã ou durante os estudos."
-        },
-        {
-            "titulo": "Inalação para Congestão",
-            "descricao": "Adicionar algumas gotas de óleo essencial de alecrim ou um ramo fresco a uma tigela de água quente e inalar o vapor."
-        }
+      {
+        "titulo": "Uso Culinário",
+        "descricao": "A melhor maneira de usufruir dos benefícios da Cebolinha é usar a erva na preparação da comida e como complemento em saladas."
+      }
     ],
-    "cuidadosEContraindicacoes": "Evitar o uso terapêutico em altas doses durante a gravidez e em pessoas com hipertensão ou epilepsia. O óleo essencial não deve ser ingerido.",
+    "cuidadosEContraindicacoes": "Geralmente seguro. Pessoas com alergia a plantas da família Allium (alho, cebola) devem ter cautela.",
+    "imagemUrl": "https://i.imgur.com/t3g4h5S.jpeg"
+  },
+  {
+    "id": 52,
+    "nomePopular": "Chicória",
+    "nomeCientifico": "Cichorium intybus",
+    "parteUsada": "Folhas, raízes",
+    "formaDeUsoPrincipal": "Salada, Chá, Decocção",
+    "usosPrincipais": [
+      "Analgésico", "Sedativo", "Antibacteriano", "Antifúngico", "Parasitas Intestinais", "Malária", "Leishmaniose", "Problemas do Fígado, da Vesícula Biliar e Digestivos", "Diabetes", "Feridas, Erupções Cutâneas e Inflamações"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Formas de Uso",
+        "descricao": "Pode ser consumida de diferentes maneiras. Como café feito com as raízes torradas e moídas, como chá feito das folhas ou a maneira mais fácil, que é incluí-la como salada durante as refeições."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Pode causar dermatite de contato em algumas pessoas. Evite a Chicória durante a gravidez, pois ela pode estimular a menstruação. Pode interferir com medicamentos beta-bloqueadores para o coração.",
+    "imagemUrl": "https://i.imgur.com/9nF7s5B.jpeg"
+  },
+  {
+    "id": 53,
+    "nomePopular": "Cimífuga",
+    "nomeCientifico": "Actaea racemosa",
+    "parteUsada": "Raiz",
+    "formaDeUsoPrincipal": "Chá, Cápsulas, Tintura",
+    "usosPrincipais": [
+      "Sintomas Menstruais e Menopáusicos", "Neuralgia e Dor Neuropática", "Saúde Osteoarticular", "Tosse e Resfriados", "Dores de Estômago", "Fibromialgia", "Distúrbios Hormonais"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Chá de Folhas Cimífuga",
+        "descricao": "use 1 colher de sobremesa de folhas secas para 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade de erva. Despeje a água fervente sobre as ervas, tampe, aguarde esfriar e coe para remover as ervas. Beba 3 xícaras por dia."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Pode causar efeitos adversos, incluindo náuseas, dores de estômago e desconforto gastrointestinal. Em casos raros, a Cimífuga pode afetar o fígado.",
+    "imagemUrl": "https://i.imgur.com/6X2h8vj.jpeg"
+  },
+  {
+    "id": 54,
+    "nomePopular": "Coração Sangrando",
+    "nomeCientifico": "Dicentra formosa",
+    "parteUsada": "Raiz",
+    "formaDeUsoPrincipal": "Decocção",
+    "usosPrincipais": [
+      "Ansiedade e Estresse", "Cólicas Menstruais", "Problemas Cardíacos", "Cicatrização de Feridas", "Dor abdominal, Cólicas", "Inflamações e Edemas", "Tosse, Bronquite e Outros Problemas Respiratórias"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Decocção de Raiz de Coração Sangrando",
+        "descricao": "Use 1 colher de sobremesa de raízes secas para 1 xícara de água (150 ml). Coloque as raízes e a água em uma panela e leve ao fogo brando. Deixe ferver por 5 minutos, desligue o fogo, tampe, aguarde esfriar e coe. Beba 3 xícaras por dia."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Tem um efeito sedativo poderoso; após o uso, evite atividades que requerem atenção. O uso interno pode causar desconfortos gastrointestinais, como náuseas, vômitos ou diarreia, especialmente em grandes quantidades.",
+    "imagemUrl": "https://i.imgur.com/L9p8m7N.jpeg"
+  },
+  {
+    "id": 55,
+    "nomePopular": "Endro",
+    "nomeCientifico": "Anethum graveolens",
+    "parteUsada": "Folhas, Sementes",
+    "formaDeUsoPrincipal": "Chá",
+    "usosPrincipais": [
+      "Cólicas em bebês", "Cólicas intestinais e menstruais", "Espasmos Musculares", "Estimula o Fluxo de Leite", "Flatulência"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Chá de Folhas de Endro",
+        "descricao": "1 colher de chá de folhas de endro secas para 1 xícara (150 ml) de água. Se usar folhas frescas, dobre a quantidade. Beba antes ou logo após as refeições."
+      },
+      {
+        "titulo": "Chá de Semente de Endro",
+        "descricao": "1 colher de chá de sementes para uma 1 xícara de água (150 ml). Despeje a água fervente, tampe e aguarde esfriar. Beba 3 xícaras por dia."
+      }
+    ],
+    "cuidadosEContraindicacoes": "O consumo de endro pode causar sensibilidade ao sol em algumas pessoas.",
     "imagemUrl": "https://i.imgur.com/d2j3k4F.jpeg"
   },
   {
-    "id": 69,
-    "nomePopular": "Sálvia",
-    "nomeCientifico": "Salvia officinalis",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Gargarejo, Tintura",
+    "id": 56,
+    "nomePopular": "Equinácea",
+    "nomeCientifico": "Echinacea angustifolia",
+    "parteUsada": "Folhas, flores, raiz",
+    "formaDeUsoPrincipal": "Chá, Tintura, Cápsula",
     "usosPrincipais": [
-        "Reduz sudorese excessiva e ondas de calor (menopausa)",
-        "Antisséptico e adstringente para boca e garganta",
-        "Auxilia na digestão de gorduras",
-        "Melhora a memória e a função cognitiva",
-        "Seca a produção de leite materno"
-    ],
-    "receitasRapidas": [
-        {
-            "titulo": "Chá para Ondas de Calor",
-            "descricao": "Infundir 1 colher de chá de folhas secas em 1 xícara de água fervente. Deixar esfriar e beber ao longo do dia."
-        },
-        {
-            "titulo": "Gargarejo para Dor de Garganta",
-            "descricao": "Fazer um chá forte, deixar amornar e gargarejar várias vezes ao dia."
-        }
-    ],
-    "cuidadosEContraindicacoes": "Contém tujona, que pode ser tóxica em altas doses ou com uso prolongado. Não usar durante a gravidez (pode estimular o útero) ou amamentação (seca o leite).",
-    "imagemUrl": "https://i.imgur.com/7gK5c3d.jpeg"
-  },
-  {
-    "id": 70,
-    "nomePopular": "Azedinha",
-    "nomeCientifico": "Rumex acetosella",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Suco, Pó, Cápsulas",
-    "usosPrincipais": [
-      "Resfriados, Gripe e Sinusite",
-      "Desintoxicação",
-      "Parasitas Intestinais e Vermes"
+      "Aumenta a resistência do corpo a infecções", "Anti-inflamatória, analgésica e antialérgica", "Resfriados e Gripe", "Alergias, Asma e Bronquite Alérgica", "Infecções do Trato Urinário", "Infecções, Queimaduras, Ferimentos e Antifúngico"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Chá de Azedinha",
-        "descricao": "1 colher de sobremesa de folhas secas para 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade. Despeje água fervente e aguarde esfriar."
+        "titulo": "Chá de Equinácea",
+        "descricao": "Use 1 colher de chá de folhas secas para uma 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade de erva. Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Coe para retirar as ervas e tome 3 xícaras por dia."
       }
     ],
-    "cuidadosEContraindicacoes": "Devido ao seu alto teor de oxalato, pessoas com pedras nos rins, artrite ou hiperacidez não devem usar a azedinha.",
-    "imagemUrl": "https://i.imgur.com/i9z7R6s.jpeg"
+    "cuidadosEContraindicacoes": "Não a use internamente a longo prazo, pois pode causar distúrbios digestivos. Pessoas com doenças autoimunes não devem usar a Equinácea.",
+    "imagemUrl": "https://i.imgur.com/tX2eJt2.jpeg"
   },
   {
-    "id": 71,
-    "nomePopular": "Urtiga",
-    "nomeCientifico": "Urtica dioica",
-    "parteUsada": "Folhas (partes aéreas)",
-    "formaDeUsoPrincipal": "Chá, Alimento (cozida), Tintura",
+    "id": 57,
+    "nomePopular": "Erva de Bicho",
+    "nomeCientifico": "Polygonum persicaria",
+    "parteUsada": "Partes aéreas",
+    "formaDeUsoPrincipal": "Chá, Decocção, Cataplasma",
     "usosPrincipais": [
-        "Tônico nutritivo profundo (rica em ferro, cálcio e minerais)",
-        "Anti-histamínico natural (alergias sazonais)",
-        "Anti-inflamatório (artrite, gota)",
-        "Diurético e tônico para os rins",
-        "Fortalece cabelos e unhas"
-    ],
-    "receitasRapidas": [
-        {
-            "titulo": "Chá Nutritivo (Infusão Longa)",
-            "descricao": "Colocar 30g de urtiga seca em um frasco de 1 litro. Encher com água fervente, tampar e deixar em infusão por 4-8 horas. Coar e beber ao longo do dia."
-        },
-        {
-            "titulo": "Urtiga Cozida",
-            "descricao": "Cozinhar as folhas frescas no vapor como se fosse espinafre. O cozimento remove a ardência. Pode ser usada em sopas e refogados."
-        }
-    ],
-    "cuidadosEContraindicacoes": "Manusear a planta fresca com luvas para evitar a irritação dos pelos urticantes. Após seca ou cozida, ela perde a capacidade de arder. Usar com cautela com medicamentos diuréticos ou para pressão baixa.",
-    "imagemUrl": "https://i.imgur.com/d8p1Q4E.jpeg"
-  },
-  {
-    "id": 72,
-    "nomePopular": "Erva de Cheiro",
-    "nomeCientifico": "Anthoxanthum nitens",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá",
-    "usosPrincipais": [
-      "Anticoagulante",
-      "Anti-inflamatória",
-      "Antimicrobiana",
-      "Diurética, Pedra nos Rins e Infecção Urinária",
-      "Antioxidante"
+      "Diarreia", "Anti-inflamatória, Artrite e Problemas de Pele", "Parar Sangramentos", "Feridas e Úlceras", "Antimicrobiana e Analgésica"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Chá de Erva de Cheiro",
-        "descricao": "1 colher de sobremesa de folhas secas para 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade. Despeje água fervente, tampe e aguarde esfriar. Beba 2 xícaras distribuídas ao longo do dia."
+        "titulo": "Chá de Erva de Bicho",
+        "descricao": "Use 1 colher de sobremesa das folhas secas ou 1 colher de sopa das folhas frescas para 1 xícara de água. Derrame a água fervente sobre as folhas, tampe e deixe descansar até a temperatura ideal para beber."
       }
     ],
-    "cuidadosEContraindicacoes": "Não usar com medicação anticoagulante. Suspender o uso uma semana antes de qualquer cirurgia.",
-    "imagemUrl": "https://i.imgur.com/w8N5m3n.jpeg"
+    "cuidadosEContraindicacoes": "Usar com cautela durante a gravidez. Pode causar irritação na pele em pessoas sensíveis.",
+    "imagemUrl": "https://i.imgur.com/a9k9Y8r.jpeg"
   },
   {
-    "id": 73,
-    "nomePopular": "Tomilho",
-    "nomeCientifico": "Thymus vulgaris",
-    "parteUsada": "Folhas e flores",
-    "formaDeUsoPrincipal": "Chá, Xarope, Inalação de vapor",
+    "id": 58,
+    "nomePopular": "Erva de Santa Maria",
+    "nomeCientifico": "Dysphania ambrosioides",
+    "parteUsada": "Folhas, sementes, flores",
+    "formaDeUsoPrincipal": "Chá, Óleo essencial",
     "usosPrincipais": [
-        "Antisséptico potente (especialmente para o sistema respiratório)",
-        "Expectorante e antiespasmódico (tosse, bronquite)",
-        "Antimicrobiano e antifúngico",
-        "Digestivo (ajuda a digerir alimentos gordurosos)"
+      "Anti-inflamatória e analgésica", "Osteoartrite e artrite reumatoide", "Antioxidante", "Parasitas intestinais", "Antimicrobiana", "Gastrite, úlcera gástrica, proteção do estômago", "Proteção do fígado", "Combate ao câncer e tumores", "Pressão arterial alta", "Micoses de pele e antifúngica", "Cicatrização, osteoporose e ossos fraturados"
     ],
     "receitasRapidas": [
-        {
-            "titulo": "Xarope de Tomilho para Tosse",
-            "descricao": "Fazer um chá forte com tomilho, coar e dissolver mel em partes iguais. Guardar na geladeira e tomar 1 colher de chá conforme necessário."
-        },
-        {
-            "titulo": "Chá para Digestão",
-            "descricao": "Infundir 1 colher de chá de tomilho seco em 1 xícara de água fervente por 10 minutos."
-        }
+      {
+        "titulo": "Chá de Erva de Santa Maria",
+        "descricao": "1 colher de chá de folhas de folhas secas ou 2 colheres de chá de folhas frescas para uma 1 xícara de água (150 ml). Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Coe para retirar as ervas e tome 3 xícaras por dia."
+      }
     ],
-    "cuidadosEContraindicacoes": "Geralmente seguro em quantidades culinárias e como chá. O óleo essencial é muito potente e não deve ser ingerido; deve ser diluído para uso na pele.",
-    "imagemUrl": "https://i.imgur.com/2m2T3Z2.jpeg"
+    "cuidadosEContraindicacoes": "Pode ser tóxica em doses altas, causando náuseas, tonturas e danos ao fígado. É contraindicada para gestantes, pois pode induzir contrações no útero e aumentar o risco de aborto. Evitar o uso por crianças e pessoas com problemas hepáticos e renais graves.",
+    "imagemUrl": "https://i.imgur.com/c6F8s9b.jpeg"
   },
   {
-    "id": 74,
-    "nomePopular": "Valeriana",
-    "nomeCientifico": "Valeriana officinalis",
+    "id": 59,
+    "nomePopular": "Erva de São João",
+    "nomeCientifico": "Hypericum perforatum",
+    "parteUsada": "Flores e folhas",
+    "formaDeUsoPrincipal": "Chá, Óleo, Tintura, Cápsula",
+    "usosPrincipais": [
+      "Depressão, Ansiedade e TOC", "Menopausa, TPM e Cólicas Menstruais", "Neuralgia, Nervo Ciático e Dor Nervosa", "Abstinência de Drogas, Álcool e Fumo", "Dores Musculares", "Artrite e Gota", "Vírus Epstein Barr, Herpes Zoster, Hepatite e Herpes"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Chá da Erva de São João",
+        "descricao": "Use 1 colher de sobremesa da erva seca ou 1 colher de sopa da erva fresca em um recipiente. Despeje 1 xícara (150 ml) de água fervente, tampe, aguarde esfriar e coe para remover as ervas. Tome 1 xícara, 3 vezes por dia."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Interage com muitos medicamentos modernos. Não deve ser tomada por pessoas que já estejam usando medicamentos Inibidores Seletivos de Recaptação de Serotonina e pode causar sensibilidade ao sol.",
+    "imagemUrl": "https://i.imgur.com/1sF2G3t.jpeg"
+  },
+  {
+    "id": 60,
+    "nomePopular": "Garra do Diabo",
+    "nomeCientifico": "Harpagophytum procumbens",
     "parteUsada": "Raiz",
-    "formaDeUsoPrincipal": "Decocção, Tintura, Cápsulas",
+    "formaDeUsoPrincipal": "Decocção, Cápsulas, Pomada",
     "usosPrincipais": [
-        "Insônia e distúrbios do sono",
-        "Ansiedade e estresse",
-        "Tensão muscular e espasmos",
-        "Dores de cabeça tensionais",
-        "Cólicas menstruais"
+      "Artrite, osteoartrite, tendinite, bursite, reumatismo", "Fibromialgia", "Lombalgias, dores crônicas, analgésica", "Dispepsia, má digestão e desconfortos abdominais", "Desintoxicação hepática, proteção do fígado", "Espasmos musculares, espasmo gastrointestinais", "Antioxidante"
     ],
     "receitasRapidas": [
-        {
-            "titulo": "Decocção de Raiz de Valeriana",
-            "descricao": "1 colher de chá de raiz seca picada para 1 xícara de água. Ferver em fogo baixo por 5 minutos e deixar em infusão por mais 10. Beba 30-60 minutos antes de dormir."
-        }
+      {
+        "titulo": "Decocção de raiz de Garra do Diabo",
+        "descricao": "1 colher de chá das raízes secas para uma 1 xícara de água (150 ml). Deixe cozinhar por 5 minutos, desligue o fogo e espere esfriar. Coe para retirar as ervas e tome 3 xícaras por dia."
+      }
     ],
-    "cuidadosEContraindicacoes": "Pode causar sonolência; não opere máquinas pesadas. Não combine com álcool ou outros sedativos. O uso prolongado pode causar dor de cabeça ou inquietação. O cheiro é forte e desagradável para alguns.",
+    "cuidadosEContraindicacoes": "O uso é contraindicado pessoas com úlceras gástricas, gastrite, cálculos biliares ou doenças cardiovasculares graves. Possíveis efeitos adversos incluem desconforto gastrointestinal, dor de cabeça, tontura e reações alérgicas.",
+    "imagemUrl": "https://i.imgur.com/J3y5p6s.jpeg"
+  },
+  {
+    "id": 61,
+    "nomePopular": "Ginseng Americano",
+    "nomeCientifico": "Panax quinquefolius",
+    "parteUsada": "Raiz",
+    "formaDeUsoPrincipal": "Chá, Cápsulas",
+    "usosPrincipais": [
+      "Estresse e Fadiga", "Função Cognitiva e Memória", "Sistema Imunológico", "Diabetes", "Inflamações, Doenças Autoimunes, Lúpus, Artrite e Artrose", "Doenças Inflamatórias Intestinais", "Câncer", "Disfunção Erétil", "Problemas Respiratórios"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Chá de Ginseng Americano",
+        "descricao": "Use 1 colher de sobremesa da raiz seca e ralada da erva para 1 xícara de água (150 ml). Despeje a água fervente sobre as ervas, tampe, aguarde esfriar e coe para remover as ervas. Tome 1 xícara por dia, logo ao acordar."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Pode causar insônia se tomado perto da hora de dormir. Pode interagir com anticoagulantes e medicamentos para diabetes.",
+    "imagemUrl": "https://i.imgur.com/b5R6s8T.jpeg"
+  },
+  {
+    "id": 62,
+    "nomePopular": "Hidraste",
+    "nomeCientifico": "Hydrastis canadensis",
+    "parteUsada": "Rizoma e raízes",
+    "formaDeUsoPrincipal": "Decocção, Chá",
+    "usosPrincipais": [
+      "Problemas Respiratórios, Resfriados e Gripe", "Infecções Bacterianas e Virais", "Problemas na Pele", "Aftas", "Redução dos Níveis de Açucar no Sangue e Aumenta a Sensibilidade à Insulina", "Infecções por Fungos", "Hemorragias", "Proteção do Fígado"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Decocção de Raiz de Hidraste",
+        "descricao": "Use 1 colher de sobremesa de raízes secas para 1 xícara de água (150 ml). Coloque as raízes e a água em uma panela e leve ao fogo brando. Deixe ferver por 5 minutos, desligue o fogo, tampe, aguarde esfriar e coe. Beba 3 xícaras por dia."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Pessoas com doenças autoimunes não devem usar o Hidraste internamente, pois ele é um estimulante do sistema imunológico. O Hidraste pode aumentar a pressão arterial.",
+    "imagemUrl": "https://i.imgur.com/q3S9n0Y.jpeg"
+  },
+  {
+    "id": 63,
+    "nomePopular": "Kudzu",
+    "nomeCientifico": "Pueraria lobata",
+    "parteUsada": "Raiz",
+    "formaDeUsoPrincipal": "Decocção",
+    "usosPrincipais": [
+      "Menopausa", "Proteção Cardiovascular", "Alcoolismo", "Ação Anti-inflamatória, Doenças Cardíacas e Problemas Intestinais", "Melhora da Função Cognitiva", "Proteção do Fígado"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Decocção de Raiz de Kudzu",
+        "descricao": "Use 1 colher de sobremesa de raízes secas para 1 xícara de água (150 ml). Coloque as raízes e a água em uma panela e leve ao fogo brando. Deixe ferver por 5 minutos, desligue o fogo, tampe, aguarde esfriar e coe. Beba 3 xícaras por dia."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Pode causar sono se combinado com outros medicamentos. Mulheres com distúrbios hormonais em tratamento devem conversar com um médico. Suspenda o uso uma semana antes de cirurgias. Mulheres grávidas não devem usar.",
+    "imagemUrl": "https://i.imgur.com/d0bFv9n.jpeg"
+  },
+  {
+    "id": 64,
+    "nomePopular": "Linhaça",
+    "nomeCientifico": "Linum usitatissimum",
+    "parteUsada": "Sementes",
+    "formaDeUsoPrincipal": "Farinha, Óleo",
+    "usosPrincipais": [
+      "Suplemento Nutricional", "Controle do Colesterol", "Equilíbrio de Hormônios", "Problemas Autoimunes", "Prisão de Ventre", "Problemas Respiratórios", "Pele, Furúnculos, Abscessos, Herpes, Acne, Queimaduras", "Câncer"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Uso como Farinha",
+        "descricao": "Eu prefiro usar o linho na forma de farinha, misturado as refeições. Acredito que desta maneira a absorção dos nutrientes é mais eficaz. Também costumo misturar a farinha no liquidificador com sucos de frutas."
+      }
+    ],
+    "cuidadosEContraindicacoes": "A farinha de linhaça, devido ao elevado teor de óleos insaturados pode se tornar rançosa se deixada em contato direto com o ar. Mantenha a farinha em um recipiente bem fechado e guarde sob refrigeração.",
+    "imagemUrl": "https://i.imgur.com/kS9w0yw.jpeg"
+  },
+  {
+    "id": 65,
+    "nomePopular": "Lobélia",
+    "nomeCientifico": "Lobelia inflata",
+    "parteUsada": "Partes aéreas",
+    "formaDeUsoPrincipal": "Tintura (uso cuidadoso)",
+    "usosPrincipais": [
+      "Problemas Respiratórios (asma, bronquite)", "Parar de Fumar", "Antidepressivo", "Indução de Vômito"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Forma de Uso",
+        "descricao": "Devido à sua potência e toxicidade, a forma mais segura de uso é a tintura, em doses muito pequenas (1-5 gotas), e sob supervisão de um profissional."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Confesso que fiquei relutante em incluir a Lobélia neste livro devido aos seus potenciais efeitos tóxicos quando usada em maior quantidade. Eu recomendo que evite o uso desta planta e, se realmente desejar fazer uso, procure acompanhamento médico.",
+    "imagemUrl": "https://i.imgur.com/L5B7n6C.jpeg"
+  },
+  {
+    "id": 66,
+    "nomePopular": "Manjericão Santo",
+    "nomeCientifico": "Ocimum sanctum",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá, Cápsulas",
+    "usosPrincipais": [
+      "Inflamação", "Infecções", "Ansiedade, Depressão e Sono", "Doenças Cardíacas", "Diabetes", "Pedras nos Rins e Gota", "Enxaqueca e Dor de Cabeça Tensional", "Efeitos Antidepressivos e Ansiolíticos"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Chá de Manjericão Santo",
+        "descricao": "Use 1 colher de sobremesa de folhas secas para uma 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade de erva. Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Coe para retirar as ervas e tome 3 xícaras por dia."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Pessoas com hipotireoidismo não devem usar. Pode interferir na coagulação do sangue. Suspender o uso uma semana antes de cirurgias. Mulheres grávidas não devem usar.",
+    "imagemUrl": "https://i.imgur.com/x0r4qfC.jpeg"
+  },
+  {
+    "id": 67,
+    "nomePopular": "Manjerona",
+    "nomeCientifico": "Origanum majorana",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá, Óleo essencial",
+    "usosPrincipais": [
+      "Síndrome dos Ovários Policísticos", "Diabetes", "Relaxamento, Estresse e Pressão Arterial Alta", "Espasmos e Tensão Muscular, Dores de Cabeça Tensionais", "Ajuda na digestão", "Auxílio Menstrual"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Chá de Manjerona",
+        "descricao": "Use 1 colher de sobremesa da erva seca para 1 xícara de água (150 ml). Se usar a erva fresca, dobre a quantidade de erva. Despeje a água fervente sobre as ervas, tampe, aguarde esfriar e coe para remover as ervas. Beba 3 xícaras distribuídas ao longo do dia."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Evite usar se estiver grávida, pois pode induzir contrações uterinas. Deve ser evitada por lactantes e crianças pequenas. O uso prolongado pode levar à sonolência excessiva.",
+    "imagemUrl": "https://i.imgur.com/9v8B2kC.jpeg"
+  },
+  {
+    "id": 68,
+    "nomePopular": "Melissa",
+    "nomeCientifico": "Melissa officinalis",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá, Óleo essencial",
+    "usosPrincipais": [
+      "Ansiedade, Insônia, TDAH e Depressão", "Herpes, Aftas e Zóster", "Sintomas da TPM", "Protege o Coração", "Antibacteriano e Antifúngico", "Diabetes", "Anti-Inflamatório e Antioxidante", "Combate ao Câncer", "Hipertiroidismo", "Auxilia na Digestão", "Doença de Alzheimer e Demência"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Chá de Melissa",
+        "descricao": "Use 1 colher de sobremesa de folhas de Melissa secas para 1 xícara de água (150 ml). Se usar ervas frescas, dobre a quantidade. Despeje a água fervente sobre as ervas, tampe, espere esfriar e coe. Beba 3 xícaras ao dia. Para ter uma melhor noite de sono, beba 1 xícara antes de ir dormir."
+      }
+    ],
+    "cuidadosEContraindicacoes": "A Melissa é considerada segura para a maioria das pessoas, mas não deve ser usada por pessoas que estão tomando medicação para hipertireoidismo. Evite o uso se estiver tomando medicação anticoagulante e suspenda o uso uma semana antes de fazer uma cirurgia programada. Se estiver grávida, não use sem antes consultar um médico.",
     "imagemUrl": "https://i.imgur.com/uT3gS2B.jpeg"
   },
   {
-    "id": 75,
-    "nomePopular": "Mostarda Branca",
-    "nomeCientifico": "Sinapis alba",
-    "parteUsada": "Sementes",
-    "formaDeUsoPrincipal": "Decocção, Cataplasma",
+    "id": 69,
+    "nomePopular": "Mentruz",
+    "nomeCientifico": "Lepidium didymum",
+    "parteUsada": "Folhas, flores, frutos",
+    "formaDeUsoPrincipal": "Chá, Cataplasma",
     "usosPrincipais": [
-      "Indigestão, Flatulência e Dispepsia",
-      "Problemas Respiratórios, Expectorante, Tosse, Bronquite, Sinusite",
-      "Infecções da Pele, Feridas e Abscessos",
-      "Anti-inflamatório, Artrite, Tendinite E Miosite",
-      "Dores Musculares, Dores Articulares, Dor nas Costas, Analgésico",
-      "Gases",
-      "Fadiga, Falta de Energia e Exaustão Física",
-      "Diurética, Retenção de Líquidos, Edemas e Desintoxicação"
+      "Bronquite, asma e problemas respiratórios", "Gases, cólicas, indigestão, distúrbios digestivos", "Dores articulares, reumatismo, artrite, artrose", "Infecções de pele e pequenas feridas", "Parasitas intestinais", "Febre", "Diabetes", "Proteção do fígado"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Decocção de Semente de Mostarda Branca",
-        "descricao": "1 colher de sobremesa de sementes para 1 xícara de água (150ml). Esmague as sementes, coloque em uma panela com água e ferva em fogo baixo por 5 minutos. Beba de 2 a 3 xícaras distribuídas ao longo do dia."
+        "titulo": "Chá de Mentruz",
+        "descricao": "Use 1 colher de chá de folhas de folhas secas ou 2 colheres de chá de folhas frescas para uma 1 xícara de água (150 ml). Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Coe para retirar as ervas e tome 3 xícaras por dia."
+      },
+      {
+        "titulo": "Cataplasma de Mentruz",
+        "descricao": "Amasse e triture uma quantidade generosa das folhas, flores e frutos com um pouco de água. Também pode adicionar um pouco de álcool ou gel de Babosa para acelerar a absorção dos princípios ativos. Aplique sobre a área lesionada e mantenha no local com um pano limpo ou bandagem."
       }
     ],
-    "cuidadosEContraindicacoes": "O uso tópico prolongado pode irritar a pele. Consumir com moderação, pois em excesso pode causar irritação gastrointestinal.",
-    "imagemUrl": "https://i.imgur.com/uFkSrg2.jpeg"
-  },
-  {
-    "id": 76,
-    "nomePopular": "Alface Selvagem",
-    "nomeCientifico": "Lactuca virosa",
-    "parteUsada": "Látex seco (lactucarium), folhas",
-    "formaDeUsoPrincipal": "Chá, Tintura",
-    "usosPrincipais": [
-        "Analgésico (semelhante ao ópio, mas mais suave)",
-        "Sedativo e calmante",
-        "Tratamento da tosse (coqueluche)",
-        "Indutor do sono (insônia)",
-        "Alívio de cólicas"
-    ],
-    "receitasRapidas": [
-        {
-            "titulo": "Chá de Alface Selvagem",
-            "descricao": "1-2 colheres de chá de folhas secas por xícara de água fervente. Infusão por 10-15 minutos. Beba antes de dormir."
-        }
-    ],
-    "cuidadosEContraindicacoes": "Em doses altas, pode causar tonturas, náuseas e vômitos. Não deve ser usado por gestantes ou pessoas com glaucoma. Pode potencializar o efeito de outros sedativos.",
+    "cuidadosEContraindicacoes": "O Mentruz é considerada uma erva muito segura. Recomendo que mulheres grávidas evitem o seu uso durante a gestação. Em grandes quantidades, pode causar efeitos gastrointestinais indesejados.",
     "imagemUrl": "https://i.imgur.com/rS2a8Vf.jpeg"
   },
   {
-    "id": 77,
-    "nomePopular": "Peixinho",
-    "nomeCientifico": "Stachys byzantina",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Compressa",
+    "id": 70,
+    "nomePopular": "Mil Folhas",
+    "nomeCientifico": "Achillea millefolium",
+    "parteUsada": "Partes aéreas",
+    "formaDeUsoPrincipal": "Chá, Compressa, Cataplasma",
     "usosPrincipais": [
-      "Feridas, Cortes e Abrasões",
-      "Dermatite, Eczema e Artrite",
-      "Antioxidante",
-      "Estresse, Ansiedade e Insônia",
-      "Indigestão e Desconforto Abdominal"
+      "Problemas Menstruais", "Hemorroidas", "Feridas e Cortes", "Febre", "Inflamações", "Resfriados e Gripe", "Problemas Digestivos", "Espasmos Musculares", "Hepatite e Problemas Hepáticos", "Alergias e Irritações Cutâneas"
     ],
     "receitasRapidas": [
       {
-        "titulo": "Chá de Peixinho",
-        "descricao": "1 colher de sobremesa de folhas secas ou 2 de frescas picadas para 1 xícara de água (150 ml). Despeje água fervente, tampe e aguarde esfriar. Beba 3 xícaras distribuídas ao longo do dia."
+        "titulo": "Chá de Mil Folhas",
+        "descricao": "Use 1 colher de sobremesa de folhas secas para uma 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade de erva. Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Coe para retirar as ervas e tome 3 xícaras por dia."
       }
     ],
-    "cuidadosEContraindicacoes": "Geralmente seguro. Consultar profissional de saúde se estiver grávida ou amamentando.",
+    "cuidadosEContraindicacoes": "Tem poucos efeitos adversos e geralmente é bastante segura. Porém, não deve ser usada por mulheres grávidas. Se for fazer uma cirurgia programada, suspenda o uso uma semana antes.",
     "imagemUrl": "https://i.imgur.com/7vj7V0c.jpeg"
   },
   {
-    "id": 78,
-    "nomePopular": "Losna (Absinto)",
-    "nomeCientifico": "Artemisia absinthium",
-    "parteUsada": "Folhas e flores",
-    "formaDeUsoPrincipal": "Chá (infusão fraca), Tintura (baixa dose)",
+    "id": 71,
+    "nomePopular": "Monarda",
+    "nomeCientifico": "Monarda didyma",
+    "parteUsada": "Folhas, flores",
+    "formaDeUsoPrincipal": "Chá, Óleo essencial, Compressa",
     "usosPrincipais": [
-        "Tônico amargo potente (estimula a secreção gástrica e biliar)",
-        "Vermífugo (elimina parasitas intestinais)",
-        "Antimicrobiano e antimalárico",
-        "Emenagogo (estimula a menstruação)",
-        "Febrífugo (reduz a febre)"
+      "Resfriados, Gripes e Problemas Respiratórios", "Infecções Bacterianas", "Infecções Fúngicas", "Feridas e Cortes", "Inflamações", "Problemas digestivos", "Ansiedade e insônia"
     ],
     "receitasRapidas": [
-        {
-            "titulo": "Chá Amargo para Digestão",
-            "descricao": "Infundir 1/2 colher de chá (ou menos) de losna seca em 1 xícara de água fervente por no máximo 5 minutos. Tomar em pequenos goles antes das refeições."
-        }
+      {
+        "titulo": "Chá de Monarda",
+        "descricao": "Use 1 colher de sobremesa de folhas secas para uma 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade de erva. Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Coe para retirar as ervas e tome 3 xícaras por dia."
+      }
     ],
-    "cuidadosEContraindicacoes": "Planta potente que contém tujona, uma neurotoxina. O uso deve ser de curto prazo (não mais que 2 semanas), em doses baixas e APENAS SOB SUPERVISÃO PROFISSIONAL. É abortiva e NÃO DEVE SER USADA NA GRAVIDEZ. Proibida para lactantes, pessoas com úlceras, problemas renais ou epilepsia.",
+    "cuidadosEContraindicacoes": "Não deve ser usado internamente por mulheres grávidas. Em algumas pessoas, podem aumentar a sensibilidade ao sol. Não use o óleo essencial puro diretamente na pele.",
     "imagemUrl": "https://i.imgur.com/O6LdMbv.jpeg"
+  },
+  {
+    "id": 72,
+    "nomePopular": "Morango Silvestre",
+    "nomeCientifico": "Fragaria vesca",
+    "parteUsada": "Folhas, frutos, raízes",
+    "formaDeUsoPrincipal": "Chá, Alimento",
+    "usosPrincipais": [
+      "Problemas Renais", "Diabetes", "Artrite e Inflamações", "Gastrite, Diarreia e Outros Problemas Digestivos", "Gengivite, Aftas e Dor de Garganta", "Acne, Eczema e Infecções na Pele"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Chá de Morango Silvestre",
+        "descricao": "Use 1 colher de sobremesa de folhas secas para uma 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade de erva. Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Coe para retirar as ervas e tome 3 xícaras por dia."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Geralmente seguro. Pessoas com alergia a morangos devem evitar o uso.",
+    "imagemUrl": "https://i.imgur.com/2bB1J3G.jpeg"
+  },
+  {
+    "id": 73,
+    "nomePopular": "Moringa",
+    "nomeCientifico": "Moringa oleifera",
+    "parteUsada": "Folhas, sementes, flores, casca, raízes",
+    "formaDeUsoPrincipal": "Chá, Pó, Óleo",
+    "usosPrincipais": [
+      "Antioxidante", "Artrite, doenças inflamatórias crônicas", "Diabetes", "Antimicrobiano, Gastrite, Infecções Fúngicas e Infecções Respiratórias", "Câncer de Mama, Cólon e Próstata", "Hepatite, Esteatose Hepática, Danos Hepáticos por Álcool", "Hipertensão, Dislipidemia, Arteriosclerose", "Alzheimer, Parkinson, Esclerose Múltipla, Ansiedade, Fadiga", "Apoio à saúde dentária"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Chá de folhas de Moringa",
+        "descricao": "1 colher de chá de folhas de folhas secas ou 2 colheres de chá de folhas frescas para uma 1 xícara de água (150 ml). Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Coe para retirar as ervas e tome 3 xícaras por dia."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Deve ser utilizada com cautela por pessoas que fazem uso de medicamentos antidiabéticos ou anti-hipertensivos. O uso excessivo pode causar distúrbios digestivos. O consumo elevado das sementes pode reduzir a fertilidade.",
+    "imagemUrl": "https://i.imgur.com/o1b2m3n.jpeg"
+  },
+  {
+    "id": 74,
+    "nomePopular": "Oliveira",
+    "nomeCientifico": "Olea europaea",
+    "parteUsada": "Folhas, frutos, óleo",
+    "formaDeUsoPrincipal": "Chá, Azeite de Oliva",
+    "usosPrincipais": [
+      "Entupimento Das Artérias, Pressão Alta, Ataques Cardíacos e Acidente Vascular Cerebral", "Diabetes e Glicemia Elevada", "Artrite e Inflamações Crônicas", "Infecções por Bactérias, Vírus e Fungos", "Úlceras no Estômago e Constipação", "Problemas no Fígado e Pedras nos Rins", "Alzheimer, Parkinson e Demência", "Fortalecer os Ossos e Osteoporose"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Chá de Folhas de Oliveira",
+        "descricao": "Use 1 colher de sobremesa das folhas secas para 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade. Despeje a água fervente sobre as ervas, tampe, aguarde esfriar e coe. Beba 3 xícaras por dia."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Pessoas com pressão baixa ou que tomam medicamentos para pressão devem usar com cautela. Diabéticos devem monitorar os níveis de açúcar no sangue. O consumo exagerado de azeite pode causar diarreia.",
+    "imagemUrl": "https://i.imgur.com/N7b0g8f.jpeg"
+  },
+  {
+    "id": 75,
+    "nomePopular": "Prímula",
+    "nomeCientifico": "Oenothera biennis",
+    "parteUsada": "Sementes (óleo), casca, folhas",
+    "formaDeUsoPrincipal": "Óleo em cápsulas, Chá, Decocção",
+    "usosPrincipais": [
+      "Equilíbrio dos Hormônios Femininos, Síndrome dos Ovários Policísticos (SOP), TPM e Menopausa", "Eczema, Psoríase, Acne e outros problemas da pele", "Artrite e Osteoporose", "Distúrbios Gastrointestinais", "Tosse", "Asma e Bronquite Alérgica", "Pressão Sanguínea e Colesterol"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Chá de Folhas de Prímula",
+        "descricao": "Use 1 colher de chá de folhas secas para uma 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade de erva. Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Coe para retirar as ervas e tome 3 xícaras por dia."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Pode interagir com medicamentos para epilepsia e anticoagulantes. Pessoas com distúrbios hemorrágicos devem evitar.",
+    "imagemUrl": "https://i.imgur.com/J7d8K4L.jpeg"
+  },
+  {
+    "id": 76,
+    "nomePopular": "Rhodiola",
+    "nomeCientifico": "Rhodiola rosea",
+    "parteUsada": "Raiz",
+    "formaDeUsoPrincipal": "Cápsulas de extrato seco",
+    "usosPrincipais": [
+      "Estresse e Ansiedade", "Depressão", "Fadiga Crônica", "Desempenho Cognitivo", "Desempenho e Recuperação Física", "Dores de Cabeça e Enxaqueca", "Fortalece o Sistema Imunológico", "Diabetes e Glicemia Alta", "Síndrome do Intestino Irritável", "Distúrbios Cardíacos, Circulação e Pressão Arterial Alta", "Função Cognitiva em Idosos", "Síndrome Metabólica e Perda de Peso", "Reduz o Risco de Infecções"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Uso em Cápsulas",
+        "descricao": "A melhor maneira de fazer uso da Rhodiola é através de capsulas do extrato seco padronizado, que podem ser adquiridas em lojas especializadas ou solicitadas em farmácias que preparam medicamentos sob encomenda."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Pode ter efeitos estimulantes, por isso é melhor tomá-la no início da manhã. Não use sem consultar um médico se estiver tomando medicamentos antidepressivos, antipsicóticos, ansiolíticos e outros.",
+    "imagemUrl": "https://i.imgur.com/d7K9gLp.jpeg"
+  },
+  {
+    "id": 77,
+    "nomePopular": "Unha de Gato",
+    "nomeCientifico": "Uncaria tomentosa",
+    "parteUsada": "Entrecasca",
+    "formaDeUsoPrincipal": "Chá, Decocção, Cápsulas",
+    "usosPrincipais": [
+      "Artrite, Artrite Reumatoide e Osteoartrite", "Herpes, HIV e Infecções Virais", "Infecções Bacterianas", "Doenças Autoimunes", "Fortalecimento do Sistema Imunológico", "Gastrite", "Úlceras Gástricas e duodenais", "Síndrome do Intestino Irritável", "Câncer", "Diabetes", "Doença de Alzheimer e Doenças de Parkinson", "Alergias", "Fatiga Crônica", "Problemas de Pele"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Chá de Unha de Gato",
+        "descricao": "Use 1 colher de sobremesa da raiz picada ou desfiada ou ½ colher de sobremesa da raiz em pó para 1 xícara de água (150 ml). Despeje a água fervente sobre as ervas, tampe, aguarde esfriar e coe para remover as ervas. Beba de 2 a 3 xícaras distribuídas ao longo do dia."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Não tome se estiver grávida, amamentando ou tentando engravidar. Não tome se tiver um distúrbio autoimune. Consulte seu profissional de saúde se estiver tomando anticoagulantes ou outros medicamentos prescritos.",
+    "imagemUrl": "https://i.imgur.com/O6LdMbv.jpeg"
+  },
+  {
+    "id": 78,
+    "nomePopular": "Uva-ursi",
+    "nomeCientifico": "Arctostaphylos uva-ursi",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá, Tintura, Cápsulas",
+    "usosPrincipais": [
+      "Infecções Urinárias e Vaginais", "Cistite e Uretrite", "Anti-inflamatória", "Artrite e Outras Inflamações", "Adstringente, Diarreia e Sangramentos", "Feridas, Lesões na Pele e Cicatrização", "Pedras nos Rins", "Síndrome da Bexiga Irritável"
+    ],
+    "receitasRapidas": [
+      {
+        "titulo": "Chá de Folhas de Uva Ursi",
+        "descricao": "Use 1 colher de sobremesa de folhas secas para uma 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade de erva. Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Coe para retirar as ervas e tome 3 xícaras por dia."
+      }
+    ],
+    "cuidadosEContraindicacoes": "Rica em taninos, pode causar constipação intestinal se ingerida em excesso. Não usar durante a gravidez. O uso a longo prazo pode sobrecarregar o fígado.",
+    "imagemUrl": "https://i.imgur.com/v8R4s7D.jpeg"
+  },
+  {
+    "id": 79,
+    "nomePopular": "Guaco",
+    "nomeCientifico": "Mikania glomerata",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá, Xarope, Tintura",
+    "usosPrincipais": ["Expectorante", "Broncodilatador", "Tosse", "Asma", "Bronquite", "Resfriados e Gripes", "Anti-inflamatório", "Antialérgico"],
+    "receitasRapidas": [{ "titulo": "Chá de Guaco", "descricao": "1 colher de sopa de folhas frescas para 1 xícara de água (150 ml). Ferva a água, adicione as folhas e deixe em infusão por 5 minutos. Coe e beba até 3 vezes ao dia." }, { "titulo": "Xarope de Guaco com Mel", "descricao": "Faça um chá concentrado com 1 xícara de folhas para 1 xícara de água. Coe e misture com 1 xícara de mel em fogo baixo até engrossar. Tome 1 colher de sopa 3x ao dia." }],
+    "cuidadosEContraindicacoes": "Contraindicado para grávidas, lactantes e pessoas com doenças hepáticas. O uso excessivo pode causar vômitos e diarreia. Pode interagir com medicamentos anticoagulantes.",
+    "imagemUrl": "https://i.imgur.com/hUa5T6t.jpeg"
+  },
+  {
+    "id": 80,
+    "nomePopular": "Erva-doce (Anis)",
+    "nomeCientifico": "Pimpinella anisum",
+    "parteUsada": "Sementes",
+    "formaDeUsoPrincipal": "Chá",
+    "usosPrincipais": ["Gases e Inchaço", "Cólicas Intestinais", "Indigestão", "Expectorante", "Aumenta a produção de leite materno"],
+    "receitasRapidas": [{ "titulo": "Chá de Erva-doce", "descricao": "1 colher de chá de sementes para 1 xícara de água (150ml). Esmague levemente as sementes, despeje água fervente, tampe por 10 min. Beba após as refeições." }],
+    "cuidadosEContraindicacoes": "Geralmente seguro, mas o uso em excesso pode causar reações alérgicas. Não recomendado para grávidas em grandes quantidades.",
+    "imagemUrl": "https://i.imgur.com/d2j3k4F.jpeg"
+  },
+  {
+    "id": 81,
+    "nomePopular": "Alcachofra",
+    "nomeCientifico": "Cynara scolymus",
+    "parteUsada": "Folhas, flor",
+    "formaDeUsoPrincipal": "Chá, Cápsulas, Alimento",
+    "usosPrincipais": ["Proteção do Fígado", "Redução do Colesterol", "Melhora a Digestão de Gorduras", "Diurético", "Gases e Inchaço"],
+    "receitasRapidas": [{ "titulo": "Chá de Folhas de Alcachofra", "descricao": "1 colher de sopa de folhas secas para 1 litro de água. Ferva por 5 minutos, coe e beba ao longo do dia." }],
+    "cuidadosEContraindicacoes": "Contraindicado para pessoas com obstrução do ducto biliar ou alergia à família Asteraceae. Não recomendado para grávidas e lactantes.",
+    "imagemUrl": "https://i.imgur.com/f9L8g7s.jpeg"
+  },
+  {
+    "id": 82,
+    "nomePopular": "Boldo",
+    "nomeCientifico": "Peumus boldus",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá",
+    "usosPrincipais": ["Má Digestão", "Problemas de Fígado e Vesícula", "Azia", "Gases", "Ressaca"],
+    "receitasRapidas": [{ "titulo": "Chá de Boldo", "descricao": "1 colher de chá de folhas secas picadas para 1 xícara de água (150 ml). Despeje água fervente, tampe por 10 min. Beba até 2 vezes ao dia. Não exceda 30 dias de uso contínuo." }],
+    "cuidadosEContraindicacoes": "Não usar na gravidez, amamentação ou em casos de obstrução das vias biliares. O uso prolongado e em altas doses pode ser tóxico para o fígado.",
+    "imagemUrl": "https://i.imgur.com/vHq1YDB.jpeg"
+  },
+  {
+    "id": 83,
+    "nomePopular": "Espinheira-santa",
+    "nomeCientifico": "Maytenus ilicifolia",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá, Cápsulas",
+    "usosPrincipais": ["Gastrite", "Úlceras Estomacais", "Azia e Refluxo", "Má Digestão", "Gases"],
+    "receitasRapidas": [{ "titulo": "Chá de Espinheira-santa", "descricao": "1 colher de sopa de folhas secas para 1 xícara de água fervente. Deixe em infusão por 10 minutos. Beba 30 minutos antes das refeições." }],
+    "cuidadosEContraindicacoes": "Contraindicado para grávidas (pode causar aborto) e lactantes (reduz a produção de leite). Não usar por mais de 6 meses sem pausa.",
+    "imagemUrl": "https://i.imgur.com/W2bAAnY.jpeg"
+  },
+  {
+    "id": 84,
+    "nomePopular": "Maracujá",
+    "nomeCientifico": "Passiflora edulis",
+    "parteUsada": "Folhas, Fruto",
+    "formaDeUsoPrincipal": "Chá (folhas), Suco (fruto)",
+    "usosPrincipais": ["Calmante", "Ansiedade", "Insônia", "Estresse", "Pressão Alta"],
+    "receitasRapidas": [{ "titulo": "Chá de Folha de Maracujá", "descricao": "1 colher de chá de folhas secas para 1 xícara de água (150 ml). Ferva a água e despeje sobre as folhas. Tampe e deixe em infusão por 10 minutos. Beba à noite." }],
+    "cuidadosEContraindicacoes": "Pode potencializar o efeito de medicamentos sedativos. Causa sonolência, evite dirigir ou operar máquinas após o consumo. Pessoas com pressão baixa devem usar com cautela.",
+    "imagemUrl": "https://i.imgur.com/L9p8m7N.jpeg"
+  },
+  {
+    "id": 85,
+    "nomePopular": "Hortelã",
+    "nomeCientifico": "Mentha spicata",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá, Tempero",
+    "usosPrincipais": ["Má Digestão", "Gases e Inchaço", "Síndrome do Intestino Irritável", "Congestão Nasal", "Mau Hálito"],
+    "receitasRapidas": [{ "titulo": "Chá de Hortelã", "descricao": "1 colher de sopa de folhas frescas ou secas para 1 xícara de água (150 ml). Despeje água fervente sobre as folhas e deixe em infusão por 5-10 minutos. Beba após as refeições." }],
+    "cuidadosEContraindicacoes": "Não recomendado para bebês e crianças pequenas. Pessoas com refluxo severo devem evitar, pois pode relaxar o esfíncter do esôfago.",
+    "imagemUrl": "https://i.imgur.com/5lR3s1P.jpeg"
+  },
+  {
+    "id": 86,
+    "nomePopular": "Catuaba",
+    "nomeCientifico": "Anemopaegma arvense",
+    "parteUsada": "Casca",
+    "formaDeUsoPrincipal": "Decocção, Tintura",
+    "usosPrincipais": ["Estimulante Sexual (afrodisíaco)", "Fadiga Física e Mental", "Memória e Concentração", "Esgotamento Nervoso"],
+    "receitasRapidas": [{ "titulo": "Decocção de Catuaba", "descricao": "1 colher de sopa de casca para 500 ml de água. Ferva por 10-15 minutos. Coe e beba 1 a 2 xícaras por dia." }],
+    "cuidadosEContraindicacoes": "Contraindicado para grávidas, lactantes e pessoas com problemas cardíacos ou pressão alta. O uso excessivo pode causar insônia e agitação.",
+    "imagemUrl": "https://i.imgur.com/d9jAnvV.jpeg"
+  },
+  {
+    "id": 87,
+    "nomePopular": "Marapuama",
+    "nomeCientifico": "Ptychopetalum olacoides",
+    "parteUsada": "Casca, Raiz",
+    "formaDeUsoPrincipal": "Decocção, Tintura",
+    "usosPrincipais": ["Disfunção Erétil e Impotência", "Aumento da Libido", "Estresse e Fadiga", "Reumatismo", "Melhora da Memória"],
+    "receitasRapidas": [{ "titulo": "Decocção de Marapuama", "descricao": "2 colheres de sopa de casca/raiz para 1 litro de água. Ferva por 20 minutos. Deixe esfriar, coe e beba 2 a 3 xícaras ao dia." }],
+    "cuidadosEContraindicacoes": "Contraindicado para grávidas, lactantes e pessoas com hipertensão ou problemas cardíacos. O uso excessivo pode causar insônia e tremores.",
+    "imagemUrl": "https://i.imgur.com/OqJ9m6z.jpeg"
+  },
+  {
+    "id": 88,
+    "nomePopular": "Aroeira-vermelha",
+    "nomeCientifico": "Schinus terebinthifolia",
+    "parteUsada": "Casca, Folhas",
+    "formaDeUsoPrincipal": "Chá, Banho de assento",
+    "usosPrincipais": ["Anti-inflamatório", "Cicatrizante", "Antimicrobiano", "Infecções Ginecológicas", "Infecções Urinárias", "Reumatismo"],
+    "receitasRapidas": [{ "titulo": "Banho de Assento", "descricao": "Ferva 20g de casca em 1 litro de água por 10 minutos. Coe, espere amornar e faça o banho de assento por 15 minutos, 1 vez ao dia." }],
+    "cuidadosEContraindicacoes": "Uso interno deve ser feito com cautela e por curtos períodos. Pode ser tóxica em altas doses. Contraindicada para grávidas e lactantes. Pode causar alergia de pele.",
+    "imagemUrl": "https://i.imgur.com/uFkSrg2.jpeg"
+  },
+  {
+    "id": 89,
+    "nomePopular": "Chapéu-de-couro",
+    "nomeCientifico": "Echinodorus grandiflorus",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá",
+    "usosPrincipais": ["Diurético", "Depurativo (limpeza do sangue)", "Reumatismo e Artrite", "Gota (Ácido Úrico)", "Problemas de Pele"],
+    "receitasRapidas": [{ "titulo": "Chá de Chapéu-de-couro", "descricao": "1 colher de sopa de folhas secas para 1 litro de água. Ferva por 5 minutos, deixe em infusão por mais 10. Coe e beba ao longo do dia." }],
+    "cuidadosEContraindicacoes": "Contraindicado para pessoas com insuficiência cardíaca ou renal. Por ser diurético, pode causar perda de minerais com o uso prolongado.",
+    "imagemUrl": "https://i.imgur.com/eun02sC.jpeg"
+  },
+  {
+    "id": 90,
+    "nomePopular": "Quebra-pedra",
+    "nomeCientifico": "Phyllanthus niruri",
+    "parteUsada": "Planta inteira",
+    "formaDeUsoPrincipal": "Chá",
+    "usosPrincipais": ["Cálculos Renais (Pedras nos Rins)", "Infecções Urinárias", "Proteção do Fígado", "Redução do Ácido Úrico", "Pressão Alta"],
+    "receitasRapidas": [{ "titulo": "Chá de Quebra-pedra", "descricao": "1 colher de sopa da planta seca para 500 ml de água. Ferva por 5-10 minutos. Coe e beba 2 a 3 xícaras ao dia." }],
+    "cuidadosEContraindicacoes": "Não deve ser usado por mais de 2 semanas seguidas. Contraindicado para grávidas e lactantes. Use com cautela se tiver pressão baixa.",
+    "imagemUrl": "https://i.imgur.com/a9k9Y8r.jpeg"
+  },
+  {
+    "id": 91,
+    "nomePopular": "Alecrim",
+    "nomeCientifico": "Rosmarinus officinalis",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá, Tempero, Óleo essencial",
+    "usosPrincipais": ["Melhora da Memória e Concentração", "Alívio do Estresse", "Melhora da Digestão", "Anti-inflamatório", "Antioxidante"],
+    "receitasRapidas": [{ "titulo": "Chá de Alecrim", "descricao": "1 colher de chá de folhas secas para 1 xícara de água fervente (150 ml). Deixe em infusão por 5-10 minutos. Beba até 3 xícaras por dia." }],
+    "cuidadosEContraindicacoes": "Não recomendado para grávidas, lactantes e crianças pequenas. Em altas doses, pode ser irritante para o estômago e rins.",
+    "imagemUrl": "https://i.imgur.com/9v8B2kC.jpeg"
+  },
+  {
+    "id": 92,
+    "nomePopular": "Tanchagem",
+    "nomeCientifico": "Plantago major",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá, Gargarejo, Cataplasma",
+    "usosPrincipais": ["Inflamações de Garganta e Boca", "Tosse e Bronquite", "Cicatrizante para Feridas", "Problemas Gastrointestinais", "Infecções Urinárias"],
+    "receitasRapidas": [{ "titulo": "Gargarejo para Dor de Garganta", "descricao": "Faça um chá forte com 2 colheres de sopa de folhas para 1 xícara de água. Deixe amornar e faça gargarejos várias vezes ao dia." }],
+    "cuidadosEContraindicacoes": "Geralmente segura. Contraindicada na gravidez. Pessoas com obstrução intestinal devem evitar.",
+    "imagemUrl": "https://i.imgur.com/c6F8s9b.jpeg"
+  },
+  {
+    "id": 93,
+    "nomePopular": "Malva",
+    "nomeCientifico": "Malva sylvestris",
+    "parteUsada": "Folhas, Flores",
+    "formaDeUsoPrincipal": "Chá, Gargarejo",
+    "usosPrincipais": ["Tosse Seca e Irritativa", "Dor de Garganta", "Inflamações na Boca (gengivite, aftas)", "Prisão de Ventre (laxante suave)", "Irritações de Pele"],
+    "receitasRapidas": [{ "titulo": "Chá de Malva", "descricao": "1 colher de sopa de flores e folhas secas para 1 xícara de água fervente (150 ml). Infusão por 10 minutos. Beba morno." }],
+    "cuidadosEContraindicacoes": "Geralmente segura. O uso excessivo pode ter efeito laxante. Não há contraindicações significativas, mas grávidas devem consultar um médico.",
+    "imagemUrl": "https://i.imgur.com/f7jYf8q.jpeg"
+  },
+  {
+    "id": 94,
+    "nomePopular": "Cúrcuma (Açafrão-da-terra)",
+    "nomeCientifico": "Curcuma longa",
+    "parteUsada": "Rizoma (raiz)",
+    "formaDeUsoPrincipal": "Pó (tempero), Cápsulas, Chá",
+    "usosPrincipais": ["Anti-inflamatório Potente", "Artrite e Dores Articulares", "Antioxidante", "Melhora da Função Cerebral", "Proteção do Fígado"],
+    "receitasRapidas": [{ "titulo": "Leite Dourado", "descricao": "Aqueça 1 xícara de leite (pode ser vegetal) com 1 colher de chá de cúrcuma em pó, uma pitada de pimenta preta (melhora absorção), e adoce a gosto. Beba antes de dormir." }],
+    "cuidadosEContraindicacoes": "Pode interagir com anticoagulantes. Contraindicado para pessoas com obstrução das vias biliares. Em altas doses, pode causar desconforto estomacal.",
+    "imagemUrl": "https://i.imgur.com/h9vC0h4.jpeg"
+  },
+  {
+    "id": 95,
+    "nomePopular": "Mentrasto",
+    "nomeCientifico": "Ageratum conyzoides",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá, Cataplasma",
+    "usosPrincipais": ["Artrite e Artrose", "Dores Articulares e Reumáticas", "Relaxante Muscular", "Anti-inflamatório", "Cólicas"],
+    "receitasRapidas": [{ "titulo": "Cataplasma para Dores Articulares", "descricao": "Amasse folhas frescas até formar uma pasta. Aplique sobre a articulação dolorida e cubra com um pano por 30 minutos." }],
+    "cuidadosEContraindicacoes": "Não usar as flores, que podem ser tóxicas. Contraindicado para pessoas com problemas hepáticos e durante a gravidez e amamentação.",
+    "imagemUrl": "https://i.imgur.com/hUa5T6t.jpeg"
+  },
+  {
+    "id": 96,
+    "nomePopular": "Erva-baleeira",
+    "nomeCientifico": "Cordia verbenacea",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá, Pomada, Tintura",
+    "usosPrincipais": ["Anti-inflamatório", "Analgésico", "Artrite e Reumatismo", "Dores Musculares", "Contusões"],
+    "receitasRapidas": [{ "titulo": "Chá de Erva-baleeira", "descricao": "1 colher de sopa de folhas frescas ou secas para 1 xícara de água (150 ml). Ferva por 3 minutos, coe e beba 2 vezes ao dia." }],
+    "cuidadosEContraindicacoes": "Geralmente segura, sem toxicidade relatada. Evitar o uso das flores. Gestantes e lactantes devem consultar um profissional de saúde.",
+    "imagemUrl": "https://i.imgur.com/7vj7V0c.jpeg"
+  },
+  {
+    "id": 97,
+    "nomePopular": "Sucupira",
+    "nomeCientifico": "Pterodon emarginatus",
+    "parteUsada": "Sementes",
+    "formaDeUsoPrincipal": "Óleo, Decocção da semente",
+    "usosPrincipais": ["Artrite e Artrose", "Dores na Coluna", "Reumatismo", "Gota (Ácido Úrico)", "Inflamações em geral"],
+    "receitasRapidas": [{ "titulo": "Decocção de Semente de Sucupira", "descricao": "Quebre 4-5 sementes e ferva em 1 litro de água por 10 minutos. Coe e beba ao longo do dia." }],
+    "cuidadosEContraindicacoes": "Contraindicado para grávidas, lactantes e pessoas com problemas renais ou hepáticos. O uso deve ser moderado.",
+    "imagemUrl": "https://i.imgur.com/d9jAnvV.jpeg"
+  },
+  {
+    "id": 98,
+    "nomePopular": "Copaíba",
+    "nomeCientifico": "Copaifera sp.",
+    "parteUsada": "Óleo-resina",
+    "formaDeUsoPrincipal": "Óleo (uso interno e externo)",
+    "usosPrincipais": ["Anti-inflamatório", "Cicatrizante", "Antisséptico", "Problemas de Pele (dermatite, psoríase)", "Dores Musculares e Articulares"],
+    "receitasRapidas": [{ "titulo": "Uso Interno do Óleo", "descricao": "Diluir 1 a 2 gotas do óleo em um pouco de água ou mel. Tomar 1 a 3 vezes ao dia. Não exceder a dose." }],
+    "cuidadosEContraindicacoes": "Contraindicado para grávidas e lactantes. O uso excessivo pode causar problemas gastrointestinais. Sempre use óleos de fontes confiáveis.",
+    "imagemUrl": "https://i.imgur.com/uFkSrg2.jpeg"
+  },
+  {
+    "id": 99,
+    "nomePopular": "Canela-de-velho",
+    "nomeCientifico": "Miconia albicans",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá",
+    "usosPrincipais": ["Artrose", "Artrite Reumatoide", "Dores Articulares", "Dores na Coluna", "Anti-inflamatório"],
+    "receitasRapidas": [{ "titulo": "Chá de Canela-de-velho", "descricao": "1 colher de sopa de folhas secas para 1 litro de água. Ferva por 5 minutos, deixe em infusão por mais 10. Coe e beba 2 xícaras ao dia." }],
+    "cuidadosEContraindicacoes": "Há controvérsias sobre a toxicidade (acúmulo de alumínio). Use com moderação e por períodos curtos (máx. 30 dias). Contraindicado para grávidas e lactantes.",
+    "imagemUrl": "https://i.imgur.com/YQ8xJ1d.jpeg"
+  },
+  {
+    "id": 100,
+    "nomePopular": "Sálvia",
+    "nomeCientifico": "Salvia officinalis",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá, Tempero",
+    "usosPrincipais": ["Ondas de Calor da Menopausa", "Sudorese Excessiva", "Inflamações de Boca e Garganta", "Melhora da Memória", "Digestivo"],
+    "receitasRapidas": [{ "titulo": "Chá para Ondas de Calor", "descricao": "1 colher de sopa de folhas secas em 1 xícara de água fervente. Deixe em infusão por 15 min. Beba 1 a 2 vezes ao dia, de preferência frio." }],
+    "cuidadosEContraindicacoes": "Não deve ser usada por grávidas, lactantes e pessoas com epilepsia. O uso prolongado e em altas doses pode ser neurotóxico devido à tujona.",
+    "imagemUrl": "https://i.imgur.com/t3g4h5S.jpeg"
+  },
+  {
+    "id": 101,
+    "nomePopular": "Sabugueiro",
+    "nomeCientifico": "Sambucus nigra",
+    "parteUsada": "Flores, Frutos (cozidos)",
+    "formaDeUsoPrincipal": "Chá (flores), Xarope (frutos)",
+    "usosPrincipais": ["Gripes e Resfriados", "Febre (sudorífico)", "Sinusite e Congestão Nasal", "Fortalecimento do Sistema Imunológico"],
+    "receitasRapidas": [{ "titulo": "Chá de Flor de Sabugueiro", "descricao": "2 colheres de chá de flores secas para 1 xícara de água fervente (150 ml). Deixe em infusão por 10 minutos. Beba quente." }],
+    "cuidadosEContraindicacoes": "Folhas, caules e frutos crus são tóxicos. Use apenas flores ou frutos bem cozidos. Contraindicado na gravidez e amamentação.",
+    "imagemUrl": "https://i.imgur.com/d8p1Q4D.jpeg"
+  },
+  {
+    "id": 102,
+    "nomePopular": "Carqueja",
+    "nomeCientifico": "Baccharis trimera",
+    "parteUsada": "Hastes",
+    "formaDeUsoPrincipal": "Chá",
+    "usosPrincipais": ["Problemas Digestivos", "Má Digestão e Gases", "Proteção do Fígado", "Diabetes (ajuda a baixar a glicemia)", "Emagrecimento"],
+    "receitasRapidas": [{ "titulo": "Chá de Carqueja", "descricao": "1 colher de sopa de hastes picadas para 500 ml de água. Ferva por 5 minutos. Beba antes das principais refeições." }],
+    "cuidadosEContraindicacoes": "Contraindicada para grávidas e lactantes. Pessoas com pressão baixa devem usar com cautela. Pode potencializar o efeito de hipoglicemiantes.",
+    "imagemUrl": "https://i.imgur.com/x0r4qfB.jpeg"
+  },
+  {
+    "id": 103,
+    "nomePopular": "Pata-de-vaca",
+    "nomeCientifico": "Bauhinia forficata",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá",
+    "usosPrincipais": ["Diabetes (efeito hipoglicemiante)", "Diurético", "Problemas Renais"],
+    "receitasRapidas": [{ "titulo": "Chá de Pata-de-vaca", "descricao": "2 folhas para 1 xícara de água (150 ml). Ferva por 5 minutos, coe e beba 2 vezes ao dia." }],
+    "cuidadosEContraindicacoes": "Deve ser usada com acompanhamento médico por diabéticos, pois pode causar hipoglicemia. Contraindicada para grávidas e lactantes.",
+    "imagemUrl": "https://i.imgur.com/K7p9e4G.jpeg"
+  },
+  {
+    "id": 104,
+    "nomePopular": "Alfavaca",
+    "nomeCientifico": "Ocimum gratissimum",
+    "parteUsada": "Folhas, Flores",
+    "formaDeUsoPrincipal": "Chá, Tempero",
+    "usosPrincipais": ["Gripes e Resfriados", "Tosse e Bronquite", "Problemas Digestivos", "Antisséptico Bucal", "Calmante"],
+    "receitasRapidas": [{ "titulo": "Chá de Alfavaca", "descricao": "10 folhas frescas para 1 xícara de água fervente. Deixe em infusão por 10 minutos. Beba morno." }],
+    "cuidadosEContraindicacoes": "Contraindicada na gravidez. O uso contínuo e excessivo deve ser evitado.",
+    "imagemUrl": "https://i.imgur.com/x0r4qfC.jpeg"
+  },
+  {
+    "id": 105,
+    "nomePopular": "Ançarinha-branca",
+    "nomeCientifico": "Chenopodium album",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá, Alimento (cozido)",
+    "usosPrincipais": ["Vermes Intestinais", "Prisão de Ventre", "Inflamações", "Gota"],
+    "receitasRapidas": [{ "titulo": "Chá de Ançarinha-branca", "descricao": "1 colher de chá de folhas secas para 1 xícara de água fervente. Infusão por 10 minutos." }],
+    "cuidadosEContraindicacoes": "Contém oxalatos, portanto deve ser evitada por pessoas com problemas renais. Não consumir crua em grandes quantidades. Contraindicada na gravidez.",
+    "imagemUrl": "https://i.imgur.com/p1Q2v5j.jpeg"
+  },
+  {
+    "id": 106,
+    "nomePopular": "Cardo-mariano",
+    "nomeCientifico": "Silybum marianum",
+    "parteUsada": "Sementes",
+    "formaDeUsoPrincipal": "Cápsulas, Chá (decocção)",
+    "usosPrincipais": ["Proteção e Regeneração do Fígado", "Hepatite e Cirrose", "Desintoxicação", "Má Digestão", "Redução do Colesterol"],
+    "receitasRapidas": [{ "titulo": "Chá de Sementes de Cardo-mariano", "descricao": "1 colher de chá de sementes moídas para 1 xícara de água. Ferva por 10 minutos, coe e beba antes das refeições." }],
+    "cuidadosEContraindicacoes": "Contraindicado para grávidas, lactantes e pessoas com alergia à família Asteraceae. Pode ter um leve efeito laxativo.",
+    "imagemUrl": "https://i.imgur.com/kY7hF2w.jpeg"
+  },
+  {
+    "id": 107,
+    "nomePopular": "Lavanda",
+    "nomeCientifico": "Lavandula angustifolia",
+    "parteUsada": "Flores",
+    "formaDeUsoPrincipal": "Chá, Óleo essencial",
+    "usosPrincipais": ["Ansiedade e Estresse", "Insônia", "Dores de Cabeça", "Problemas de Pele (acne, queimaduras)", "Dores Musculares"],
+    "receitasRapidas": [{ "titulo": "Chá de Lavanda", "descricao": "1 colher de chá de flores secas para 1 xícara de água fervente. Infusão por 5-10 minutos. Beba antes de dormir." }],
+    "cuidadosEContraindicacoes": "Geralmente segura. O óleo essencial não deve ser ingerido. Grávidas e lactantes devem consultar um médico.",
+    "imagemUrl": "https://i.imgur.com/L5B7n6C.jpeg"
+  },
+  {
+    "id": 108,
+    "nomePopular": "Losna (Absinto)",
+    "nomeCientifico": "Artemisia absinthium",
+    "parteUsada": "Folhas, Flores",
+    "formaDeUsoPrincipal": "Chá (uso muito moderado)",
+    "usosPrincipais": ["Vermes Intestinais", "Má Digestão", "Falta de Apetite", "Problemas de Fígado e Vesícula"],
+    "receitasRapidas": [{ "titulo": "Chá de Losna", "descricao": "1/2 colher de chá de folhas secas para 1 xícara de água fervente. Infusão por 5 minutos. Beba em pequenas doses." }],
+    "cuidadosEContraindicacoes": "Planta tóxica se usada em excesso ou por tempo prolongado devido à tujona. Contraindicada para grávidas, lactantes, pessoas com epilepsia e problemas gástricos graves.",
+    "imagemUrl": "https://i.imgur.com/O6LdMbv.jpeg"
+  },
+  {
+    "id": 109,
+    "nomePopular": "Lúpulo",
+    "nomeCientifico": "Humulus lupulus",
+    "parteUsada": "Flores (cones)",
+    "formaDeUsoPrincipal": "Chá, Tintura",
+    "usosPrincipais": ["Insônia e Agitação", "Ansiedade", "Sintomas da Menopausa", "Problemas Digestivos (falta de apetite)"],
+    "receitasRapidas": [{ "titulo": "Chá de Lúpulo", "descricao": "1 a 2 cones de lúpulo para 1 xícara de água fervente. Infusão por 10-15 minutos. Beba antes de dormir." }],
+    "cuidadosEContraindicacoes": "Pode causar sonolência. Contraindicado para pessoas com depressão e durante a gravidez e amamentação. Pode interagir com sedativos.",
+    "imagemUrl": "https://i.imgur.com/z4b0mNq.jpeg"
+  },
+  {
+    "id": 110,
+    "nomePopular": "Orégano",
+    "nomeCientifico": "Origanum vulgare",
+    "parteUsada": "Folhas",
+    "formaDeUsoPrincipal": "Chá, Tempero, Óleo essencial",
+    "usosPrincipais": ["Antisséptico e Antifúngico", "Problemas Respiratórios (tosse)", "Distúrbios Digestivos", "Antioxidante"],
+    "receitasRapidas": [{ "titulo": "Chá de Orégano", "descricao": "1 colher de sopa de folhas frescas ou 1 de chá de folhas secas para 1 xícara de água fervente. Infusão por 10 minutos." }],
+    "cuidadosEContraindicacoes": "Geralmente seguro como tempero. O óleo essencial é muito forte e deve ser diluído para uso. Grávidas devem evitar o consumo em grandes quantidades.",
+    "imagemUrl": "https://i.imgur.com/9v8B2kC.jpeg"
+  },
+  {
+    "id": 111,
+    "nomePopular": "Scutellaria",
+    "nomeCientifico": "Scutellaria lateriflora",
+    "parteUsada": "Partes aéreas",
+    "formaDeUsoPrincipal": "Chá, Tintura, Cápsulas",
+    "usosPrincipais": ["Ansiedade e Tensão Nervosa", "Estresse", "Insônia", "Dores de Cabeça Tensionais", "Espasmos Musculares"],
+    "receitasRapidas": [{ "titulo": "Chá de Scutellaria", "descricao": "1 a 2 colheres de chá da erva seca para 1 xícara de água fervente. Infusão por 10-15 minutos. Beba 2 a 3 vezes ao dia." }],
+    "cuidadosEContraindicacoes": "Pode causar sonolência. Interage com sedativos. Contraindicada na gravidez e amamentação. Use com cautela em caso de problemas hepáticos.",
+    "imagemUrl": "https://i.imgur.com/rP3iE6S.jpeg"
+  },
+  {
+    "id": 112,
+    "nomePopular": "Tomilho",
+    "nomeCientifico": "Thymus vulgaris",
+    "parteUsada": "Folhas, Flores",
+    "formaDeUsoPrincipal": "Chá, Tempero, Óleo essencial",
+    "usosPrincipais": ["Tosse e Bronquite (Expectorante)", "Antisséptico", "Problemas Digestivos", "Infecções Fúngicas"],
+    "receitasRapidas": [{ "titulo": "Chá para Tosse", "descricao": "1 colher de chá de tomilho seco para 1 xícara de água fervente. Infusão por 10 minutos. Adicione mel e limão. Beba várias vezes ao dia." }],
+    "cuidadosEContraindicacoes": "Geralmente seguro. O óleo essencial é potente e não deve ser ingerido. Grávidas devem evitar o uso em grandes quantidades.",
+    "imagemUrl": "https://i.imgur.com/rS2a8Vf.jpeg"
+  },
+  {
+    "id": 113,
+    "nomePopular": "Valeriana",
+    "nomeCientifico": "Valeriana officinalis",
+    "parteUsada": "Raiz",
+    "formaDeUsoPrincipal": "Chá, Tintura, Cápsulas",
+    "usosPrincipais": ["Insônia", "Ansiedade e Agitação", "Estresse", "Cólicas Menstruais"],
+    "receitasRapidas": [{ "titulo": "Chá de Raiz de Valeriana", "descricao": "1 colher de chá de raiz seca para 1 xícara de água fervente. Deixe em infusão por 10-15 minutos. Beba 30-60 minutos antes de dormir." }],
+    "cuidadosEContraindicacoes": "Pode causar sonolência. Não utilize antes de dirigir ou operar máquinas. Não combine com álcool ou outros sedativos. O uso contínuo por mais de um mês pode requerer desmame gradual.",
+    "imagemUrl": "https://i.imgur.com/6X2h8vj.jpeg"
+  },
+  {
+    "id": 114,
+    "nomePopular": "Verbasco",
+    "nomeCientifico": "Verbascum thapsus",
+    "parteUsada": "Folhas, Flores",
+    "formaDeUsoPrincipal": "Chá, Óleo infundido",
+    "usosPrincipais": ["Tosse Seca e Irritativa", "Bronquite e Asma", "Dor de Ouvido (óleo)", "Expectorante"],
+    "receitasRapidas": [{ "titulo": "Chá de Verbasco", "descricao": "1 a 2 colheres de chá de folhas ou flores secas para 1 xícara de água fervente. Infusão por 10-15 minutos. É crucial coar bem (em filtro de papel ou pano fino) para remover os pelos irritantes da planta." }],
+    "cuidadosEContraindicacoes": "As sementes são tóxicas. Sempre coe o chá para remover os pelos finos das folhas, que podem irritar a garganta. Grávidas e lactantes devem evitar.",
+    "imagemUrl": "https://i.imgur.com/L1b5eAg.jpeg"
+  },
+  {
+    "id": 115,
+    "nomePopular": "Trevo-vermelho",
+    "nomeCientifico": "Trifolium pratense",
+    "parteUsada": "Flores",
+    "formaDeUsoPrincipal": "Chá, Cápsulas",
+    "usosPrincipais": ["Sintomas da Menopausa (isoflavonas)", "Depurativo (limpeza do sangue)", "Problemas de Pele (eczema, psoríase)", "Tosse e Bronquite"],
+    "receitasRapidas": [{ "titulo": "Chá de Trevo-vermelho", "descricao": "1 a 2 colheres de chá de flores secas para 1 xícara de água fervente. Infusão por 10 minutos. Beba até 3 vezes ao dia." }],
+    "cuidadosEContraindicacoes": "Devido à sua atividade estrogênica, deve ser evitado por grávidas, lactantes e mulheres com histórico de câncer sensível a hormônios. Pode interagir com anticoagulantes.",
+    "imagemUrl": "https://i.imgur.com/Yw9v0uO.jpeg"
+  },
+  {
+    "id": 116,
+    "nomePopular": "Alcaçuz",
+    "nomeCientifico": "Glycyrrhiza glabra",
+    "parteUsada": "Raiz",
+    "formaDeUsoPrincipal": "Chá (Decocção), Pastilhas",
+    "usosPrincipais": ["Tosse e Dor de Garganta", "Problemas Gástricos (azia, úlceras)", "Fadiga Adrenal", "Anti-inflamatório"],
+    "receitasRapidas": [{ "titulo": "Decocção de Raiz de Alcaçuz", "descricao": "1 colher de chá de raiz seca picada para 1 xícara de água. Ferva por 5-10 minutos, coe e beba." }],
+    "cuidadosEContraindicacoes": "O uso prolongado (mais de 4-6 semanas) e em altas doses pode causar aumento da pressão arterial, retenção de líquidos e queda de potássio. Contraindicado para pessoas com hipertensão, doenças cardíacas ou renais, e durante a gravidez.",
+    "imagemUrl": "https://i.imgur.com/b5R6s8T.jpeg"
   }
 ];
