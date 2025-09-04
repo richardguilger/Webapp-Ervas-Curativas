@@ -3,6 +3,33 @@ import { BookOpenIcon, SearchIcon, BeakerIcon, FireIcon, ClockIcon, ClipboardLis
 
 export const ARTHRITIS_RECIPES_DATA: PreparationSection[] = [
     {
+        id: 'introducao',
+        title: 'Introdução',
+        icon: UserIcon,
+        content: [
+            { type: 'paragraph', text: 'Caro Leitor(a), Eu me chamo Jaime Figueiredo, sou Biólogo, Mestre em Ecologia, Doutor em Biotecnologia e Biodiversidade e Especialista em Plantas Medicinais.' },
+            { type: 'paragraph', text: 'Porém, eu penso que a minha formação é o menos relevante. O mais importante é que eu já sofri com problemas de coluna (hérnia de disco), lesão por esforço repetitivo, tendinite, síndrome do túnel do carpo, desgaste da cartilagem do quadril, gota, hanseníase e dores musculares generalizadas.' },
+            { type: 'paragraph', text: 'Ou seja, tudo que eu vou compartilhar com você é a aplicação prática na minha vida. Sem dúvida que minha formação e pós-graduações me ajudaram na busca por um tratamento mais eficaz, natural e com menos efeitos colaterais.' },
+            { type: 'paragraph', text: 'Mas, foi no meu dia a dia, que eu descobri o que funciona e o que não funciona. Se você sofre com dores, leva uma vida limitada e sente que os tratamentos com remédios químicos de farmácia parecem não resolver, saiba que eu te entendo.' },
+            { type: 'paragraph', text: 'Por outro lado, não sou o dono da verdade e não estou afirmando que tenho a “fórmula mágica” que vai resolver todos os seus problemas. Afinal, cada pessoa tem um metabolismo e uma condição de saúde diferente.' },
+            { type: 'paragraph', text: 'O que eu posso afirmar é que estamos falando de um conhecimento ancestral, que foi validado pelos cientistas e se tornaram parte dos programas do Ministério da Saúde.' },
+            { type: 'paragraph', text: 'O meu maior mérito foi estudar centenas de artigos científicos, listas, formulações e separar o “lixo” da internet do que realmente funciona. Além disso, tive a preocupação de selecionar plantas que tenham baixa toxicidade e sejam seguras para a maioria das pessoas.' },
+            { type: 'paragraph', text: 'Por que para a maioria? Porque algumas pessoas têm condições especiais, que requerem cuidados extras e acompanhamento profissional próximo e constante. Se esse for seu caso, não tome qualquer preparação de plantas medicinais sem antes consultar o seu médico.' },
+            { type: 'paragraph', text: 'A propósito, eu tenho o dever de reforçar esta recomendação: este material tem um objetivo meramente informativo. Em hipótese alguma ele substitui o diagnóstico, orientação, recomendação ou prescrição realizada por um médico ou especialista da área da saúde habilitado. Sempre converse com seu médico antes de interromper um tratamento ou fazer uso de qualquer produto fitoterápicos, incluindo as plantas medicinais.' },
+            { type: 'paragraph', text: 'Agora, deixe-me falar um pouco sobre como esse material foi organizado.' },
+            { type: 'note', text: 'ESTE CONTEÚDO É MERAMENTE INFORMATIVO. EM HIPÓSTESE ALGUMA ELE SUBSTITUI O DIAGNÓSTICO OU PRESCRIÇÃO DE TRATAMENTO. AS PLANTAS E FITOTERÁPICOS NÃO SÃO ISENTOS DE EFEITOS INDESEJÁVEIS E INTERAÇÕES MEDICAMENTOSAS. SEMPRE CONVERSE COM SEU MÉDICO ANTES DE FAZER USO DE QUALQUER MEDICAMENTO, SEJA ELE QUÍMICO, FITOTERÁPICO OU IN-NATURA.' },
+            { type: 'subheading', text: 'Simples e direto ao que interessa' },
+            { type: 'paragraph', text: 'Quando comecei a escrever este material pela primeira vez, fiz o que todo mundo faz... Coloquei a descrição botânica da planta, fitoquímica, problemas de saúde para a qual ela era citada, possíveis efeitos adversos, fotos e um monte de outras informações. Confesso que estava orgulhoso!' },
+            { type: 'paragraph', text: 'Até que lembrei da época que minha filha, com 3 ou 4 anos, sofria com problemas recorrentes de inflamação de garganta, febre e tosse. Infelizmente, os remédios industrializados não resolviam. Foram muitas noites sem dormir ou passadas com ela internada no hospital.' },
+            { type: 'paragraph', text: 'Naquela época eu não sabia nada sobre plantas medicinais. Mas, desesperado com a ineficácia dos tratamentos alopáticos, resolvi buscar ajuda nas plantas medicinais. Eu achei seria algo simples. Afinal, se os antigos usavam as plantas para tratar a maioria dos problemas de saúde, não podia ser tão complicado. Mas, logo percebi que estava enganado.' },
+            { type: 'paragraph', text: 'Minhas pesquisas na internet, nos livros e consultando outras pessoas revelaram que as informações eram confusas. A mesma planta era indicada para vários problemas de saúde que não tinham relação alguma entre si. Várias plantas tratavam a mesma coisa. Num lugar falava uma coisa e, noutro, era completamente diferente. A posologia mudava, a parte da planta também.' },
+            { type: 'paragraph', text: 'Resumindo, eu me sentia mais seguro consertando um computador de última geração do que fazendo um simples chá para tosse. Para a minha tristeza, se passaram 30 anos e as coisas pouco melhoraram. A falta de clareza e as informações desencontradas continuam... até pioraram. Não é toa que as pessoas preferem usar os medicamentos industrializados.' },
+            { type: 'paragraph', text: 'Está com dor no nervo ciático? Basta encostar no balcão da farmácia para sair de lá com uma caixa de nimesulida ou outro anti-inflamatório que apenas irá aliviar os sintomas, por um tempo (em troca de vários efeitos colaterais e danos crônicos). Se não resolver, volta na farmácia e pega uma caixa de outro remédio. E, depois outro e outro.' },
+            { type: 'paragraph', text: 'Por mais que a solução fornecida pelo medicamento químico não seja definitiva e, que haja danos causados pelo próprio remédio, temos que concordar que é simples de usar. E é nesse ponto que eu queria chegar. Simplicidade. A maioria das pessoas querem apenas se livrar do problema e não se tornar um especialista em fitoterapia ou botânica.' },
+            { type: 'paragraph', text: 'Portanto, eu abandonei o livro glamouroso que estava escrevendo e recomecei do zero. Resolvi escrever um guia simples, curto, direto ao ponto e, o mais fácil possível de entender e aplicar. O resultado é este material que você recebeu. Espero que ele te ajude.' }
+        ]
+    },
+    {
         id: 'onde-conseguir',
         title: 'Onde Conseguir as Ervas',
         icon: SearchIcon,

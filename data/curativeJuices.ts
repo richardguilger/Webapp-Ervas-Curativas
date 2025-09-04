@@ -58,30 +58,21 @@ export const CURATIVE_JUICES_DATA: PreparationSection[] = [
         ]
     },
     {
-        id: 'suco-para-baixar-o-colesterol-e-a-glicemia',
-        title: 'Suco para Baixar o Colesterol e a Glicemia',
+        id: 'osteoporose-e-perda-de-densidade-ossea',
+        title: 'Osteoporose e Perda de Densidade Óssea',
         icon: BeakerIcon,
         content: [
-            { type: 'list', items: ['1 xícara de abacaxi com casca', '1 colher de sobremesa de gengibre', 'Suco de 1 limão', '1 copo de água'] },
-            { type: 'paragraph', text: 'Bata tudo no liquidificador. Coe se desejar. Tome 1 vez por dia, durante 30 dias e faça o exame. Atua na diminuição da glicemia e protege as artérias.' }
+            { type: 'list', items: ['200 ml de leite', '2 colheres de sopa de farinha de aveia', '1 mamão médio'] },
+            { type: 'paragraph', text: 'É só bater os ingredientes no liquidificador e, se desejar, coar. O leite é rico em cálcio, a aveia possui avenantramidas que protegem os tecidos ósseos, e o mamão possui papaína, que ajuda a manter a densidade dos ossos.' }
         ]
     },
     {
-        id: 'suco-para-reduzir-o-colesterol',
-        title: 'Suco para Reduzir o Colesterol',
+        id: 'suco-para-depressao',
+        title: 'Suco para Depressão',
         icon: BeakerIcon,
         content: [
-            { type: 'list', items: ['1/2 beringela', '200 ml de água ou água de coco', 'Suco de 1 limão', '2 colheres de sopa de farinha de aveia'] },
-            { type: 'paragraph', text: 'Coloque a beringela com casca de molho em água fria por 6 horas. Depois, bata no liquidificador, juntamente com os demais ingredientes. Tome 1 vez por dia em jejum.' }
-        ]
-    },
-    {
-        id: 'suco-para-reduzir-triglicerideos',
-        title: 'Suco para Reduzir Triglicerídeos',
-        icon: BeakerIcon,
-        content: [
-            { type: 'list', items: ['1/2 xícara de aveia', '200 ml de água', '1 colher de café de canela em pó'] },
-            { type: 'paragraph', text: 'Misture os ingredientes e beba 1 vez ao dia, em jejum. Se preferir, pode adicionar mais água. A aveia e a canela apresentam efeitos significativos na melhora do perfil lipídico.' }
+            { type: 'list', items: ['4 fatias de melão', '1 banana', '1 manga sem casca', '100 ml de água'] },
+            { type: 'paragraph', text: 'Bata os ingredientes no liquidificador, coe e tome 1 vez por dia. O melão, a banana e a manga são ricos em triptofano, precursor do neurotransmissor serotonina (que produz a sensação de bem-estar e felicidade).' }
         ]
     },
     {
@@ -91,6 +82,24 @@ export const CURATIVE_JUICES_DATA: PreparationSection[] = [
         content: [
             { type: 'list', items: ['1 xícara de talos e folhas de salsão (aipo)', 'Suco de 1 limão espremido', '1 xícara de água de coco'] },
             { type: 'paragraph', text: 'Bata os ingredientes no liquidificador e beba imediatamente. Tome antes de dormir, por 15 dias, dê um intervalo de 1 semana e repita.' }
+        ]
+    },
+    {
+        id: 'suco-anti-inflamatorio',
+        title: 'Suco Anti-inflamatório',
+        icon: BeakerIcon,
+        content: [
+            { type: 'list', items: ['Suco de 1 laranja', '1 cenoura média', '1 fatia de abacaxi', '1 colher de sopa de gengibre picado'] },
+            { type: 'paragraph', text: 'Descasque e bata no liquidificador com um pouco de água ou água de coco. Todas as plantas acima possuem propriedades anti-inflamatórias e antioxidantes.' }
+        ]
+    },
+    {
+        id: 'suco-para-menopausa',
+        title: 'Suco para Menopausa',
+        icon: BeakerIcon,
+        content: [
+            { type: 'list', items: ['1 xícara de amora negra', '2 xícaras de água de coco'] },
+            { type: 'paragraph', text: 'Coloque os ingredientes no liquidificador e bata. Tome 2 vezes ao dia, após as refeições. A amora negra possui fitoestrógenos com efeitos comprovados na redução dos sintomas da menopausa.' }
         ]
     },
     {
@@ -130,87 +139,6 @@ export const CURATIVE_JUICES_DATA: PreparationSection[] = [
         ]
     },
     {
-        id: 'suco-para-o-intestino-funcionar-opcao-1',
-        title: 'Suco para o Intestino Funcionar (opção 1)',
-        icon: BeakerIcon,
-        content: [
-            { type: 'list', items: ['1/2 mamão papaya', '3 ameixas secas sem o caroço', 'Suco de 1 laranja', '200 ml de água'] },
-            { type: 'paragraph', text: 'Bata todos os ingredientes no liquidificador. Não coe e tome 1 vez por dia em jejum. Possuem propriedades laxantes.' }
-        ]
-    },
-    {
-        id: 'suco-para-o-intestino-funcionar-opcao-2',
-        title: 'Suco para o Intestino Funcionar (opção 2)',
-        icon: BeakerIcon,
-        content: [
-            { type: 'list', items: ['1/2 xícara de inhame', '1/2 xicara de abacaxi com casca', '1 colher de chá rasa de Cúrcuma', '1 copo de água'] },
-            { type: 'paragraph', text: 'Bata tudo no liquidificador e coe se desejar. Tome 2 vezes por dia, antes das principais refeições. O inhame e o abacaxi são ricos em fibras que favorecem o trânsito intestinal.' }
-        ]
-    },
-    {
-        id: 'suco-para-depressao',
-        title: 'Suco para Depressão',
-        icon: BeakerIcon,
-        content: [
-            { type: 'list', items: ['4 fatias de melão', '1 banana', '1 manga sem casca', '100 ml de água'] },
-            { type: 'paragraph', text: 'Bata os ingredientes no liquidificador, coe e tome 1 vez por dia. O melão, a banana e a manga são ricos em triptofano, precursor do neurotransmissor serotonina (que produz a sensação de bem-estar e felicidade).' }
-        ]
-    },
-    {
-        id: 'suco-para-insonia',
-        title: 'Suco para Insônia',
-        icon: BeakerIcon,
-        content: [
-            { type: 'list', items: ['5 folhas de alface', '1 colher de sopa de salsa', 'Polpa de 1 maracujá'] },
-            { type: 'paragraph', text: 'Acrescente água se desejar e bata todos os ingredientes no liquidificador. Tome 1 copo antes de dormir. Possui atividade calmante e induz o sono.' }
-        ]
-    },
-    {
-        id: 'suco-para-ansiedade',
-        title: 'Suco para Ansiedade',
-        icon: BeakerIcon,
-        content: [
-            { type: 'list', items: ['1 copo de água de coco', '10 amêndoas', '1 banana'] },
-            { type: 'paragraph', text: 'Bata tudo no liquidificador e tome 1 vez por dia no início da noite. As amêndoas e a banana são ricas em triptofano, essencial para a produção de serotonina.' }
-        ]
-    },
-    {
-        id: 'suco-para-estresse',
-        title: 'Suco para Estresse',
-        icon: BeakerIcon,
-        content: [
-            { type: 'list', items: ['Polpa de 1 maracujá', '1 folha de alface', '1 copo de iogurte natural', '1 colher de levedo de cerveja', '1 colher de lecitina de soja', '1 colher de mel'] },
-            { type: 'paragraph', text: 'Bata todos os ingredientes no liquidificador a tome 1 vez por dia, de preferência ao anoitecer. Contém calmantes leves e nutrientes que combatem o estresse.' }
-        ]
-    },
-    {
-        id: 'osteoporose-e-perda-de-densidade-ossea',
-        title: 'Osteoporose e Perda de Densidade Óssea',
-        icon: BeakerIcon,
-        content: [
-            { type: 'list', items: ['200 ml de leite', '2 colheres de sopa de farinha de aveia', '1 mamão médio'] },
-            { type: 'paragraph', text: 'É só bater os ingredientes no liquidificador e, se desejar, coar. O leite é rico em cálcio, a aveia possui avenantramidas que protegem os tecidos ósseos, e o mamão possui papaína, que ajuda a manter a densidade dos ossos.' }
-        ]
-    },
-    {
-        id: 'suco-anti-inflamatorio',
-        title: 'Suco Anti-inflamatório',
-        icon: BeakerIcon,
-        content: [
-            { type: 'list', items: ['Suco de 1 laranja', '1 cenoura média', '1 fatia de abacaxi', '1 colher de sopa de gengibre picado'] },
-            { type: 'paragraph', text: 'Descasque e bata no liquidificador com um pouco de água ou água de coco. Todas as plantas acima possuem propriedades anti-inflamatórias e antioxidantes.' }
-        ]
-    },
-    {
-        id: 'suco-para-menopausa',
-        title: 'Suco para Menopausa',
-        icon: BeakerIcon,
-        content: [
-            { type: 'list', items: ['1 xícara de amora negra', '2 xícaras de água de coco'] },
-            { type: 'paragraph', text: 'Coloque os ingredientes no liquidificador e bata. Tome 2 vezes ao dia, após as refeições. A amora negra possui fitoestrógenos com efeitos comprovados na redução dos sintomas da menopausa.' }
-        ]
-    },
-    {
         id: 'suco-para-anemia-por-dificiencia-de-ferro',
         title: 'Suco para Anemia por Dificiência de Ferro',
         icon: BeakerIcon,
@@ -238,6 +166,15 @@ export const CURATIVE_JUICES_DATA: PreparationSection[] = [
         ]
     },
     {
+        id: 'suco-para-insonia',
+        title: 'Suco para Insônia',
+        icon: BeakerIcon,
+        content: [
+            { type: 'list', items: ['5 folhas de alface', '1 colher de sopa de salsa', 'Polpa de 1 maracujá'] },
+            { type: 'paragraph', text: 'Acrescente água se desejar e bata todos os ingredientes no liquidificador. Tome 1 copo antes de dormir. Possui atividade calmante e induz o sono.' }
+        ]
+    },
+    {
         id: 'suco-para-tpm',
         title: 'Suco para TPM',
         icon: BeakerIcon,
@@ -247,12 +184,75 @@ export const CURATIVE_JUICES_DATA: PreparationSection[] = [
         ]
     },
     {
+        id: 'suco-para-ansiedade',
+        title: 'Suco para Ansiedade',
+        icon: BeakerIcon,
+        content: [
+            { type: 'list', items: ['1 copo de água de coco', '10 amêndoas', '1 banana'] },
+            { type: 'paragraph', text: 'Bata tudo no liquidificador e tome 1 vez por dia no início da noite. As amêndoas e a banana são ricas em triptofano, essencial para a produção de serotonina.' }
+        ]
+    },
+    {
+        id: 'suco-para-estresse',
+        title: 'Suco para Estresse',
+        icon: BeakerIcon,
+        content: [
+            { type: 'list', items: ['Polpa de 1 maracujá', '1 folha de alface', '1 copo de iogurte natural', '1 colher de levedo de cerveja', '1 colher de lecitina de soja', '1 colher de mel'] },
+            { type: 'paragraph', text: 'Bata todos os ingredientes no liquidificador a tome 1 vez por dia, de preferência ao anoitecer. Contém calmantes leves e nutrientes que combatem o estresse.' }
+        ]
+    },
+    {
         id: 'suco-para-diabetes-tipo-2',
         title: 'Suco para Diabetes Tipo 2',
         icon: BeakerIcon,
         content: [
             { type: 'list', items: ['1 xícara de batata yacon', '1 copo de água ou água de coco'] },
             { type: 'paragraph', text: 'Bata os ingredientes no liquidificador e tome 1 vez por dia antes da primeira refeição do dia. A batata yacon demonstrou eficácia em reduzir a glicemia.' }
+        ]
+    },
+    {
+        id: 'suco-para-baixar-o-colesterol-e-a-glicemia',
+        title: 'Suco para Baixar o Colesterol e a Glicemia',
+        icon: BeakerIcon,
+        content: [
+            { type: 'list', items: ['1 xícara de abacaxi com casca', '1 colher de sobremesa de gengibre', 'Suco de 1 limão', '1 copo de água'] },
+            { type: 'paragraph', text: 'Bata tudo no liquidificador. Coe se desejar. Tome 1 vez por dia, durante 30 dias e faça o exame. Atua na diminuição da glicemia e protege as artérias.' }
+        ]
+    },
+    {
+        id: 'suco-para-reduzir-o-colesterol',
+        title: 'Suco para Reduzir o Colesterol',
+        icon: BeakerIcon,
+        content: [
+            { type: 'list', items: ['1/2 beringela', '200 ml de água ou água de coco', 'Suco de 1 limão', '2 colheres de sopa de farinha de aveia'] },
+            { type: 'paragraph', text: 'Coloque a beringela com casca de molho em água fria por 6 horas. Depois, bata no liquidificador, juntamente com os demais ingredientes. Tome 1 vez por dia em jejum.' }
+        ]
+    },
+    {
+        id: 'suco-para-reduzir-triglicerideos',
+        title: 'Suco para Reduzir Triglicerídeos',
+        icon: BeakerIcon,
+        content: [
+            { type: 'list', items: ['1/2 xícara de aveia', '200 ml de água', '1 colher de café de canela em pó'] },
+            { type: 'paragraph', text: 'Misture os ingredientes e beba 1 vez ao dia, em jejum. Se preferir, pode adicionar mais água. A aveia e a canela apresentam efeitos significativos na melhora do perfil lipídico.' }
+        ]
+    },
+    {
+        id: 'suco-para-o-intestino-funcionar-opcao-1',
+        title: 'Suco para o Intestino Funcionar (opção 1)',
+        icon: BeakerIcon,
+        content: [
+            { type: 'list', items: ['1/2 mamão papaya', '3 ameixas secas sem o caroço', 'Suco de 1 laranja', '200 ml de água'] },
+            { type: 'paragraph', text: 'Bata todos os ingredientes no liquidificador. Não coe e tome 1 vez por dia em jejum. Possuem propriedades laxantes.' }
+        ]
+    },
+    {
+        id: 'suco-para-o-intestino-funcionar-opcao-2',
+        title: 'Suco para o Intestino Funcionar (opção 2)',
+        icon: BeakerIcon,
+        content: [
+            { type: 'list', items: ['1/2 xícara de inhame', '1/2 xicara de abacaxi com casca', '1 colher de chá rasa de Cúrcuma', '1 copo de água'] },
+            { type: 'paragraph', text: 'Bata tudo no liquidificador e coe se desejar. Tome 2 vezes por dia, antes das principais refeições. O inhame e o abacaxi são ricos em fibras que favorecem o trânsito intestinal.' }
         ]
     },
     {

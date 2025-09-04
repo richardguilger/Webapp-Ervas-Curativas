@@ -1914,7 +1914,7 @@ export const HERBS: Herb[] = [
     "nomeCientifico": "Glycyrrhiza glabra",
     "parteUsada": "Raiz",
     "formaDeUsoPrincipal": "Chá (Decocção), Pastilhas",
-    "usosPrincipais": ["Tosse e Dor de Garganta", "Problemas Gástricos (azia, úlceras)", "Fadiga Adrenal", "Anti-inflamatório"],
+    "usosPrincipais": ["Tosse, Bronquite e Asma", "Dor de Garganta e Aftas", "Úlceras Gástricas, Azia e Gastrite", "Fadiga Adrenal e Baixa Pressão", "Anti-inflamatório (Artrite, Tendinite)", "Problemas de Pele (Eczema, Psoríase, Dermatite)", "Sintomas da TPM e Menopausa", "Antiviral (Hepatite C, Herpes)"],
     "receitasRapidas": [{ "titulo": "Decocção de Raiz de Alcaçuz", "descricao": "1 colher de chá de raiz seca picada para 1 xícara de água. Ferva por 5-10 minutos, coe e beba." }],
     "cuidadosEContraindicacoes": "O uso prolongado (mais de 4-6 semanas) e em altas doses pode causar aumento da pressão arterial, retenção de líquidos e queda de potássio. Contraindicado para pessoas com hipertensão, doenças cardíacas ou renais, e durante a gravidez.",
     "imagemUrl": "https://i.imgur.com/b5R6s8T.jpeg"

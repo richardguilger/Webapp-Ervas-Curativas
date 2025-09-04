@@ -19,7 +19,7 @@ export const MEDICINAL_BOTTLES_DATA: PreparationSection[] = [
         content: [
             { type: 'paragraph', text: 'Caro leitor(a), As garrafadas são uma preparação medicinal tradicional em muitos lugares do mundo, incluindo a Europa, a Índia, a China, dentre outros. Em boa parte, essa popularidade se deve a facilidade do processo de produção, que usa ingredientes e utensílios simples e prontamente disponíveis.'},
             { type: 'paragraph', text: 'Contudo, no Brasil, por questões históricas, geográficas e de eficácia, as garrafadas se tornaram uma preparação de grande sucesso. Histórica porque no Brasil a mistura das culturas europeia, indígena, africana, oriental e de muitos outros países permitiu que os conhecimentos tradicionais fossem compartilhados, resultando em preparações muito mais poderosas.' },
-            { type: 'paragraph', text: 'Geográfica because a dimensão continental do Brasil dificultava (e ainda dificulta) o acesso aos recursos medicinais modernos. Com isso quero dizer que em algumas comunidades da Amazônia e do Sertão Nordestino, chegar a um posto de saúde pública pode levar dias. Face a tais dificuldades, tais comunidades isoladas usam a medicina que a natureza lhes fornece de graça, a poucos metros de suas casas.' },
+            { type: 'paragraph', text: 'Geográfica porque a dimensão continental do Brasil dificultava (e ainda dificulta) o acesso aos recursos medicinais modernos. Com isso quero dizer que em algumas comunidades da Amazônia e do Sertão Nordestino, chegar a um posto de saúde pública pode levar dias. Face a tais dificuldades, tais comunidades isoladas usam a medicina que a natureza lhes fornece de graça, a poucos metros de suas casas.' },
             { type: 'paragraph', text: 'E eu digo eficácia porque muitos dos efeitos curativos que as garrafadas tradicionais prometem estão sendo confirmadas pela ciência. Um valioso conhecimento que ainda hoje sobrevive, passando de geração para geração, a centenas de anos. Humildemente, tenho que admitir que não sou o criador das fórmulas das garrafadas que você verá logo mais à frente. Meu trabalho neste material se resumiu a receber o conhecimento, conferir as propriedades alegadas nos artigos de investigação científica e passá-los para você. Neste aspecto, me considero muito mais um perpetuador do conhecimento tradicional (professor) do que um cientista. E é com muito orgulho que aceito essa missão. Nas próximas páginas vou lhe explicar alguns detalhes do processo de produção das garrafadas e, depois, as receitas consagradas pelo conhecimento tradicional. Dito isso, vamos em frente... Abraços, Prof. Dr. Jaime Figueiredo' }
         ]
     },
@@ -187,6 +187,21 @@ export const MEDICINAL_BOTTLES_DATA: PreparationSection[] = [
         ]
     },
     {
+        id: 'garrafada-emagrecimento-gengibre',
+        title: 'Garrafada para emagrecimento (gengibre, canela e cravo-da-índia)',
+        icon: BeakerIcon,
+        content: [
+            { type: 'paragraph', text: 'Indicada para ajudar na perda de peso. O gengibre, a canela e o cravo-da-índia possuem propriedades termogênicas, acelerando o metabolismo. Usa água como solvente para maior ingestão e menos calorias.' },
+            { type: 'subheading', text: 'Ingredientes' },
+            { type: 'list', items: ['50 gramas de gengibre fresco picado (Gengiber officinale)', '10 gramas de canela em pau (Cinnamomum verum)', '10 gramas de cravo-da-índia (Syzygium aromaticum)', '1 litro de água'] },
+            { type: 'subheading', text: 'Modo de preparo' },
+            { type: 'list', ordered: true, items: ['Em uma panela misture o gengibre, a canela, o cravo e a água.', 'Leve a mistura ao fogo com a panela tampada e deixe cozinhar por 10 minutos.', 'Desligue o fogo e deixe a mistura esfriar.', 'Filtre para remover as ervas.', 'Despeje em uma garrafa limpa e tampe bem.', 'Mantenha na geladeira e consuma dentro de 10 dias.'] },
+            { type: 'subheading', text: 'Forma de uso e dosagem' },
+            { type: 'paragraph', text: 'A dosagem recomendada é de 100 ml por dia, logo ao acordar.' },
+            { type: 'note', text: 'Advertências: Por acelerar o metabolismo, deve ser usada com cautela por pessoas com pressão arterial elevada.' }
+        ]
+    },
+    {
         id: 'garrafada-contusoes-dores-musculares',
         title: 'Garrafada para contusões, dores musculares e articulares',
         icon: BeakerIcon,
@@ -257,6 +272,51 @@ export const MEDICINAL_BOTTLES_DATA: PreparationSection[] = [
             { type: 'subheading', text: 'Forma de uso e dosagem' },
             { type: 'paragraph', text: 'A dosagem recomendada é de 1 colher de sopa (15 ml) até 3 vezes ao dia.' },
             { type: 'note', text: 'Advertências: A cúrcuma pode prejudicar a coagulação do sangue se usada com medicamentos anticoagulantes ou antitrombóticos.' }
+        ]
+    },
+    {
+        id: 'garrafada-emagrecer-hibisco',
+        title: 'Garrafada para emagrecer (hibisco, cravo-da-índia, canela e gengibre)',
+        icon: BeakerIcon,
+        content: [
+            { type: 'paragraph', text: 'Indicada para quem quer perder peso. Todas as ervas possuem atividade termogênica que, ao acelerar a taxa metabólica, aumenta a queima de calorias.' },
+            { type: 'subheading', text: 'Ingredientes' },
+            { type: 'list', items: ['100 gramas de flores secas de hibisco (Hibiscus rosa-sinensis)', '10 cravos-da-índia (Syzygium aromaticum)', '2 paus de canela (Cinnamomum verum)', '2 colheres de sopa de gengibre fresco picado (Gengiber officinale)', '1 litro de água', 'Mel ou adoçante estévia (opcional)'] },
+            { type: 'subheading', text: 'Modo de preparo' },
+            { type: 'list', ordered: true, items: ['Coloque todos os ingredientes (exceto adoçante) em uma panela.', 'Adicione a água, tampe e leve ao fogo.', 'Após ferver, aguarde 3-5 minutos e desligue.', 'Deixe repousar na panela por 10 horas.', 'Filtre a mistura.', 'Transfira para uma garrafa e guarde na geladeira por no máximo 7 dias.'] },
+            { type: 'subheading', text: 'Forma de uso e dosagem' },
+            { type: 'paragraph', text: 'A dosagem recomendada é de 1 copo (150 ml) uma vez por dia, ao acordar.' },
+            { type: 'note', text: 'Advertências: A validade é de 7 dias sob refrigeração. Descarte após esse período. Se tiver hipertensão, monitore a pressão e fique atento a sintomas como dor de cabeça na nuca.' }
+        ]
+    },
+    {
+        id: 'garrafada-diabetes-pau-de-ferro',
+        title: 'Garrafada para controle da diabetes tipo 2 (pau-de-ferro)',
+        icon: BeakerIcon,
+        content: [
+            { type: 'paragraph', text: 'Indicada para o controle da diabetes e melhoria da circulação. Tem propriedades hipoglicemiantes, ajudando a reduzir os níveis de açúcar no sangue.' },
+            { type: 'subheading', text: 'Ingredientes' },
+            { type: 'list', items: ['50 gramas de casca de pau-de-ferro (Libidibia ferrea)', '1 litro de água'] },
+            { type: 'subheading', text: 'Modo de preparo' },
+            { type: 'list', ordered: true, items: ['Coloque as cascas em uma panela.', 'Adicione a água, tampe e leve ao fogo.', 'Após ferver, aguarde 1-3 minutos e desligue.', 'Deixe repousar na panela por 10 horas.', 'Filtre a mistura.', 'Transfira para uma garrafa e guarde na geladeira por no máximo 7 dias.'] },
+            { type: 'subheading', text: 'Forma de uso e dosagem' },
+            { type: 'paragraph', text: 'A dosagem é de 1 copo (150 ml) uma vez por dia, logo cedo.' },
+            { type: 'note', text: 'Advertências: Se já faz tratamento para diabetes ou dieta restritiva, monitore os níveis de açúcar no sangue para ajustar a dose e evitar hipoglicemia.' }
+        ]
+    },
+    {
+        id: 'garrafada-diabetes-fel-da-terra',
+        title: 'Garrafada para controle da diabetes tipo 2 (fel-da-terra)',
+        icon: BeakerIcon,
+        content: [
+            { type: 'paragraph', text: 'Indicada para proteger e regenerar as células beta do pâncreas, reduzir a glicemia e proteger as células do fígado da oxidação.' },
+            { type: 'subheading', text: 'Ingredientes' },
+            { type: 'list', items: ['50 gramas de folhas secas de fel-da-terra (Centaurium erythraea)', '1 litro de água'] },
+            { type: 'subheading', text: 'Modo de preparo' },
+            { type: 'list', ordered: true, items: ['Ferva 1 litro de água e despeje sobre as ervas.', 'Tampe e aguarde esfriar.', 'Filtre a mistura.', 'Transfira para uma garrafa e guarde na geladeira por no máximo 7 dias.'] },
+            { type: 'subheading', text: 'Forma de uso e dosagem' },
+            { type: 'paragraph', text: 'A dosagem é de 1/2 copo (75 ml) três vezes por dia.' },
+            { type: 'note', text: 'Advertências: Monitore o nível de açúcar no sangue e ajuste a dose a cada 7 dias, pois a regeneração das células do pâncreas é gradual. O ajuste é importante para controlar a diabetes e evitar hipoglicemia.' }
         ]
     },
     {

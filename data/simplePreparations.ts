@@ -89,19 +89,22 @@ export const PREPARATIONS_DATA: PreparationSection[] = [
         title: 'Pomadas',
         icon: LeafIcon,
         content: [
-            { type: 'paragraph', text: 'Pomadas são uma maneira útil de aplicar ervas na pele. São eficazes no tratamento de queimaduras, erupções cutâneas, irritações, picadas, feridas, eczema, dores musculares e muito mais.'},
+            { type: 'paragraph', text: 'As pomadas são uma maneira útil de aplicar ervas na pele. Elas são eficazes no tratamento de queimaduras, erupções cutâneas, irritações na pele, picadas, feridas, eczema, músculos doloridos, artrite, dor nos nervos e muito mais. Transformar infusões de óleo de ervas em pomadas fornece uma maneira prática de aplicar ervas e levá-las consigo quando não estiver em casa.'},
+            { type: 'paragraph', text: 'Existem algumas alternativas para fazer a sua pomada. Uma delas é usar óleos essenciais, mas o processo requer muitas adaptações. A segunda maneira é fazer um óleo infundido usando o processo que expliquei anteriormente. E a terceira maneira é o "Método Rápido", que vou te explicar agora...'},
             { type: 'image', src: 'https://i.imgur.com/vJhdeQ5.jpeg', alt: 'Potes de pomada de calêndula' },
             { type: 'subheading', text: 'Método Rápido para Pomada'},
-            { type: 'paragraph', text: 'Este método combina as etapas de infusão em óleo e preparação da pomada em uma única etapa, usando uma grande quantidade de ervas secas para acelerar a extração.'},
+            { type: 'paragraph', text: 'O método mais rápido para fazer pomadas de ervas combina as etapas de infusão em óleo e preparação da pomada em uma única etapa. Este método usa uma quantidade grande de ervas secas para acelerar o processo de extração.'},
             { type: 'list', ordered: true, items: [
-                'Coloque uma quantidade grande de ervas em um recipiente e despeje óleo suficiente para cobrir as ervas. Use um fogão elétrico ou banho-maria. Cozinhe em fogo baixo por 1 ou 2 hours, mantendo a temperatura entre 60 e 100 graus.',
-                'Mexa frequentemente, deixe esfriar um pouco e coe para retirar todas as ervas. Despeje o óleo de volta na panela.',
+                'Coloque uma quantidade grande de ervas em um recipiente e despeje óleo suficiente para cobrir as ervas. Você vai precisar de um fogão elétrico ou banho-maria. Cozinhe em fogo baixo por 1 ou 2 horas, mantendo a temperatura entre 60 e 100 graus.',
+                'Mexa frequentemente, deixe esfriar um pouco e coe para retirar todas as ervas. Despeje de volta na panela.',
                 'Adicione 48 gramas de cera de abelha para cada xícara (250 ml) de óleo.',
                 'Aqueça e mexa até que a cera de abelha esteja completamente derretida e misturada ao óleo.',
-                'Recomendo que você adicione vitamina E oleosa para aumentar a validade da sua pomada.',
-                'Antes de despejar nos recipientes definitivos, teste a consistência. Se estiver muito dura, adicione mais óleo; se estiver muito mole, adicione mais cera.',
-                'Quando estiver satisfeito, despeje a pomada nos recipientes, tampe e etiquete com o nome das ervas e a data de fabricação.'
-            ]}
+                'Recomendo que você adicione vitamina E oleosa para aumentar a validade da sua pomada (a vitamina E evita a oxidação que deixa óleos e gorduras rançosas).',
+                'Antes de despejar nos recipientes (frascos/latas) definitivos, teste a consistência. Coloque uma pequena quantidade em um dos recipientes e aguarde esfriar. Se estiver muito dura, adicione mais óleo, e se estiver muito mole, adicione mais cera de abelha.',
+                'Quando estiver satisfeito com a consistência, despeje a pomada nos recipientes, tampe e etiquete com o nome das ervas usadas e a data de fabricação.'
+            ]},
+            { type: 'subheading', text: 'Alternativas para Cera de Abelha' },
+            { type: 'paragraph', text: 'Você pode usar a cera de abelha branca (clarificada) para evitar a cor amarelada típica da cera in-natura ou, para uma preparação vegana, você pode usar a cera de carnaúba pura (não use as que são preparadas para móveis e outras aplicações, pois elas contêm aditivos que podem ser prejudiciais a saúde).' }
         ]
     },
     {

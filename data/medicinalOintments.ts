@@ -152,17 +152,6 @@ export const MEDICINAL_OINTMENTS_DATA: PreparationSection[] = [
         ]
     },
     {
-        id: 'pomada-tosse',
-        title: 'Pomada para Tosse',
-        icon: BeakerIcon,
-        content: [
-            { type: 'subheading', text: 'Ingredientes' },
-            { type: 'list', items: ['1/4 de xícara de óleo de coco', '1/4 de xícara de manteiga de cacau', '2 colheres de sopa de cera de abelha', '10 gotas de óleo essencial de eucalipto', '10 gotas de óleo essencial de hortelã-pimenta', '10 gotas de óleo essencial de limão', '10 gotas de óleo essencial de cravo', '3 gotas de vitamina E'] },
-            { type: 'subheading', text: 'Modo de preparo' },
-            { type: 'paragraph', text: 'Derreta a cera de abelha, a manteiga de cacau e o óleo de coco. Retire do fogo, acrescente os demais ingredientes. Misture bem, despeje nos recipientes e aguarde esfriar. Massageie o peito e as costas. Evite exposição a luz solar, pois o óleo essencial de limão pode manchar a pele.' }
-        ]
-    },
-    {
         id: 'pomada-micose',
         title: 'Pomada para Micose',
         icon: BeakerIcon,
@@ -171,6 +160,17 @@ export const MEDICINAL_OINTMENTS_DATA: PreparationSection[] = [
             { type: 'list', items: ['2 colheres de sopa de cera de abelha', '1/4 de xícara de óleo de abacate', '2 colheres de sopa de óleo de copaíba', '2 colheres de manteiga de karité', '10 gotas de óleo essencial de melaleuca', '10 gotas de óleo essencial de orégano', '3 gotas de vitamina E'] },
             { type: 'subheading', text: 'Modo de preparo' },
             { type: 'paragraph', text: 'Derreta a cera de abelha, o óleo de abacate e a manteiga de karité. Retire do fogo e acrescente os demais ingredientes. Misture bem e despeje nos recipientes para esfriar.' }
+        ]
+    },
+    {
+        id: 'pomada-tosse',
+        title: 'Pomada para Tosse',
+        icon: BeakerIcon,
+        content: [
+            { type: 'subheading', text: 'Ingredientes' },
+            { type: 'list', items: ['1/4 de xícara de óleo de coco', '1/4 de xícara de manteiga de cacau', '2 colheres de sopa de cera de abelha', '10 gotas de óleo essencial de eucalipto', '10 gotas de óleo essencial de hortelã-pimenta', '10 gotas de óleo essencial de limão', '10 gotas de óleo essencial de cravo', '3 gotas de vitamina E'] },
+            { type: 'subheading', text: 'Modo de preparo' },
+            { type: 'paragraph', text: 'Derreta a cera de abelha, a manteiga de cacau e o óleo de coco. Retire do fogo, acrescente os demais ingredientes. Misture bem, despeje nos recipientes e aguarde esfriar. Massageie o peito e as costas. Evite exposição a luz solar, pois o óleo essencial de limão pode manchar a pele.' }
         ]
     },
     {
@@ -196,17 +196,6 @@ export const MEDICINAL_OINTMENTS_DATA: PreparationSection[] = [
         ]
     },
     {
-        id: 'pomada-melasma',
-        title: 'Pomada para Melasma',
-        icon: BeakerIcon,
-        content: [
-            { type: 'subheading', text: 'Ingredientes' },
-            { type: 'list', items: ['4 gramas de cera de abelha', '10 gramas de manteiga de cacau', '10 gramas de óleo de copaíba', '7 gotas de óleo essencial de olíbano', '7 gotas de óleo essencial de vetiver', '5 gotas de óleo essencial de rosa mosqueta', '6 gotas de óleo essencial de melaleuca', '3 gotas de vitamina E'] },
-            { type: 'subheading', text: 'Modo de preparo' },
-            { type: 'paragraph', text: 'Derreta a cera e as manteigas. Acrescente o óleo de copaíba, os óleos essenciais e a vitamina E. Misture bem e despeje nos recipientes para esfriar.' }
-        ]
-    },
-    {
         id: 'pomada-clareadora',
         title: 'Pomada Clareadora para a Pele',
         icon: BeakerIcon,
@@ -215,6 +204,17 @@ export const MEDICINAL_OINTMENTS_DATA: PreparationSection[] = [
             { type: 'list', items: ['4 gramas de cera de candelila', '10 gramas de manteiga de karité', '10 gramas de óleo vegetal de semente de uva', '8 gotas de óleo essencial de gerânio', '8 gotas de óleo essencial de vetiver', '7 gotas de óleo essencial de rosa mosqueta', '3 gotas de vitamina E'] },
             { type: 'subheading', text: 'Modo de preparo' },
             { type: 'paragraph', text: 'Derreta a cera, a manteiga junto com o óleo de semente de uva. Retire do fogo e acrescente os óleos essenciais e a vitamina E. Misture bem e despeje nos recipientes.' }
+        ]
+    },
+    {
+        id: 'pomada-melasma',
+        title: 'Pomada para Melasma',
+        icon: BeakerIcon,
+        content: [
+            { type: 'subheading', text: 'Ingredientes' },
+            { type: 'list', items: ['4 gramas de cera de abelha', '10 gramas de manteiga de cacau', '10 gramas de óleo de copaíba', '7 gotas de óleo essencial de olíbano', '7 gotas de óleo essencial de vetiver', '5 gotas de óleo essencial de rosa mosqueta', '6 gotas de óleo essencial de melaleuca', '3 gotas de vitamina E'] },
+            { type: 'subheading', text: 'Modo de preparo' },
+            { type: 'paragraph', text: 'Derreta a cera e as manteigas. Acrescente o óleo de copaíba, os óleos essenciais e a vitamina E. Misture bem e despeje nos recipientes para esfriar.' }
         ]
     },
     {
@@ -240,17 +240,6 @@ export const MEDICINAL_OINTMENTS_DATA: PreparationSection[] = [
         ]
     },
     {
-        id: 'pomada-pes-rachados',
-        title: 'Pomada para Pés Rachados',
-        icon: BeakerIcon,
-        content: [
-            { type: 'subheading', text: 'Ingredientes' },
-            { type: 'list', items: ['2 colheres de chá de cera de carnaúba', '1 colher de chá de óleo vegetal de rícino', '1 colher de chá de óleo vegetal de cânhamo', '1 colher de chá de óleo vegetal de girassol', '1 colher de sopa de óleo vegetal de jojoba', '5 gotas de óleo essencial de mirra', '4 gotas de óleo essencial de lavanda', '3 gotas de vitamina E'] },
-            { type: 'subheading', text: 'Modo de preparo' },
-            { type: 'paragraph', text: 'Derreta cera de carnaúba junto com os óleos de rícino, cânhamo, girassol e jojoba. Retire do fogo e acrescente os óleos essenciais e a vitamina E. Despeje nos recipientes e aguarde esfriar.' }
-        ]
-    },
-    {
         id: 'pomada-varizes',
         title: 'Pomada para Varizes',
         icon: BeakerIcon,
@@ -260,6 +249,17 @@ export const MEDICINAL_OINTMENTS_DATA: PreparationSection[] = [
             { type: 'subheading', text: 'Modo de preparo' },
             { type: 'paragraph', text: 'Triture as folhas de alecrim e arruda até que elas se tornem um pó fino. Misture as folhas trituradas com o gel de Aloe vera e o azeite de oliva. Leve ao fogo e adicione o óleo de coco e a cera de abelha. Mexa continuamente até que a cera de abelha derreta completamente e se misture. Retire do fogo e acrescente a vitamina E. Despeje nos recipientes e aguarde esfriar.' },
             { type: 'note', text: 'Algumas pessoas se incomodam com as folhas na pomada. Neste caso, você pode coar em uma peneira de metal para retirar os pedacinhos de folhas.' }
+        ]
+    },
+    {
+        id: 'pomada-pes-rachados',
+        title: 'Pomada para Pés Rachados',
+        icon: BeakerIcon,
+        content: [
+            { type: 'subheading', text: 'Ingredientes' },
+            { type: 'list', items: ['2 colheres de chá de cera de carnaúba', '1 colher de chá de óleo vegetal de rícino', '1 colher de chá de óleo vegetal de cânhamo', '1 colher de chá de óleo vegetal de girassol', '1 colher de sopa de óleo vegetal de jojoba', '5 gotas de óleo essencial de mirra', '4 gotas de óleo essencial de lavanda', '3 gotas de vitamina E'] },
+            { type: 'subheading', text: 'Modo de preparo' },
+            { type: 'paragraph', text: 'Derreta cera de carnaúba junto com os óleos de rícino, cânhamo, girassol e jojoba. Retire do fogo e acrescente os óleos essenciais e a vitamina E. Despeje nos recipientes e aguarde esfriar.' }
         ]
     },
     {
@@ -285,17 +285,6 @@ export const MEDICINAL_OINTMENTS_DATA: PreparationSection[] = [
         ]
     },
     {
-        id: 'pomada-labios-rachados',
-        title: 'Pomada para Lábios Rachados',
-        icon: BeakerIcon,
-        content: [
-            { type: 'subheading', text: 'Ingredientes' },
-            { type: 'list', items: ['4 gramas de cera de candelila', '10 gramas de manteiga de karite', '10 gramas de óleo de coco', '1/4 de extrato de baunilha', '7 gotas de óleo essencial de laranja', '3 gotas de vitamina E'] },
-            { type: 'subheading', text: 'Modo de preparo' },
-            { type: 'paragraph', text: 'Derreta a cera juntamente com a manteiga de karité, o óleo de coco e o extrato de baunilha. Retire do fogo e acrescente o óleo essencial de laranja e a vitamina E. Despeje nos frascos e aguarde esfriar.' }
-        ]
-    },
-    {
         id: 'pomada-antibacteriana',
         title: 'Pomada Antibacteriana',
         icon: BeakerIcon,
@@ -304,6 +293,17 @@ export const MEDICINAL_OINTMENTS_DATA: PreparationSection[] = [
             { type: 'list', items: ['1/2 xícara de azeite', '1/2 xícara de óleo de coco', '1/4 xícara de calêndula desidratada', '1/4 xícara de lavanda desidratada', '4 colheres de sopa de cera de abelha', '1 colher de sopa de mel', '10 gotas de óleo essencial de melaleuca', '10 gotas de óleo essencial de lavanda'] },
             { type: 'subheading', text: 'Modo de preparo' },
             { type: 'paragraph', text: 'Coloque as ervas, o azeite de oliva e o óleo de coco para esquentar em banho-maria em temperatura baixa por 20 minutos. Coe e deixe reservado. Derreta a cera de abelha e acrescente os óleos da etapa anterior. Retire do fogo e acrescente os demais ingredientes. Misture bem e despeje nos recipientes para esfriar.' }
+        ]
+    },
+    {
+        id: 'pomada-labios-rachados',
+        title: 'Pomada para Lábios Rachados',
+        icon: BeakerIcon,
+        content: [
+            { type: 'subheading', text: 'Ingredientes' },
+            { type: 'list', items: ['4 gramas de cera de candelila', '10 gramas de manteiga de karite', '10 gramas de óleo de coco', '1/4 de extrato de baunilha', '7 gotas de óleo essencial de laranja', '3 gotas de vitamina E'] },
+            { type: 'subheading', text: 'Modo de preparo' },
+            { type: 'paragraph', text: 'Derreta a cera juntamente com a manteiga de karité, o óleo de coco e o extrato de baunilha. Retire do fogo e acrescente o óleo essencial de laranja e a vitamina E. Despeje nos frascos e aguarde esfriar.' }
         ]
     },
     {
@@ -329,17 +329,6 @@ export const MEDICINAL_OINTMENTS_DATA: PreparationSection[] = [
         ]
     },
     {
-        id: 'pomada-machucaduras',
-        title: 'Pomada para Machucaduras',
-        icon: BeakerIcon,
-        content: [
-            { type: 'subheading', text: 'Ingredientes' },
-            { type: 'list', items: ['2 xícaras de óleo medicado de calêndula', '1/4 xícaras de cera de abelha', '6 gotas de óleo essencial de lavanda', '5 gotas de óleo essencial de tea tree', '3 gotas de vitamina E'] },
-            { type: 'subheading', text: 'Modo de preparo' },
-            { type: 'paragraph', text: 'Derreta a cera de abelha no óleo medicado de calêndula. Retire do fogo e acrescente o óleo essencial de lavanda e o óleo essencial de tea tree. Misture bem e despeje nos recipientes para esfriar.' }
-        ]
-    },
-    {
         id: 'pomada-herpes-labial',
         title: 'Pomada para Herpes Labial',
         icon: BeakerIcon,
@@ -348,6 +337,17 @@ export const MEDICINAL_OINTMENTS_DATA: PreparationSection[] = [
             { type: 'list', items: ['30 ml de óleo medicado de erva-cidreira', '10 ml de óleo de copaíba', '8 gramas de cera abelha', '8 gramas de manteiga de cacau', '10 gotas de óleo essencial de erva cidreira', '3 gotas de vitamina E'] },
             { type: 'subheading', text: 'Modo de preparo' },
             { type: 'paragraph', text: 'Derreta a cera de abelha e a manteiga de cacau junto com o óleo medicado de erva-cidreira. Retire do fogo e acrescente o óleo de copaíba, o óleo essencial de erva-cidreira e a vitamina E. Misture bem e despeje nos recipientes para esfriar.' }
+        ]
+    },
+    {
+        id: 'pomada-machucaduras',
+        title: 'Pomada para Machucaduras',
+        icon: BeakerIcon,
+        content: [
+            { type: 'subheading', text: 'Ingredientes' },
+            { type: 'list', items: ['2 xícaras de óleo medicado de calêndula', '1/4 xícaras de cera de abelha', '6 gotas de óleo essencial de lavanda', '5 gotas de óleo essencial de tea tree', '3 gotas de vitamina E'] },
+            { type: 'subheading', text: 'Modo de preparo' },
+            { type: 'paragraph', text: 'Derreta a cera de abelha no óleo medicado de calêndula. Retire do fogo e acrescente o óleo essencial de lavanda e o óleo essencial de tea tree. Misture bem e despeje nos recipientes para esfriar.' }
         ]
     },
     {
