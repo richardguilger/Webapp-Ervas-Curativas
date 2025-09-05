@@ -1,6 +1,6 @@
 
 import React, { useState, useMemo } from 'react';
-import { HERBS } from '../data/herbs';
+import { ALL_HERBS } from '../data/allHerbs';
 import HerbCard from '../components/HerbCard';
 import SearchBar from '../components/SearchBar';
 
@@ -9,9 +9,9 @@ const BibleContentScreen: React.FC = () => {
 
     const filteredHerbs = useMemo(() => {
         if (!searchTerm) {
-            return HERBS;
+            return ALL_HERBS;
         }
-        return HERBS.filter(herb =>
+        return ALL_HERBS.filter(herb =>
             herb.nomePopular.toLowerCase().includes(searchTerm.toLowerCase()) ||
             herb.nomeCientifico.toLowerCase().includes(searchTerm.toLowerCase())
         );
