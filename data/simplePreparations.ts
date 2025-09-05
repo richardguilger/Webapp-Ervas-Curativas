@@ -1,4 +1,3 @@
-
 import { PreparationSection } from '../types';
 import { SunIcon, DropletIcon, FireIcon, BeakerIcon, FlaskIcon, BookOpenIcon, ClipboardCheckIcon, LeafIcon } from '../components/Icon';
 
@@ -10,7 +9,7 @@ export const PREPARATIONS_DATA: PreparationSection[] = [
         content: [
             { type: 'paragraph', text: 'Secar as ervas é uma das maneiras de garantir um suprimento de medicamentos sempre a mão. É especialmente útil quando a erva só está disponível numa determinada época do ano ou quando o acesso a planta fresca é difícil.' },
             { type: 'paragraph', text: 'A maneira mais simples e tradicional de secar ervas é secá-las ao ar, sem qualquer fonte de calor adicional. Após lavar e secar os ramos, amarre os talos com barbante e pendure em um local quente e seco. Para secar muitas ervas, pode-se usar um suporte ou até mesmo cabides de roupa para pendurar vários maços juntos.' },
-            { type: 'image', src: 'https://i.imgur.com/fCLmZfU.jpeg', alt: 'Ervas penduradas para secar' },
+            { type: 'image', src: 'https://i.postimg.cc/7h1bS2cZ/drying-herbs.jpg', alt: 'Ervas penduradas para secar' },
             { type: 'paragraph', text: 'Você também pode secá-las em uma forma, colocando duas folhas de papel toalha, cobrindo com um tecido tipo mosquiteiro para evitar o pouso de insetos e deixando a forma em um lugar quente, seco e ventilado. No caso de flores, separe-as dos talos e seque na bandeja. O mesmo vale para sementes.' },
             { type: 'paragraph', text: 'A secagem dessa maneira pode levar até três semanas (embora frequentemente seja mais rápida), dependendo da planta, do seu teor de umidade e das condições climáticas. Quanto mais quente e seco o ar, mais rápida será a desidratação.' },
             { type: 'paragraph', text: 'Este processo natural funciona muito bem para folhas finas, que secam rápido. Porém, para secagem de raízes, cascas, frutos e folhas "gordinhas", como é o caso das folhas da família crassulácea, há o risco de o material mofar antes da secagem completa.' },
@@ -26,7 +25,7 @@ export const PREPARATIONS_DATA: PreparationSection[] = [
         icon: DropletIcon,
         content: [
             { type: 'paragraph', text: 'No processo de infusão, as propriedades das ervas são simplesmente extraídas das folhas ou grãos na água. Esse processo pode ser usado com praticamente qualquer erva. A diferença entre o processo a quente e o processo a frio é, principalmente, o tempo de extração, que no processo a frio é mais demorado.'},
-            { type: 'image', src: 'https://i.imgur.com/3Z2Yp4p.jpeg', alt: 'Chá de ervas em uma xícara' },
+            { type: 'image', src: 'https://i.postimg.cc/50d3nZqN/herbal-tea.jpg', alt: 'Chá de ervas em uma xícara' },
             { type: 'subheading', text: 'Método Quente (Chá)' },
             { type: 'paragraph', text: 'A maneira típica de infundir ervas quentes é fazendo um chá. Chás de ervas podem ser feitos a partir de ervas individuais, mas é mais comum usar uma mistura de ervas que funcionam bem para tratar a condição que você deseja curar.' },
             { type: 'paragraph', text: 'A vantagem da infusão quente sobre a fria é que frequentemente extrai mais dos ingredientes essenciais do tecido da planta. O calor quebra as paredes celulares, criando uma infusão mais forte. Eu, pessoalmente, prefiro o processo de infusão a quente (chá). É mais rápido, a extração é melhor e os microrganismos que sempre estão presentes nas plantas são (em sua maioria) eliminados pela água quente.'},
@@ -43,7 +42,7 @@ export const PREPARATIONS_DATA: PreparationSection[] = [
         content: [
             { type: 'paragraph', text: 'A decocção é útil para ervas que não liberam tão facilmente seus princípios ativos, tais como partes lenhosas das ervas. Por exemplo, cascas, caules, sementes e raízes duras. Além disso, é uma ótima maneira de criar uma forma mais concentrada dos princípios ativos.' },
             { type: 'paragraph', text: 'Por outro lado, é preciso ter em mente que muitos compostos das plantas são sensíveis ao calor prolongado, se degradando com o calor e perdendo suas propriedades. Portanto, para ervas herbáceas e folhas, prefira um outro método de preparo.'},
-            { type: 'image', src: 'https://i.imgur.com/M6s79iF.jpeg', alt: 'Panela com ervas fervendo para decocção' },
+            { type: 'image', src: 'https://i.postimg.cc/Bv3yV9kG/decoction.jpg', alt: 'Panela com ervas fervendo para decocção' },
             { type: 'subheading', text: 'Como Fazer uma Decocção'},
             { type: 'list', ordered: true, items: [
                 'Esmague, pique ou triture as ervas, deixando-as em pedaços pequenos e coloque-as em sua panela com a água ainda fria e tampe.',
@@ -66,7 +65,7 @@ export const PREPARATIONS_DATA: PreparationSection[] = [
         content: [
             { type: 'paragraph', text: 'Os métodos de infusão quente e fria são usados para infundir ervas em óleo. Use apenas ervas secas para evitar que as plantas liberem água no óleo, o que pode comprometer a validade.'},
             { type: 'paragraph', text: 'Quanto ao óleo, você pode usar óleo de oliva, que é estável, adequado para fazer pomadas e tem um preço acessível. Outras opções são o óleo de amêndoas doce, óleo de coco, semente de uva ou abacate. Uma alternativa mais barata é o óleo de girassol.'},
-            { type: 'image', src: 'https://i.imgur.com/Oa0Ym7r.jpeg', alt: 'Frasco com óleo e ervas para infusão' },
+            { type: 'image', src: 'https://i.postimg.cc/L51JqHhM/oil-infusion.jpg', alt: 'Frasco com óleo e ervas para infusão' },
             { type: 'subheading', text: 'Infusão "Fria" em Óleo'},
             { type: 'list', ordered: true, items: [
                 'Rasgue ou esmague as ervas secas e coloque-as em um frasco de vidro limpo e esterilizado. Encha o frasco 1/3 com ervas secas.',
@@ -91,7 +90,7 @@ export const PREPARATIONS_DATA: PreparationSection[] = [
         content: [
             { type: 'paragraph', text: 'As pomadas são uma maneira útil de aplicar ervas na pele. Elas são eficazes no tratamento de queimaduras, erupções cutâneas, irritações na pele, picadas, feridas, eczema, músculos doloridos, artrite, dor nos nervos e muito mais. Transformar infusões de óleo de ervas em pomadas fornece uma maneira prática de aplicar ervas e levá-las consigo quando não estiver em casa.'},
             { type: 'paragraph', text: 'Existem algumas alternativas para fazer a sua pomada. Uma delas é usar óleos essenciais, mas o processo requer muitas adaptações. A segunda maneira é fazer um óleo infundido usando o processo que expliquei anteriormente. E a terceira maneira é o "Método Rápido", que vou te explicar agora...'},
-            { type: 'image', src: 'https://i.imgur.com/vJhdeQ5.jpeg', alt: 'Potes de pomada de calêndula' },
+            { type: 'image', src: 'https://i.postimg.cc/SRvL2bN2/medicinal-ointments.jpg', alt: 'Potes de pomada de calêndula' },
             { type: 'subheading', text: 'Método Rápido para Pomada'},
             { type: 'paragraph', text: 'O método mais rápido para fazer pomadas de ervas combina as etapas de infusão em óleo e preparação da pomada em uma única etapa. Este método usa uma quantidade grande de ervas secas para acelerar o processo de extração.'},
             { type: 'list', ordered: true, items: [
@@ -114,7 +113,7 @@ export const PREPARATIONS_DATA: PreparationSection[] = [
         content: [
             { type: 'paragraph', text: 'As tinturas são extratos medicinais que podem ser feitos com qualquer erva. A preparação com álcool é muito mais eficiente. O álcool extrai uma grande quantidade de compostos bioativos e conserva a tintura por mais tempo, além de ser absorvida mais rapidamente pelo organismo.'},
             { type: 'paragraph', text: 'Uma grande vantagem é a praticidade e o tempo de validade. Uma tintura pode durar até 1 ano se mantida em frasco escuro e ao abrigo da luz.'},
-            { type: 'image', src: 'https://i.imgur.com/R3mGqK4.jpeg', alt: 'Frasco de tintura com conta-gotas' },
+            { type: 'image', src: 'https://i.postimg.cc/W3dDcmmR/tinctures.jpg', alt: 'Frasco de tintura com conta-gotas' },
             { type: 'note', text: 'Minha recomendação é que você use álcool de cereais a 70%, que pode ser adquirido na maioria das farmácias de manipulação.'},
             { type: 'subheading', text: 'Passo a Passo'},
             { type: 'list', ordered: true, items: [
@@ -134,7 +133,7 @@ export const PREPARATIONS_DATA: PreparationSection[] = [
         icon: BeakerIcon,
         content: [
             { type: 'paragraph', text: 'Xarope é uma excelente opção para tratar gripes, infecções de garganta e bronquite. Além disso, é muito simples de fazer.'},
-            { type: 'image', src: 'https://i.imgur.com/tX2eJt2.jpeg', alt: 'Pote de xarope caseiro' },
+            { type: 'image', src: 'https://i.postimg.cc/sX1B7wJp/syrup.jpg', alt: 'Pote de xarope caseiro' },
             { type: 'subheading', text: 'Método a Quente'},
             { type: 'paragraph', text: 'Começa com uma decocção concentrada (reduzida a 1/4 do volume). O próximo passo é acrescentar açúcar ou mel e continuar apurando até formar uma calda com a consistência desejada. Faça em banho-maria ou em fogo baixo para não degradar os compostos.'},
             { type: 'subheading', text: 'Método a Frio (Ex: Casca de Abacaxi)'},
@@ -155,7 +154,7 @@ export const PREPARATIONS_DATA: PreparationSection[] = [
         icon: LeafIcon,
         content: [
             { type: 'paragraph', text: 'Cataplasmas são uma das formas mais antigas de utilizar ervas medicinais. Oferecem uma maneira direta e eficaz de aplicar os benefícios das ervas na área afetada do corpo, sendo úteis para queimaduras, picadas, cortes, dores nas articulações e contusões.'},
-            { type: 'image', src: 'https://i.imgur.com/a9k9Y8r.jpeg', alt: 'Aplicação de um cataplasma de ervas' },
+            { type: 'image', src: 'https://i.postimg.cc/2j5Tq5kC/poultice.jpg', alt: 'Aplicação de um cataplasma de ervas' },
             { type: 'subheading', text: 'Método a Frio'},
             { type: 'list', ordered: true, items: [
                 'Selecione as ervas frescas necessárias e rasgue-as ou corte-as finamente. A ideia é que as folhas estejam quebradas para que a seiva possa sair.',

@@ -25,7 +25,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Se tiver alergia a plantas da família Asteraceae, não faça uso. Devido a suas propriedades que promovem o aumento do hormônio oxitocina, não deve ser usado durante a gravidez.",
-    "imagemUrl": "https://i.imgur.com/vHq1YDB.jpeg"
+    "imagemUrl": "https://i.postimg.cc/5N8XkYq4/picao.jpg"
   },
   {
     "id": 2,
@@ -47,7 +47,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Não deve ser usada por pessoas com alergia a ácido acetilsalicílico (aspirina). Por conter derivados do ácido salicílico, não deve ser usada por pessoas com dificuldades de coagulação sanguínea.",
-    "imagemUrl": "https://i.imgur.com/W2bAAnY.jpeg"
+    "imagemUrl": "https://i.postimg.cc/k5L2q2jS/ulmaria-real.jpg"
   },
   {
     "id": 3,
@@ -69,7 +69,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Deve ser evitado por pessoas que sofrem de pressão arterial baixa, que tem insuficiência renal e mulheres que estejam grávidas ou amamentando.",
-    "imagemUrl": "https://i.imgur.com/YQ8xJ1d.jpeg"
+    "imagemUrl": "https://i.postimg.cc/rpQZ2qX2/abacateiro.jpg"
   },
   {
     "id": 4,
@@ -87,7 +87,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Evitar o uso em mulheres grávidas e amamentando. Pessoas com pressão arterial baixa não devem fazer uso.",
-    "imagemUrl": "https://i.imgur.com/5uX7g8m.jpeg"
+    "imagemUrl": "https://i.postimg.cc/k5nZ2R3F/fel-da-terra.jpg"
   },
   {
     "id": 5,
@@ -105,7 +105,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Não usar se for alérgico a plantas da família Asteraceae. Não usar internamente se estiver grávida ou amamentando. Não ingerir com outros medicamentos sem consultar um médico.",
-    "imagemUrl": "https://i.imgur.com/T5r1q0B.jpeg"
+    "imagemUrl": "https://i.postimg.cc/8Pqn4R2y/calendula.jpg"
   },
   {
     "id": 6,
@@ -131,7 +131,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Usar com cautela em casos de desequilíbrios hormonais (câncer de mama/próstata). Pode interagir com medicamentos hormonais ou para pressão arterial. Pode causar desconforto gastrointestinal.",
-    "imagemUrl": "https://i.imgur.com/OqJ9m6z.jpeg"
+    "imagemUrl": "https://i.postimg.cc/k47tXvVv/tribulus.jpg"
   },
   {
     "id": 7,
@@ -149,7 +149,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "É um sedativo, não opere máquinas pesadas após o uso. Mulheres grávidas e lactantes devem evitar.",
-    "imagemUrl": "https://i.imgur.com/rP3iE6S.jpeg"
+    "imagemUrl": "https://i.postimg.cc/WbFfH6Sj/california-poppy.jpg"
   },
   {
     "id": 8,
@@ -167,7 +167,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Pessoas com doenças renais ou hepáticas crônicas devem ter cuidado. Pode interagir com medicamentos anticoagulantes.",
-    "imagemUrl": "https://i.imgur.com/XqT2J1v.jpeg"
+    "imagemUrl": "https://i.postimg.cc/J01T9Bzs/horse-chestnut.jpg"
   },
   {
     "id": 9,
@@ -189,7 +189,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Consulte um profissional de saúde antes de usar, especialmente se estiver grávida, amamentando ou tomando outros medicamentos.",
-    "imagemUrl": "https://i.imgur.com/8d9zF2H.jpeg"
+    "imagemUrl": "https://i.postimg.cc/y8B4T57p/geranium-carolinianum.jpg"
   },
   {
     "id": 10,
@@ -207,7 +207,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Embora seja incomum, algumas pessoas têm reações alérgicas à Camomila. Pessoas com alergias à família Asteraceae, incluindo a ambrosia e os crisântemos, não devem ter cautela ao consumir a Camomila.",
-    "imagemUrl": "https://i.imgur.com/L1b5eAg.jpeg"
+    "imagemUrl": "https://i.postimg.cc/yNNf4Kgm/chamomile.jpg"
   },
   {
     "id": 11,
@@ -225,7 +225,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "O uso medicinal do Gengibre deve ser feito com cautela, especialmente em casos de úlceras gástricas, problemas cardíacos, ou diabetes, pois pode interferir no tratamento. Evite doses elevadas para prevenir efeitos como azia e desconforto gastrointestinal.",
-    "imagemUrl": "https://i.imgur.com/8aJ5m6S.jpeg"
+    "imagemUrl": "https://i.postimg.cc/Jz6Y0vQk/ginger.jpg"
   },
   {
     "id": 12,
@@ -243,7 +243,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Algumas pessoas são alérgicas. A erva é considerada segura, mas não deve ser usada por mulheres grávidas ou lactantes sem a aprovação de um profissional de saúde.",
-    "imagemUrl": "https://i.imgur.com/BvL5g4x.jpeg"
+    "imagemUrl": "https://i.postimg.cc/Qx7WMS7v/chickweed.jpg"
   },
   {
     "id": 13,
@@ -269,7 +269,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Por ter propriedades fotossensibilizantes, algumas pessoas podem ter reações adversas ao se exporem ao sol. Devido a alta presença de taninos, a ingestão exagerada pode causar prisão de ventre. Mulheres grávidas, lactantes e pacientes que fazem uso de medicamento anticoagulantes não devem usar a Agrimônia.",
-    "imagemUrl": "https://i.imgur.com/Yw9v0uO.jpeg"
+    "imagemUrl": "https://i.postimg.cc/BbrL61P3/agrimony.jpg"
   },
   {
     "id": 14,
@@ -291,7 +291,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "O uso medicinal do Ginkgo pode causar efeitos colaterais como dor de cabeça, distúrbios gastrointestinais e reações alérgicas. É essencial evitar uso excessivo, especialmente em pessoas com distúrbios hemorrágicos ou que tomam anticoagulantes. Consulte um profissional de saúde antes do uso.",
-    "imagemUrl": "https://i.imgur.com/0Fw9m3S.jpeg"
+    "imagemUrl": "https://i.postimg.cc/T3j2C7M9/ginkgo.jpg"
   },
   {
     "id": 15,
@@ -309,7 +309,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "O gel contém uma substância de cor marrom denominada aloína que é irritante para o intestino. Não use internamente durante a gravidez e se tiver hemorroidas ou problemas nos rins.",
-    "imagemUrl": "https://i.imgur.com/kY7hF2w.jpeg"
+    "imagemUrl": "https://i.postimg.cc/mDcfwWmM/aloe-vera.jpg"
   },
   {
     "id": 16,
@@ -331,7 +331,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Consulte um profissional de saúde antes de usar, especialmente durante a gravidez ou amamentação.",
-    "imagemUrl": "https://i.imgur.com/f7jYf8q.jpeg"
+    "imagemUrl": "https://i.postimg.cc/85pB5k6T/agastache.jpg"
   },
   {
     "id": 17,
@@ -349,7 +349,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Pessoas com problemas renais, grávidas, lactantes ou em uso de anticoagulantes devem usar com cautela.",
-    "imagemUrl": "https://i.imgur.com/KzX5W1o.jpeg"
+    "imagemUrl": "https://i.postimg.cc/SRHkZJ9F/parsley.jpg"
   },
   {
     "id": 18,
@@ -367,7 +367,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Não deve ser usada por gestantes ou lactantes. Pessoas com alergia a plantas da família Brassicaceae devem evitar seu uso. Pode causar irritação na pele em algumas pessoas.",
-    "imagemUrl": "https://i.imgur.com/C9G1b8h.jpeg"
+    "imagemUrl": "https://i.postimg.cc/8P6mGq4S/nasturtium.jpg"
   },
   {
     "id": 19,
@@ -389,7 +389,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Acredita-se que a Ashwagandha seja segura por ser amplamente usada ao longo da história. Contudo, existem poucos estudos de longo prazo avaliando eventuais efeitos adversos. Portanto fique atento e suspenda o uso por algum tempo caso perceba algum efeito indesejado.",
-    "imagemUrl": "https://i.imgur.com/7gK5c3m.jpeg"
+    "imagemUrl": "https://i.postimg.cc/7PM53p3n/ashwagandha.jpg"
   },
   {
     "id": 20,
@@ -407,7 +407,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "O uso de Hibisco pode causar reações alérgicas em algumas pessoas e não é recomendado para gestantes. Pessoas com pressão arterial baixa ou que tomam medicamentos antihipertensivos devem usá-lo com cautela.",
-    "imagemUrl": "https://i.imgur.com/2m2T3Z1.jpeg"
+    "imagemUrl": "https://i.postimg.cc/zX3yrxKx/hibiscus.jpg"
   },
   {
     "id": 21,
@@ -425,7 +425,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Não use em mulheres grávidas, lactantes e crianças pequenas. Não é adequado para uso a longo prazo.",
-    "imagemUrl": "https://i.imgur.com/kS9w0yv.jpeg"
+    "imagemUrl": "https://i.postimg.cc/pXQv6t7p/boneset.jpg"
   },
   {
     "id": 22,
@@ -443,7 +443,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Contraindicado para pessoas alérgicas a salicilatos, grávidas, lactantes e crianças menores de 16 anos. Usar com cautela em pessoas com distúrbios gastrointestinais, problemas de sangramento, ou condições renais e hepáticas.",
-    "imagemUrl": "https://i.imgur.com/d8p1Q4D.jpeg"
+    "imagemUrl": "https://i.postimg.cc/9F7dYdY9/white-willow.jpg"
   },
   {
     "id": 23,
@@ -461,7 +461,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "As folhas contêm alcaloides pirrolizidínicos tóxicos para o fígado. O uso deve ser evitado por longos períodos. Pessoas com problemas hepáticos não devem usar. Não recomendado para mulheres grávidas e lactantes.",
-    "imagemUrl": "https://i.imgur.com/x0r4qfB.jpeg"
+    "imagemUrl": "https://i.postimg.cc/d0D6qLwL/borage.jpg"
   },
   {
     "id": 24,
@@ -479,7 +479,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "É considerada uma planta segura, mas deve ser evitada durante a gravidez e lactação por falta de estudos conclusivos.",
-    "imagemUrl": "https://i.imgur.com/z4b0mNq.jpeg"
+    "imagemUrl": "https://i.postimg.cc/B6H0B1WJ/cleavers.jpg"
   },
   {
     "id": 25,
@@ -497,7 +497,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "A planta contém pulegona, um composto que pode ser tóxico em grandes quantidades, especialmente para o fígado e os rins. O uso durante a gravidez é contraindicado devido ao risco de aborto.",
-    "imagemUrl": "https://i.imgur.com/5lR3s1P.jpeg"
+    "imagemUrl": "https://i.postimg.cc/k5t1QvBw/pennyroyal.jpg"
   },
   {
     "id": 26,
@@ -515,7 +515,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Contém pequenas quantidades de alcaloides, que são uma substância tóxica e podem causar paralisia nos nervos motores se consumidos em grandes quantidades.",
-    "imagemUrl": "https://i.imgur.com/3s1Hj5e.jpeg"
+    "imagemUrl": "https://i.postimg.cc/44C8gYfV/clubmoss.jpg"
   },
   {
     "id": 27,
@@ -533,7 +533,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "As folhas contêm pequenas quantidades de compostos tóxicos quando ingeridos. Para eliminar, basta deixar a decocção cozinhar por 4 ou 5 minutos. Para uso externo, não há risco.",
-    "imagemUrl": "https://i.imgur.com/p1Q2v5j.jpeg"
+    "imagemUrl": "https://i.postimg.cc/WbQ3C0d7/coltsfoot.jpg"
   },
   {
     "id": 28,
@@ -555,7 +555,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Deve ser evitada por grávidas e lactantes. Pode reduzir a pressão arterial, exigindo cautela. Pode interagir com medicamentos metabolizados pelo fígado.",
-    "imagemUrl": "https://i.imgur.com/eun02sC.jpeg"
+    "imagemUrl": "https://i.postimg.cc/pT5sJ9Yq/false-daisy.jpg"
   },
   {
     "id": 29,
@@ -573,7 +573,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "O uso contínuo ou excessivo pode sobrecarregar o fígado e causar problemas hepáticos. Por ser diurética, pode causar desequilíbrio eletrolítico. Não use por períodos superiores a 30 dias.",
-    "imagemUrl": "https://i.imgur.com/lM5z6fK.jpeg"
+    "imagemUrl": "https://i.postimg.cc/k47vH7sF/horsetail.jpg"
   },
   {
     "id": 30,
@@ -591,7 +591,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Evitar por pessoas com úlceras gástricas ou duodenais. Não recomendada durante a gravidez e amamentação. Pode interagir com medicamentos digestivos.",
-    "imagemUrl": "https://i.imgur.com/XqT2J1v.jpeg"
+    "imagemUrl": "https://i.postimg.cc/W3cWwX7X/gentian.jpg"
   },
   {
     "id": 31,
@@ -609,7 +609,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Usar com moderação, pois o consumo excessivo pode causar desconforto gastrointestinal.",
-    "imagemUrl": "https://i.imgur.com/Y3w4r5Z.jpeg"
+    "imagemUrl": "https://i.postimg.cc/0jKJZxZk/calabash-gourd.jpg"
   },
   {
     "id": 32,
@@ -627,7 +627,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Não deve ser usado internamente por grávidas, mulheres amamentando ou menores de 12 anos de idade. Não deve ser usado em caso de lesões da mucosa do trato digestivo. A ingestão exagerada de pode causar náuseas, vómitos e dor de estômago.",
-    "imagemUrl": "https://i.imgur.com/d7K9gLp.jpeg"
+    "imagemUrl": "https://i.postimg.cc/qM3ZqPtt/witch-hazel.jpg"
   },
   {
     "id": 33,
@@ -645,7 +645,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Evite o uso interno do Confrei, pois ele contém alguns compostos que podem ser tóxicos se ingeridos.",
-    "imagemUrl": "https://i.imgur.com/9vJ8B2K.jpeg"
+    "imagemUrl": "https://i.postimg.cc/9Q2cW0Xv/comfrey.jpg"
   },
   {
     "id": 34,
@@ -663,7 +663,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Geralmente seguro, mas o uso excessivo pode causar desconforto gastrointestinal. Consultar profissional de saúde se estiver grávida ou amamentando.",
-    "imagemUrl": "https://i.imgur.com/a5r2z9L.jpeg"
+    "imagemUrl": "https://i.postimg.cc/50tC88B0/couch-grass.jpg"
   },
   {
     "id": 35,
@@ -685,7 +685,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Geralmente considerado seguro. Não recomendado para quem tem doença hemorroidal ou inflamação do intestino. Não tomar se estiver grávida ou amamentando sem consultar um médico.",
-    "imagemUrl": "https://i.imgur.com/p5M0w8p.jpeg"
+    "imagemUrl": "https://i.postimg.cc/zGjJ6dJ1/dandelion.jpg"
   },
   {
     "id": 36,
@@ -703,7 +703,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "O uso prolongado pode levar à dependência de laxantes. O consumo excessivo pode causar desequilíbrio eletrolítico.",
-    "imagemUrl": "https://i.imgur.com/v8R4s7D.jpeg"
+    "imagemUrl": "https://i.postimg.cc/sXy127bb/yellow-dock.jpg"
   },
   {
     "id": 37,
@@ -725,7 +725,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "O uso excessivo pode causar náuseas, vômitos e diarreia. Suspender o uso 1 semana antes de cirurgias. Mulheres grávidas e lactantes não devem usar sem acompanhamento médico.",
-    "imagemUrl": "https://i.imgur.com/f9L8g7s.jpeg"
+    "imagemUrl": "https://i.postimg.cc/TPmZ63Yw/elecampane.jpg"
   },
   {
     "id": 38,
@@ -747,7 +747,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Por ter propriedades fotoestimuladores, algumas pessoas podem apresentar manchas na pele. Não deve ser consumido por mulheres grávidas.",
-    "imagemUrl": "https://i.imgur.com/3sF3n5R.jpeg"
+    "imagemUrl": "https://i.postimg.cc/k47vBq3F/fennel.jpg"
   },
   {
     "id": 39,
@@ -765,7 +765,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Algumas pessoas têm uma reação alérgica. Mastigar as folhas pode causar feridas na boca. Não use durante a gravidez. Não use com problemas de coagulação sanguínea ou anticoagulantes.",
-    "imagemUrl": "https://i.imgur.com/K7p9e4G.jpeg"
+    "imagemUrl": "https://i.postimg.cc/x8fJ3jC5/feverfew.jpg"
   },
   {
     "id": 40,
@@ -783,7 +783,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Por ser diurética, não deve ser usada por quem tem problemas renais crônicos. Em locais de clima quente, redobre os cuidados com a desidratação. Em algumas pessoas, pode causar aumento da pressão arterial. Não use se estiver grávida, pois não há estudos sobre possíveis riscos ao bebê.",
-    "imagemUrl": "https://i.imgur.com/C9r8m3Q.jpeg"
+    "imagemUrl": "https://i.postimg.cc/8zQ2X21G/brazilian-arnica.jpg"
   },
   {
     "id": 41,
@@ -809,7 +809,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Em geral, o uso do Agrião é muito seguro e a minha única recomendação é evitar o consumo exagerado, que pode causar distúrbios gastrointestinais devido ao elevado teor de fibras.",
-    "imagemUrl": "https://i.imgur.com/2bB1J3G.jpeg"
+    "imagemUrl": "https://i.postimg.cc/G3W0J7Sj/watercress.jpg"
   },
   {
     "id": 42,
@@ -831,7 +831,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Pode causar mau hálito e odor corporal. Em excesso, pode causar irritação gastrointestinal. Pode interagir com anticoagulantes.",
-    "imagemUrl": "https://i.imgur.com/o1b2m3n.jpeg"
+    "imagemUrl": "https://i.postimg.cc/252CSTdp/garlic.jpg"
   },
   {
     "id": 43,
@@ -853,7 +853,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Investigações de toxicidade aguda mostraram que o Amaranto pode ser usado com segurança. Porém, recomendo que mulheres grávidas não façam uso do Amaranto sem acompanhamento médico.",
-    "imagemUrl": "https://i.imgur.com/N7b0g8f.jpeg"
+    "imagemUrl": "https://i.postimg.cc/k4GzLpX3/amaranth.jpg"
   },
   {
     "id": 44,
@@ -871,7 +871,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Pessoas com hipoglicemia ou em tratamento para diabetes devem monitorar cuidadosamente os níveis de glicose. Suspender seu uso antes de procedimentos cirúrgicos, já que pode interferir na coagulação sanguínea.",
-    "imagemUrl": "https://i.imgur.com/J7d8K4L.jpeg"
+    "imagemUrl": "https://i.postimg.cc/0jK04G2z/white-mulberry.jpg"
   },
   {
     "id": 45,
@@ -893,7 +893,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Não deve ser usada durante a gravidez por interferir nas contrações uterinas. Pessoas com problemas de coagulação devem evitá-la. A planta pode aumentar a sensibilidade da pele ao sol.",
-    "imagemUrl": "https://i.imgur.com/d7K9gLp.jpeg"
+    "imagemUrl": "https://i.postimg.cc/B64kXw9T/angelica.jpg"
   },
   {
     "id": 46,
@@ -911,7 +911,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "A Arnica não deve ser ingerida. Use apenas externamente, na forma de óleo medicado, gel ou pomada, e nunca em feridas abertas.",
-    "imagemUrl": "https://i.imgur.com/C9r8m3Q.jpeg"
+    "imagemUrl": "https://i.postimg.cc/tJnB8vWX/arnica.jpg"
   },
   {
     "id": 47,
@@ -929,7 +929,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "O uso excessivo pode causar irritação na pele e mucosas, além de reações alérgicas em pessoas sensíveis a algum composto.",
-    "imagemUrl": "https://i.imgur.com/v8R4s7D.jpeg"
+    "imagemUrl": "https://i.postimg.cc/26B9tQYc/peruvian-peppertree.jpg"
   },
   {
     "id": 48,
@@ -951,7 +951,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Contraindicada durante a gravidez e amamentação e pode causar irritação gástrica e reações alérgicas. O uso prolongado pode ser tóxico e deve ser feito com moderação ou sob orientação médica.",
-    "imagemUrl": "https://i.imgur.com/O6LdMbv.jpeg"
+    "imagemUrl": "https://i.postimg.cc/wT7tM2Jv/mugwort.jpg"
   },
   {
     "id": 49,
@@ -969,7 +969,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Está em risco de extinção em alguns estados do Brasil devido a superexploração para confecção de artesanato. Por isso, sempre que possível, escolha outras plantas no lugar da Barba de Velho.",
-    "imagemUrl": "https://i.imgur.com/d8p1Q4D.jpeg"
+    "imagemUrl": "https://i.postimg.cc/7L4hF2v5/spanish-moss.jpg"
   },
   {
     "id": 50,
@@ -987,7 +987,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Pessoas alérgicas a plantas da família Asteraceae podem ter reações. Pode interagir com medicamentos para diabetes e diuréticos. Evitar na gravidez.",
-    "imagemUrl": "https://i.imgur.com/p5M0w8p.jpeg"
+    "imagemUrl": "https://i.postimg.cc/k47tV42h/burdock.jpg"
   },
   {
     "id": 51,
@@ -1005,7 +1005,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Geralmente seguro. Pessoas com alergia a plantas da família Allium (alho, cebola) devem ter cautela.",
-    "imagemUrl": "https://i.imgur.com/t3g4h5S.jpeg"
+    "imagemUrl": "https://i.postimg.cc/J0tX0ZVK/chives.jpg"
   },
   {
     "id": 52,
@@ -1023,7 +1023,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Pode causar dermatite de contato em algumas pessoas. Evite a Chicória durante a gravidez, pois ela pode estimular a menstruação. Pode interferir com medicamentos beta-bloqueadores para o coração.",
-    "imagemUrl": "https://i.imgur.com/9nF7s5B.jpeg"
+    "imagemUrl": "https://i.postimg.cc/vBHywWkC/chicory.jpg"
   },
   {
     "id": 53,
@@ -1041,7 +1041,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Pode causar efeitos adversos, incluindo náuseas, dores de estômago e desconforto gastrointestinal. Em casos raros, a Cimífuga pode afetar o fígado.",
-    "imagemUrl": "https://i.imgur.com/6X2h8vj.jpeg"
+    "imagemUrl": "https://i.postimg.cc/t4gB4qXy/black-cohosh.jpg"
   },
   {
     "id": 54,
@@ -1059,7 +1059,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Tem um efeito sedativo poderoso; após o uso, evite atividades que requerem atenção. O uso interno pode causar desconfortos gastrointestinais, como náuseas, vômitos ou diarreia, especialmente em grandes quantidades.",
-    "imagemUrl": "https://i.imgur.com/L9p8m7N.jpeg"
+    "imagemUrl": "https://i.postimg.cc/85z1D65S/bleeding-heart.jpg"
   },
   {
     "id": 55,
@@ -1081,7 +1081,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "O consumo de endro pode causar sensibilidade ao sol em algumas pessoas.",
-    "imagemUrl": "https://i.imgur.com/d2j3k4F.jpeg"
+    "imagemUrl": "https://i.postimg.cc/Y0g0Zt6k/dill.jpg"
   },
   {
     "id": 56,
@@ -1099,7 +1099,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Não a use internamente a longo prazo, pois pode causar distúrbios digestivos. Pessoas com doenças autoimunes não devem usar a Equinácea.",
-    "imagemUrl": "https://i.imgur.com/tX2eJt2.jpeg"
+    "imagemUrl": "https://i.postimg.cc/6p6Z4HhG/echinacea.jpg"
   },
   {
     "id": 57,
@@ -1117,7 +1117,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Usar com cautela durante a gravidez. Pode causar irritação na pele em pessoas sensíveis.",
-    "imagemUrl": "https://i.imgur.com/a9k9Y8r.jpeg"
+    "imagemUrl": "https://i.postimg.cc/WbQvLqK0/redshank.jpg"
   },
   {
     "id": 58,
@@ -1135,7 +1135,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Pode ser tóxica em doses altas, causando náuseas, tonturas e danos ao fígado. É contraindicada para gestantes, pois pode induzir contrações no útero e aumentar o risco de aborto. Evitar o uso por crianças e pessoas com problemas hepáticos e renais graves.",
-    "imagemUrl": "https://i.imgur.com/c6F8s9b.jpeg"
+    "imagemUrl": "https://i.postimg.cc/C1tXq7Kk/epazote.jpg"
   },
   {
     "id": 59,
@@ -1153,7 +1153,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Interage com muitos medicamentos modernos. Não deve ser tomada por pessoas que já estejam usando medicamentos Inibidores Seletivos de Recaptação de Serotonina e pode causar sensibilidade ao sol.",
-    "imagemUrl": "https://i.imgur.com/1sF2G3t.jpeg"
+    "imagemUrl": "https://i.postimg.cc/7h1NqjZp/st-johns-wort.jpg"
   },
   {
     "id": 60,
@@ -1171,7 +1171,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "O uso é contraindicado pessoas com úlceras gástricas, gastrite, cálculos biliares ou doenças cardiovasculares graves. Possíveis efeitos adversos incluem desconforto gastrointestinal, dor de cabeça, tontura e reações alérgicas.",
-    "imagemUrl": "https://i.imgur.com/J3y5p6s.jpeg"
+    "imagemUrl": "https://i.postimg.cc/pr0mrwKv/garra-do-diabo.jpg"
   },
   {
     "id": 61,
@@ -1189,7 +1189,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Pode causar insônia se tomado perto da hora de dormir. Pode interagir com anticoagulantes e medicamentos para diabetes.",
-    "imagemUrl": "https://i.imgur.com/b5R6s8T.jpeg"
+    "imagemUrl": "https://i.postimg.cc/y8pM7H3Y/american-ginseng.jpg"
   },
   {
     "id": 62,
@@ -1207,7 +1207,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Pessoas com doenças autoimunes não devem usar o Hidraste internamente, pois ele é um estimulante do sistema imunológico. O Hidraste pode aumentar a pressão arterial.",
-    "imagemUrl": "https://i.imgur.com/q3S9n0Y.jpeg"
+    "imagemUrl": "https://i.postimg.cc/d1Gjw0vP/goldenseal.jpg"
   },
   {
     "id": 63,
@@ -1225,7 +1225,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Pode causar sono se combinado com outros medicamentos. Mulheres com distúrbios hormonais em tratamento devem conversar com um médico. Suspenda o uso uma semana antes de cirurgias. Mulheres grávidas não devem usar.",
-    "imagemUrl": "https://i.imgur.com/d0bFv9n.jpeg"
+    "imagemUrl": "https://i.postimg.cc/WbQ3N3r8/kudzu.jpg"
   },
   {
     "id": 64,
@@ -1243,7 +1243,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "A farinha de linhaça, devido ao elevado teor de óleos insaturados pode se tornar rançosa se deixada em contato direto com o ar. Mantenha a farinha em um recipiente bem fechado e guarde sob refrigeração.",
-    "imagemUrl": "https://i.imgur.com/kS9w0yw.jpeg"
+    "imagemUrl": "https://i.postimg.cc/3w7j4x3L/flaxseed.jpg"
   },
   {
     "id": 65,
@@ -1261,7 +1261,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Confesso que fiquei relutante em incluir a Lobélia neste livro devido aos seus potenciais efeitos tóxicos quando usada em maior quantidade. Eu recomendo que evite o uso desta planta e, se realmente desejar fazer uso, procure acompanhamento médico.",
-    "imagemUrl": "https://i.imgur.com/L5B7n6C.jpeg"
+    "imagemUrl": "https://i.postimg.cc/50tZk52z/lobelia.jpg"
   },
   {
     "id": 66,
@@ -1278,8 +1278,8 @@ export const HERBS: Herb[] = [
         "descricao": "Use 1 colher de sobremesa de folhas secas para uma 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade de erva. Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Coe para retirar as ervas e tome 3 xícaras por dia."
       }
     ],
-    "cuidadosEContraindicacoes": "Pessoas com hipotireoidismo não devem usar. Pode interferir na coagulação do sangue. Suspender o uso uma semana antes de cirurgias. Mulheres grávidas não devem usar.",
-    "imagemUrl": "https://i.imgur.com/x0r4qfC.jpeg"
+    "cuidadosEContraindicacoes": "Pessoas com hipotireoidismo não devem usar. Pode interagir na coagulação do sangue. Suspender o uso uma semana antes de cirurgias. Mulheres grávidas não devem usar.",
+    "imagemUrl": "https://i.postimg.cc/N0c3zV1g/holy-basil.jpg"
   },
   {
     "id": 67,
@@ -1297,7 +1297,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Evite usar se estiver grávida, pois pode induzir contrações uterinas. Deve ser evitada por lactantes e crianças pequenas. O uso prolongado pode levar à sonolência excessiva.",
-    "imagemUrl": "https://i.imgur.com/9v8B2kC.jpeg"
+    "imagemUrl": "https://i.postimg.cc/3N1QdD9p/marjoram.jpg"
   },
   {
     "id": 68,
@@ -1315,7 +1315,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "A Melissa é considerada segura para a maioria das pessoas, mas não deve ser usada por pessoas que estão tomando medicação para hipertireoidismo. Evite o uso se estiver tomando medicação anticoagulante e suspenda o uso uma semana antes de fazer uma cirurgia programada. Se estiver grávida, não use sem antes consultar um médico.",
-    "imagemUrl": "https://i.imgur.com/uT3gS2B.jpeg"
+    "imagemUrl": "https://i.postimg.cc/Hnpy0t9G/lemon-balm.jpg"
   },
   {
     "id": 69,
@@ -1337,7 +1337,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "O Mentruz é considerada uma erva muito segura. Recomendo que mulheres grávidas evitem o seu uso durante a gestação. Em grandes quantidades, pode causar efeitos gastrointestinais indesejados.",
-    "imagemUrl": "https://i.imgur.com/rS2a8Vf.jpeg"
+    "imagemUrl": "https://i.postimg.cc/tJnNf1pM/swinecress.jpg"
   },
   {
     "id": 70,
@@ -1355,7 +1355,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Tem poucos efeitos adversos e geralmente é bastante segura. Porém, não deve ser usada por mulheres grávidas. Se for fazer uma cirurgia programada, suspenda o uso uma semana antes.",
-    "imagemUrl": "https://i.imgur.com/7vj7V0c.jpeg"
+    "imagemUrl": "https://i.postimg.cc/6pYV8tGb/yarrow.jpg"
   },
   {
     "id": 71,
@@ -1373,7 +1373,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Não deve ser usado internamente por mulheres grávidas. Em algumas pessoas, podem aumentar a sensibilidade ao sol. Não use o óleo essencial puro diretamente na pele.",
-    "imagemUrl": "https://i.imgur.com/O6LdMbv.jpeg"
+    "imagemUrl": "https://i.postimg.cc/mD8k4gG9/bee-balm.jpg"
   },
   {
     "id": 72,
@@ -1391,7 +1391,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Geralmente seguro. Pessoas com alergia a morangos devem evitar o uso.",
-    "imagemUrl": "https://i.imgur.com/2bB1J3G.jpeg"
+    "imagemUrl": "https://i.postimg.cc/P5k2rJj0/wild-strawberry.jpg"
   },
   {
     "id": 73,
@@ -1409,7 +1409,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Deve ser utilizada com cautela por pessoas que fazem uso de medicamentos antidiabéticos ou anti-hipertensivos. O uso excessivo pode causar distúrbios digestivos. O consumo elevado das sementes pode reduzir a fertilidade.",
-    "imagemUrl": "https://i.imgur.com/o1b2m3n.jpeg"
+    "imagemUrl": "https://i.postimg.cc/WbQvR2yL/moringa.jpg"
   },
   {
     "id": 74,
@@ -1427,7 +1427,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Pessoas com pressão baixa ou que tomam medicamentos para pressão devem usar com cautela. Diabéticos devem monitorar os níveis de açúcar no sangue. O consumo exagerado de azeite pode causar diarreia.",
-    "imagemUrl": "https://i.imgur.com/N7b0g8f.jpeg"
+    "imagemUrl": "https://i.postimg.cc/Y0G3gJ6P/olive-tree.jpg"
   },
   {
     "id": 75,
@@ -1445,7 +1445,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Pode interagir com medicamentos para epilepsia e anticoagulantes. Pessoas com distúrbios hemorrágicos devem evitar.",
-    "imagemUrl": "https://i.imgur.com/J7d8K4L.jpeg"
+    "imagemUrl": "https://i.postimg.cc/Qx77sYqS/evening-primrose.jpg"
   },
   {
     "id": 76,
@@ -1463,7 +1463,7 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Pode ter efeitos estimulantes, por isso é melhor tomá-la no início da manhã. Não use sem consultar um médico se estiver tomando medicamentos antidepressivos, antipsicóticos, ansiolíticos e outros.",
-    "imagemUrl": "https://i.imgur.com/d7K9gLp.jpeg"
+    "imagemUrl": "https://i.postimg.cc/t4Z8S8Mh/rhodiola.jpg"
   },
   {
     "id": 77,
@@ -1481,442 +1481,6 @@ export const HERBS: Herb[] = [
       }
     ],
     "cuidadosEContraindicacoes": "Não tome se estiver grávida, amamentando ou tentando engravidar. Não tome se tiver um distúrbio autoimune. Consulte seu profissional de saúde se estiver tomando anticoagulantes ou outros medicamentos prescritos.",
-    "imagemUrl": "https://i.imgur.com/O6LdMbv.jpeg"
-  },
-  {
-    "id": 78,
-    "nomePopular": "Uva-ursi",
-    "nomeCientifico": "Arctostaphylos uva-ursi",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Tintura, Cápsulas",
-    "usosPrincipais": [
-      "Infecções Urinárias e Vaginais", "Cistite e Uretrite", "Anti-inflamatória", "Artrite e Outras Inflamações", "Adstringente, Diarreia e Sangramentos", "Feridas, Lesões na Pele e Cicatrização", "Pedras nos Rins", "Síndrome da Bexiga Irritável"
-    ],
-    "receitasRapidas": [
-      {
-        "titulo": "Chá de Folhas de Uva Ursi",
-        "descricao": "Use 1 colher de sobremesa de folhas secas para uma 1 xícara de água (150 ml). Se usar folhas frescas, dobre a quantidade de erva. Despeje a água fervente sobre as folhas, tampe e aguarde esfriar. Coe para retirar as ervas e tome 3 xícaras por dia."
-      }
-    ],
-    "cuidadosEContraindicacoes": "Rica em taninos, pode causar constipação intestinal se ingerida em excesso. Não usar durante a gravidez. O uso a longo prazo pode sobrecarregar o fígado.",
-    "imagemUrl": "https://i.imgur.com/v8R4s7D.jpeg"
-  },
-  {
-    "id": 79,
-    "nomePopular": "Guaco",
-    "nomeCientifico": "Mikania glomerata",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Xarope, Tintura",
-    "usosPrincipais": ["Expectorante", "Broncodilatador", "Tosse", "Asma", "Bronquite", "Resfriados e Gripes", "Anti-inflamatório", "Antialérgico"],
-    "receitasRapidas": [{ "titulo": "Chá de Guaco", "descricao": "1 colher de sopa de folhas frescas para 1 xícara de água (150 ml). Ferva a água, adicione as folhas e deixe em infusão por 5 minutos. Coe e beba até 3 vezes ao dia." }, { "titulo": "Xarope de Guaco com Mel", "descricao": "Faça um chá concentrado com 1 xícara de folhas para 1 xícara de água. Coe e misture com 1 xícara de mel em fogo baixo até engrossar. Tome 1 colher de sopa 3x ao dia." }],
-    "cuidadosEContraindicacoes": "Contraindicado para grávidas, lactantes e pessoas com doenças hepáticas. O uso excessivo pode causar vômitos e diarreia. Pode interagir com medicamentos anticoagulantes.",
-    "imagemUrl": "https://i.imgur.com/hUa5T6t.jpeg"
-  },
-  {
-    "id": 80,
-    "nomePopular": "Erva-doce (Anis)",
-    "nomeCientifico": "Pimpinella anisum",
-    "parteUsada": "Sementes",
-    "formaDeUsoPrincipal": "Chá",
-    "usosPrincipais": ["Gases e Inchaço", "Cólicas Intestinais", "Indigestão", "Expectorante", "Aumenta a produção de leite materno"],
-    "receitasRapidas": [{ "titulo": "Chá de Erva-doce", "descricao": "1 colher de chá de sementes para 1 xícara de água (150ml). Esmague levemente as sementes, despeje água fervente, tampe por 10 min. Beba após as refeições." }],
-    "cuidadosEContraindicacoes": "Geralmente seguro, mas o uso em excesso pode causar reações alérgicas. Não recomendado para grávidas em grandes quantidades.",
-    "imagemUrl": "https://i.imgur.com/d2j3k4F.jpeg"
-  },
-  {
-    "id": 81,
-    "nomePopular": "Alcachofra",
-    "nomeCientifico": "Cynara scolymus",
-    "parteUsada": "Folhas, flor",
-    "formaDeUsoPrincipal": "Chá, Cápsulas, Alimento",
-    "usosPrincipais": ["Proteção do Fígado", "Redução do Colesterol", "Melhora a Digestão de Gorduras", "Diurético", "Gases e Inchaço"],
-    "receitasRapidas": [{ "titulo": "Chá de Folhas de Alcachofra", "descricao": "1 colher de sopa de folhas secas para 1 litro de água. Ferva por 5 minutos, coe e beba ao longo do dia." }],
-    "cuidadosEContraindicacoes": "Contraindicado para pessoas com obstrução do ducto biliar ou alergia à família Asteraceae. Não recomendado para grávidas e lactantes.",
-    "imagemUrl": "https://i.imgur.com/f9L8g7s.jpeg"
-  },
-  {
-    "id": 82,
-    "nomePopular": "Boldo",
-    "nomeCientifico": "Peumus boldus",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá",
-    "usosPrincipais": ["Má Digestão", "Problemas de Fígado e Vesícula", "Azia", "Gases", "Ressaca"],
-    "receitasRapidas": [{ "titulo": "Chá de Boldo", "descricao": "1 colher de chá de folhas secas picadas para 1 xícara de água (150 ml). Despeje água fervente, tampe por 10 min. Beba até 2 vezes ao dia. Não exceda 30 dias de uso contínuo." }],
-    "cuidadosEContraindicacoes": "Não usar na gravidez, amamentação ou em casos de obstrução das vias biliares. O uso prolongado e em altas doses pode ser tóxico para o fígado.",
-    "imagemUrl": "https://i.imgur.com/vHq1YDB.jpeg"
-  },
-  {
-    "id": 83,
-    "nomePopular": "Espinheira-santa",
-    "nomeCientifico": "Maytenus ilicifolia",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Cápsulas",
-    "usosPrincipais": ["Gastrite", "Úlceras Estomacais", "Azia e Refluxo", "Má Digestão", "Gases"],
-    "receitasRapidas": [{ "titulo": "Chá de Espinheira-santa", "descricao": "1 colher de sopa de folhas secas para 1 xícara de água fervente. Deixe em infusão por 10 minutos. Beba 30 minutos antes das refeições." }],
-    "cuidadosEContraindicacoes": "Contraindicado para grávidas (pode causar aborto) e lactantes (reduz a produção de leite). Não usar por mais de 6 meses sem pausa.",
-    "imagemUrl": "https://i.imgur.com/W2bAAnY.jpeg"
-  },
-  {
-    "id": 84,
-    "nomePopular": "Maracujá",
-    "nomeCientifico": "Passiflora edulis",
-    "parteUsada": "Folhas, Fruto",
-    "formaDeUsoPrincipal": "Chá (folhas), Suco (fruto)",
-    "usosPrincipais": ["Calmante", "Ansiedade", "Insônia", "Estresse", "Pressão Alta"],
-    "receitasRapidas": [{ "titulo": "Chá de Folha de Maracujá", "descricao": "1 colher de chá de folhas secas para 1 xícara de água (150 ml). Ferva a água e despeje sobre as folhas. Tampe e deixe em infusão por 10 minutos. Beba à noite." }],
-    "cuidadosEContraindicacoes": "Pode potencializar o efeito de medicamentos sedativos. Causa sonolência, evite dirigir ou operar máquinas após o consumo. Pessoas com pressão baixa devem usar com cautela.",
-    "imagemUrl": "https://i.imgur.com/L9p8m7N.jpeg"
-  },
-  {
-    "id": 85,
-    "nomePopular": "Hortelã",
-    "nomeCientifico": "Mentha spicata",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Tempero",
-    "usosPrincipais": ["Má Digestão", "Gases e Inchaço", "Síndrome do Intestino Irritável", "Congestão Nasal", "Mau Hálito"],
-    "receitasRapidas": [{ "titulo": "Chá de Hortelã", "descricao": "1 colher de sopa de folhas frescas ou secas para 1 xícara de água (150 ml). Despeje água fervente sobre as folhas e deixe em infusão por 5-10 minutos. Beba após as refeições." }],
-    "cuidadosEContraindicacoes": "Não recomendado para bebês e crianças pequenas. Pessoas com refluxo severo devem evitar, pois pode relaxar o esfíncter do esôfago.",
-    "imagemUrl": "https://i.imgur.com/5lR3s1P.jpeg"
-  },
-  {
-    "id": 86,
-    "nomePopular": "Catuaba",
-    "nomeCientifico": "Anemopaegma arvense",
-    "parteUsada": "Casca",
-    "formaDeUsoPrincipal": "Decocção, Tintura",
-    "usosPrincipais": ["Estimulante Sexual (afrodisíaco)", "Fadiga Física e Mental", "Memória e Concentração", "Esgotamento Nervoso"],
-    "receitasRapidas": [{ "titulo": "Decocção de Catuaba", "descricao": "1 colher de sopa de casca para 500 ml de água. Ferva por 10-15 minutos. Coe e beba 1 a 2 xícaras por dia." }],
-    "cuidadosEContraindicacoes": "Contraindicado para grávidas, lactantes e pessoas com problemas cardíacos ou pressão alta. O uso excessivo pode causar insônia e agitação.",
-    "imagemUrl": "https://i.imgur.com/d9jAnvV.jpeg"
-  },
-  {
-    "id": 87,
-    "nomePopular": "Marapuama",
-    "nomeCientifico": "Ptychopetalum olacoides",
-    "parteUsada": "Casca, Raiz",
-    "formaDeUsoPrincipal": "Decocção, Tintura",
-    "usosPrincipais": ["Disfunção Erétil e Impotência", "Aumento da Libido", "Estresse e Fadiga", "Reumatismo", "Melhora da Memória"],
-    "receitasRapidas": [{ "titulo": "Decocção de Marapuama", "descricao": "2 colheres de sopa de casca/raiz para 1 litro de água. Ferva por 20 minutos. Deixe esfriar, coe e beba 2 a 3 xícaras ao dia." }],
-    "cuidadosEContraindicacoes": "Contraindicado para grávidas, lactantes e pessoas com hipertensão ou problemas cardíacos. O uso excessivo pode causar insônia e tremores.",
-    "imagemUrl": "https://i.imgur.com/OqJ9m6z.jpeg"
-  },
-  {
-    "id": 88,
-    "nomePopular": "Aroeira-vermelha",
-    "nomeCientifico": "Schinus terebinthifolia",
-    "parteUsada": "Casca, Folhas",
-    "formaDeUsoPrincipal": "Chá, Banho de assento",
-    "usosPrincipais": ["Anti-inflamatório", "Cicatrizante", "Antimicrobiano", "Infecções Ginecológicas", "Infecções Urinárias", "Reumatismo"],
-    "receitasRapidas": [{ "titulo": "Banho de Assento", "descricao": "Ferva 20g de casca em 1 litro de água por 10 minutos. Coe, espere amornar e faça o banho de assento por 15 minutos, 1 vez ao dia." }],
-    "cuidadosEContraindicacoes": "Uso interno deve ser feito com cautela e por curtos períodos. Pode ser tóxica em altas doses. Contraindicada para grávidas e lactantes. Pode causar alergia de pele.",
-    "imagemUrl": "https://i.imgur.com/uFkSrg2.jpeg"
-  },
-  {
-    "id": 89,
-    "nomePopular": "Chapéu-de-couro",
-    "nomeCientifico": "Echinodorus grandiflorus",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá",
-    "usosPrincipais": ["Diurético", "Depurativo (limpeza do sangue)", "Reumatismo e Artrite", "Gota (Ácido Úrico)", "Problemas de Pele"],
-    "receitasRapidas": [{ "titulo": "Chá de Chapéu-de-couro", "descricao": "1 colher de sopa de folhas secas para 1 litro de água. Ferva por 5 minutos, deixe em infusão por mais 10. Coe e beba ao longo do dia." }],
-    "cuidadosEContraindicacoes": "Contraindicado para pessoas com insuficiência cardíaca ou renal. Por ser diurético, pode causar perda de minerais com o uso prolongado.",
-    "imagemUrl": "https://i.imgur.com/eun02sC.jpeg"
-  },
-  {
-    "id": 90,
-    "nomePopular": "Quebra-pedra",
-    "nomeCientifico": "Phyllanthus niruri",
-    "parteUsada": "Planta inteira",
-    "formaDeUsoPrincipal": "Chá",
-    "usosPrincipais": ["Cálculos Renais (Pedras nos Rins)", "Infecções Urinárias", "Proteção do Fígado", "Redução do Ácido Úrico", "Pressão Alta"],
-    "receitasRapidas": [{ "titulo": "Chá de Quebra-pedra", "descricao": "1 colher de sopa da planta seca para 500 ml de água. Ferva por 5-10 minutos. Coe e beba 2 a 3 xícaras ao dia." }],
-    "cuidadosEContraindicacoes": "Não deve ser usado por mais de 2 semanas seguidas. Contraindicado para grávidas e lactantes. Use com cautela se tiver pressão baixa.",
-    "imagemUrl": "https://i.imgur.com/a9k9Y8r.jpeg"
-  },
-  {
-    "id": 91,
-    "nomePopular": "Alecrim",
-    "nomeCientifico": "Rosmarinus officinalis",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Tempero, Óleo essencial",
-    "usosPrincipais": ["Melhora da Memória e Concentração", "Alívio do Estresse", "Melhora da Digestão", "Anti-inflamatório", "Antioxidante"],
-    "receitasRapidas": [{ "titulo": "Chá de Alecrim", "descricao": "1 colher de chá de folhas secas para 1 xícara de água fervente (150 ml). Deixe em infusão por 5-10 minutos. Beba até 3 xícaras por dia." }],
-    "cuidadosEContraindicacoes": "Não recomendado para grávidas, lactantes e crianças pequenas. Em altas doses, pode ser irritante para o estômago e rins.",
-    "imagemUrl": "https://i.imgur.com/9v8B2kC.jpeg"
-  },
-  {
-    "id": 92,
-    "nomePopular": "Tanchagem",
-    "nomeCientifico": "Plantago major",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Gargarejo, Cataplasma",
-    "usosPrincipais": ["Inflamações de Garganta e Boca", "Tosse e Bronquite", "Cicatrizante para Feridas", "Problemas Gastrointestinais", "Infecções Urinárias"],
-    "receitasRapidas": [{ "titulo": "Gargarejo para Dor de Garganta", "descricao": "Faça um chá forte com 2 colheres de sopa de folhas para 1 xícara de água. Deixe amornar e faça gargarejos várias vezes ao dia." }],
-    "cuidadosEContraindicacoes": "Geralmente segura. Contraindicada na gravidez. Pessoas com obstrução intestinal devem evitar.",
-    "imagemUrl": "https://i.imgur.com/c6F8s9b.jpeg"
-  },
-  {
-    "id": 93,
-    "nomePopular": "Malva",
-    "nomeCientifico": "Malva sylvestris",
-    "parteUsada": "Folhas, Flores",
-    "formaDeUsoPrincipal": "Chá, Gargarejo",
-    "usosPrincipais": ["Tosse Seca e Irritativa", "Dor de Garganta", "Inflamações na Boca (gengivite, aftas)", "Prisão de Ventre (laxante suave)", "Irritações de Pele"],
-    "receitasRapidas": [{ "titulo": "Chá de Malva", "descricao": "1 colher de sopa de flores e folhas secas para 1 xícara de água fervente (150 ml). Infusão por 10 minutos. Beba morno." }],
-    "cuidadosEContraindicacoes": "Geralmente segura. O uso excessivo pode ter efeito laxante. Não há contraindicações significativas, mas grávidas devem consultar um médico.",
-    "imagemUrl": "https://i.imgur.com/f7jYf8q.jpeg"
-  },
-  {
-    "id": 94,
-    "nomePopular": "Cúrcuma (Açafrão-da-terra)",
-    "nomeCientifico": "Curcuma longa",
-    "parteUsada": "Rizoma (raiz)",
-    "formaDeUsoPrincipal": "Pó (tempero), Cápsulas, Chá",
-    "usosPrincipais": ["Anti-inflamatório Potente", "Artrite e Dores Articulares", "Antioxidante", "Melhora da Função Cerebral", "Proteção do Fígado"],
-    "receitasRapidas": [{ "titulo": "Leite Dourado", "descricao": "Aqueça 1 xícara de leite (pode ser vegetal) com 1 colher de chá de cúrcuma em pó, uma pitada de pimenta preta (melhora absorção), e adoce a gosto. Beba antes de dormir." }],
-    "cuidadosEContraindicacoes": "Pode interagir com anticoagulantes. Contraindicado para pessoas com obstrução das vias biliares. Em altas doses, pode causar desconforto estomacal.",
-    "imagemUrl": "https://i.imgur.com/h9vC0h4.jpeg"
-  },
-  {
-    "id": 95,
-    "nomePopular": "Mentrasto",
-    "nomeCientifico": "Ageratum conyzoides",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Cataplasma",
-    "usosPrincipais": ["Artrite e Artrose", "Dores Articulares e Reumáticas", "Relaxante Muscular", "Anti-inflamatório", "Cólicas"],
-    "receitasRapidas": [{ "titulo": "Cataplasma para Dores Articulares", "descricao": "Amasse folhas frescas até formar uma pasta. Aplique sobre a articulação dolorida e cubra com um pano por 30 minutos." }],
-    "cuidadosEContraindicacoes": "Não usar as flores, que podem ser tóxicas. Contraindicado para pessoas com problemas hepáticos e durante a gravidez e amamentação.",
-    "imagemUrl": "https://i.imgur.com/hUa5T6t.jpeg"
-  },
-  {
-    "id": 96,
-    "nomePopular": "Erva-baleeira",
-    "nomeCientifico": "Cordia verbenacea",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Pomada, Tintura",
-    "usosPrincipais": ["Anti-inflamatório", "Analgésico", "Artrite e Reumatismo", "Dores Musculares", "Contusões"],
-    "receitasRapidas": [{ "titulo": "Chá de Erva-baleeira", "descricao": "1 colher de sopa de folhas frescas ou secas para 1 xícara de água (150 ml). Ferva por 3 minutos, coe e beba 2 vezes ao dia." }],
-    "cuidadosEContraindicacoes": "Geralmente segura, sem toxicidade relatada. Evitar o uso das flores. Gestantes e lactantes devem consultar um profissional de saúde.",
-    "imagemUrl": "https://i.imgur.com/7vj7V0c.jpeg"
-  },
-  {
-    "id": 97,
-    "nomePopular": "Sucupira",
-    "nomeCientifico": "Pterodon emarginatus",
-    "parteUsada": "Sementes",
-    "formaDeUsoPrincipal": "Óleo, Decocção da semente",
-    "usosPrincipais": ["Artrite e Artrose", "Dores na Coluna", "Reumatismo", "Gota (Ácido Úrico)", "Inflamações em geral"],
-    "receitasRapidas": [{ "titulo": "Decocção de Semente de Sucupira", "descricao": "Quebre 4-5 sementes e ferva em 1 litro de água por 10 minutos. Coe e beba ao longo do dia." }],
-    "cuidadosEContraindicacoes": "Contraindicado para grávidas, lactantes e pessoas com problemas renais ou hepáticos. O uso deve ser moderado.",
-    "imagemUrl": "https://i.imgur.com/d9jAnvV.jpeg"
-  },
-  {
-    "id": 98,
-    "nomePopular": "Copaíba",
-    "nomeCientifico": "Copaifera sp.",
-    "parteUsada": "Óleo-resina",
-    "formaDeUsoPrincipal": "Óleo (uso interno e externo)",
-    "usosPrincipais": ["Anti-inflamatório", "Cicatrizante", "Antisséptico", "Problemas de Pele (dermatite, psoríase)", "Dores Musculares e Articulares"],
-    "receitasRapidas": [{ "titulo": "Uso Interno do Óleo", "descricao": "Diluir 1 a 2 gotas do óleo em um pouco de água ou mel. Tomar 1 a 3 vezes ao dia. Não exceder a dose." }],
-    "cuidadosEContraindicacoes": "Contraindicado para grávidas e lactantes. O uso excessivo pode causar problemas gastrointestinais. Sempre use óleos de fontes confiáveis.",
-    "imagemUrl": "https://i.imgur.com/uFkSrg2.jpeg"
-  },
-  {
-    "id": 99,
-    "nomePopular": "Canela-de-velho",
-    "nomeCientifico": "Miconia albicans",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá",
-    "usosPrincipais": ["Artrose", "Artrite Reumatoide", "Dores Articulares", "Dores na Coluna", "Anti-inflamatório"],
-    "receitasRapidas": [{ "titulo": "Chá de Canela-de-velho", "descricao": "1 colher de sopa de folhas secas para 1 litro de água. Ferva por 5 minutos, deixe em infusão por mais 10. Coe e beba 2 xícaras ao dia." }],
-    "cuidadosEContraindicacoes": "Há controvérsias sobre a toxicidade (acúmulo de alumínio). Use com moderação e por períodos curtos (máx. 30 dias). Contraindicado para grávidas e lactantes.",
-    "imagemUrl": "https://i.imgur.com/YQ8xJ1d.jpeg"
-  },
-  {
-    "id": 100,
-    "nomePopular": "Sálvia",
-    "nomeCientifico": "Salvia officinalis",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Tempero",
-    "usosPrincipais": ["Ondas de Calor da Menopausa", "Sudorese Excessiva", "Inflamações de Boca e Garganta", "Melhora da Memória", "Digestivo"],
-    "receitasRapidas": [{ "titulo": "Chá para Ondas de Calor", "descricao": "1 colher de sopa de folhas secas em 1 xícara de água fervente. Deixe em infusão por 15 min. Beba 1 a 2 vezes ao dia, de preferência frio." }],
-    "cuidadosEContraindicacoes": "Não deve ser usada por grávidas, lactantes e pessoas com epilepsia. O uso prolongado e em altas doses pode ser neurotóxico devido à tujona.",
-    "imagemUrl": "https://i.imgur.com/t3g4h5S.jpeg"
-  },
-  {
-    "id": 101,
-    "nomePopular": "Sabugueiro",
-    "nomeCientifico": "Sambucus nigra",
-    "parteUsada": "Flores, Frutos (cozidos)",
-    "formaDeUsoPrincipal": "Chá (flores), Xarope (frutos)",
-    "usosPrincipais": ["Gripes e Resfriados", "Febre (sudorífico)", "Sinusite e Congestão Nasal", "Fortalecimento do Sistema Imunológico"],
-    "receitasRapidas": [{ "titulo": "Chá de Flor de Sabugueiro", "descricao": "2 colheres de chá de flores secas para 1 xícara de água fervente (150 ml). Deixe em infusão por 10 minutos. Beba quente." }],
-    "cuidadosEContraindicacoes": "Folhas, caules e frutos crus são tóxicos. Use apenas flores ou frutos bem cozidos. Contraindicado na gravidez e amamentação.",
-    "imagemUrl": "https://i.imgur.com/d8p1Q4D.jpeg"
-  },
-  {
-    "id": 102,
-    "nomePopular": "Carqueja",
-    "nomeCientifico": "Baccharis trimera",
-    "parteUsada": "Hastes",
-    "formaDeUsoPrincipal": "Chá",
-    "usosPrincipais": ["Problemas Digestivos", "Má Digestão e Gases", "Proteção do Fígado", "Diabetes (ajuda a baixar a glicemia)", "Emagrecimento"],
-    "receitasRapidas": [{ "titulo": "Chá de Carqueja", "descricao": "1 colher de sopa de hastes picadas para 500 ml de água. Ferva por 5 minutos. Beba antes das principais refeições." }],
-    "cuidadosEContraindicacoes": "Contraindicada para grávidas e lactantes. Pessoas com pressão baixa devem usar com cautela. Pode potencializar o efeito de hipoglicemiantes.",
-    "imagemUrl": "https://i.imgur.com/x0r4qfB.jpeg"
-  },
-  {
-    "id": 103,
-    "nomePopular": "Pata-de-vaca",
-    "nomeCientifico": "Bauhinia forficata",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá",
-    "usosPrincipais": ["Diabetes (efeito hipoglicemiante)", "Diurético", "Problemas Renais"],
-    "receitasRapidas": [{ "titulo": "Chá de Pata-de-vaca", "descricao": "2 folhas para 1 xícara de água (150 ml). Ferva por 5 minutos, coe e beba 2 vezes ao dia." }],
-    "cuidadosEContraindicacoes": "Deve ser usada com acompanhamento médico por diabéticos, pois pode causar hipoglicemia. Contraindicada para grávidas e lactantes.",
-    "imagemUrl": "https://i.imgur.com/K7p9e4G.jpeg"
-  },
-  {
-    "id": 104,
-    "nomePopular": "Alfavaca",
-    "nomeCientifico": "Ocimum gratissimum",
-    "parteUsada": "Folhas, Flores",
-    "formaDeUsoPrincipal": "Chá, Tempero",
-    "usosPrincipais": ["Gripes e Resfriados", "Tosse e Bronquite", "Problemas Digestivos", "Antisséptico Bucal", "Calmante"],
-    "receitasRapidas": [{ "titulo": "Chá de Alfavaca", "descricao": "10 folhas frescas para 1 xícara de água fervente. Deixe em infusão por 10 minutos. Beba morno." }],
-    "cuidadosEContraindicacoes": "Contraindicada na gravidez. O uso contínuo e excessivo deve ser evitado.",
-    "imagemUrl": "https://i.imgur.com/x0r4qfC.jpeg"
-  },
-  {
-    "id": 105,
-    "nomePopular": "Ançarinha-branca",
-    "nomeCientifico": "Chenopodium album",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Alimento (cozido)",
-    "usosPrincipais": ["Vermes Intestinais", "Prisão de Ventre", "Inflamações", "Gota"],
-    "receitasRapidas": [{ "titulo": "Chá de Ançarinha-branca", "descricao": "1 colher de chá de folhas secas para 1 xícara de água fervente. Infusão por 10 minutos." }],
-    "cuidadosEContraindicacoes": "Contém oxalatos, portanto deve ser evitada por pessoas com problemas renais. Não consumir crua em grandes quantidades. Contraindicada na gravidez.",
-    "imagemUrl": "https://i.imgur.com/p1Q2v5j.jpeg"
-  },
-  {
-    "id": 106,
-    "nomePopular": "Cardo-mariano",
-    "nomeCientifico": "Silybum marianum",
-    "parteUsada": "Sementes",
-    "formaDeUsoPrincipal": "Cápsulas, Chá (decocção)",
-    "usosPrincipais": ["Proteção e Regeneração do Fígado", "Hepatite e Cirrose", "Desintoxicação", "Má Digestão", "Redução do Colesterol"],
-    "receitasRapidas": [{ "titulo": "Chá de Sementes de Cardo-mariano", "descricao": "1 colher de chá de sementes moídas para 1 xícara de água. Ferva por 10 minutos, coe e beba antes das refeições." }],
-    "cuidadosEContraindicacoes": "Contraindicado para grávidas, lactantes e pessoas com alergia à família Asteraceae. Pode ter um leve efeito laxativo.",
-    "imagemUrl": "https://i.imgur.com/kY7hF2w.jpeg"
-  },
-  {
-    "id": 107,
-    "nomePopular": "Lavanda",
-    "nomeCientifico": "Lavandula angustifolia",
-    "parteUsada": "Flores",
-    "formaDeUsoPrincipal": "Chá, Óleo essencial",
-    "usosPrincipais": ["Ansiedade e Estresse", "Insônia", "Dores de Cabeça", "Problemas de Pele (acne, queimaduras)", "Dores Musculares"],
-    "receitasRapidas": [{ "titulo": "Chá de Lavanda", "descricao": "1 colher de chá de flores secas para 1 xícara de água fervente. Infusão por 5-10 minutos. Beba antes de dormir." }],
-    "cuidadosEContraindicacoes": "Geralmente segura. O óleo essencial não deve ser ingerido. Grávidas e lactantes devem consultar um médico.",
-    "imagemUrl": "https://i.imgur.com/L5B7n6C.jpeg"
-  },
-  {
-    "id": 108,
-    "nomePopular": "Losna (Absinto)",
-    "nomeCientifico": "Artemisia absinthium",
-    "parteUsada": "Folhas, Flores",
-    "formaDeUsoPrincipal": "Chá (uso muito moderado)",
-    "usosPrincipais": ["Vermes Intestinais", "Má Digestão", "Falta de Apetite", "Problemas de Fígado e Vesícula"],
-    "receitasRapidas": [{ "titulo": "Chá de Losna", "descricao": "1/2 colher de chá de folhas secas para 1 xícara de água fervente. Infusão por 5 minutos. Beba em pequenas doses." }],
-    "cuidadosEContraindicacoes": "Planta tóxica se usada em excesso ou por tempo prolongado devido à tujona. Contraindicada para grávidas, lactantes, pessoas com epilepsia e problemas gástricos graves.",
-    "imagemUrl": "https://i.imgur.com/O6LdMbv.jpeg"
-  },
-  {
-    "id": 109,
-    "nomePopular": "Lúpulo",
-    "nomeCientifico": "Humulus lupulus",
-    "parteUsada": "Flores (cones)",
-    "formaDeUsoPrincipal": "Chá, Tintura",
-    "usosPrincipais": ["Insônia e Agitação", "Ansiedade", "Sintomas da Menopausa", "Problemas Digestivos (falta de apetite)"],
-    "receitasRapidas": [{ "titulo": "Chá de Lúpulo", "descricao": "1 a 2 cones de lúpulo para 1 xícara de água fervente. Infusão por 10-15 minutos. Beba antes de dormir." }],
-    "cuidadosEContraindicacoes": "Pode causar sonolência. Contraindicado para pessoas com depressão e durante a gravidez e amamentação. Pode interagir com sedativos.",
-    "imagemUrl": "https://i.imgur.com/z4b0mNq.jpeg"
-  },
-  {
-    "id": 110,
-    "nomePopular": "Orégano",
-    "nomeCientifico": "Origanum vulgare",
-    "parteUsada": "Folhas",
-    "formaDeUsoPrincipal": "Chá, Tempero, Óleo essencial",
-    "usosPrincipais": ["Antisséptico e Antifúngico", "Problemas Respiratórios (tosse)", "Distúrbios Digestivos", "Antioxidante"],
-    "receitasRapidas": [{ "titulo": "Chá de Orégano", "descricao": "1 colher de sopa de folhas frescas ou 1 de chá de folhas secas para 1 xícara de água fervente. Infusão por 10 minutos." }],
-    "cuidadosEContraindicacoes": "Geralmente seguro como tempero. O óleo essencial é muito forte e deve ser diluído para uso. Grávidas devem evitar o consumo em grandes quantidades.",
-    "imagemUrl": "https://i.imgur.com/9v8B2kC.jpeg"
-  },
-  {
-    "id": 111,
-    "nomePopular": "Scutellaria",
-    "nomeCientifico": "Scutellaria lateriflora",
-    "parteUsada": "Partes aéreas",
-    "formaDeUsoPrincipal": "Chá, Tintura, Cápsulas",
-    "usosPrincipais": ["Ansiedade e Tensão Nervosa", "Estresse", "Insônia", "Dores de Cabeça Tensionais", "Espasmos Musculares"],
-    "receitasRapidas": [{ "titulo": "Chá de Scutellaria", "descricao": "1 a 2 colheres de chá da erva seca para 1 xícara de água fervente. Infusão por 10-15 minutos. Beba 2 a 3 vezes ao dia." }],
-    "cuidadosEContraindicacoes": "Pode causar sonolência. Interage com sedativos. Contraindicada na gravidez e amamentação. Use com cautela em caso de problemas hepáticos.",
-    "imagemUrl": "https://i.imgur.com/rP3iE6S.jpeg"
-  },
-  {
-    "id": 112,
-    "nomePopular": "Tomilho",
-    "nomeCientifico": "Thymus vulgaris",
-    "parteUsada": "Folhas, Flores",
-    "formaDeUsoPrincipal": "Chá, Tempero, Óleo essencial",
-    "usosPrincipais": ["Tosse e Bronquite (Expectorante)", "Antisséptico", "Problemas Digestivos", "Infecções Fúngicas"],
-    "receitasRapidas": [{ "titulo": "Chá para Tosse", "descricao": "1 colher de chá de tomilho seco para 1 xícara de água fervente. Infusão por 10 minutos. Adicione mel e limão. Beba várias vezes ao dia." }],
-    "cuidadosEContraindicacoes": "Geralmente seguro. O óleo essencial é potente e não deve ser ingerido. Grávidas devem evitar o uso em grandes quantidades.",
-    "imagemUrl": "https://i.imgur.com/rS2a8Vf.jpeg"
-  },
-  {
-    "id": 113,
-    "nomePopular": "Valeriana",
-    "nomeCientifico": "Valeriana officinalis",
-    "parteUsada": "Raiz",
-    "formaDeUsoPrincipal": "Chá, Tintura, Cápsulas",
-    "usosPrincipais": ["Insônia", "Ansiedade e Agitação", "Estresse", "Cólicas Menstruais"],
-    "receitasRapidas": [{ "titulo": "Chá de Raiz de Valeriana", "descricao": "1 colher de chá de raiz seca para 1 xícara de água fervente. Deixe em infusão por 10-15 minutos. Beba 30-60 minutos antes de dormir." }],
-    "cuidadosEContraindicacoes": "Pode causar sonolência. Não utilize antes de dirigir ou operar máquinas. Não combine com álcool ou outros sedativos. O uso contínuo por mais de um mês pode requerer desmame gradual.",
-    "imagemUrl": "https://i.imgur.com/6X2h8vj.jpeg"
-  },
-  {
-    "id": 114,
-    "nomePopular": "Verbasco",
-    "nomeCientifico": "Verbascum thapsus",
-    "parteUsada": "Folhas, Flores",
-    "formaDeUsoPrincipal": "Chá, Óleo infundido",
-    "usosPrincipais": ["Tosse Seca e Irritativa", "Bronquite e Asma", "Dor de Ouvido (óleo)", "Expectorante"],
-    "receitasRapidas": [{ "titulo": "Chá de Verbasco", "descricao": "1 a 2 colheres de chá de folhas ou flores secas para 1 xícara de água fervente. Infusão por 10-15 minutos. É crucial coar bem (em filtro de papel ou pano fino) para remover os pelos irritantes da planta." }],
-    "cuidadosEContraindicacoes": "As sementes são tóxicas. Sempre coe o chá para remover os pelos finos das folhas, que podem irritar a garganta. Grávidas e lactantes devem evitar.",
-    "imagemUrl": "https://i.imgur.com/L1b5eAg.jpeg"
-  },
-  {
-    "id": 115,
-    "nomePopular": "Trevo-vermelho",
-    "nomeCientifico": "Trifolium pratense",
-    "parteUsada": "Flores",
-    "formaDeUsoPrincipal": "Chá, Cápsulas",
-    "usosPrincipais": ["Sintomas da Menopausa (isoflavonas)", "Depurativo (limpeza do sangue)", "Problemas de Pele (eczema, psoríase)", "Tosse e Bronquite"],
-    "receitasRapidas": [{ "titulo": "Chá de Trevo-vermelho", "descricao": "1 a 2 colheres de chá de flores secas para 1 xícara de água fervente. Infusão por 10 minutos. Beba até 3 vezes ao dia." }],
-    "cuidadosEContraindicacoes": "Devido à sua atividade estrogênica, deve ser evitado por grávidas, lactantes e mulheres com histórico de câncer sensível a hormônios. Pode interagir com anticoagulantes.",
-    "imagemUrl": "https://i.imgur.com/Yw9v0uO.jpeg"
-  },
-  {
-    "id": 116,
-    "nomePopular": "Alcaçuz",
-    "nomeCientifico": "Glycyrrhiza glabra",
-    "parteUsada": "Raiz",
-    "formaDeUsoPrincipal": "Chá (Decocção), Pastilhas",
-    "usosPrincipais": ["Tosse, Bronquite e Asma", "Dor de Garganta e Aftas", "Úlceras Gástricas, Azia e Gastrite", "Fadiga Adrenal e Baixa Pressão", "Anti-inflamatório (Artrite, Tendinite)", "Problemas de Pele (Eczema, Psoríase, Dermatite)", "Sintomas da TPM e Menopausa", "Antiviral (Hepatite C, Herpes)"],
-    "receitasRapidas": [{ "titulo": "Decocção de Raiz de Alcaçuz", "descricao": "1 colher de chá de raiz seca picada para 1 xícara de água. Ferva por 5-10 minutos, coe e beba." }],
-    "cuidadosEContraindicacoes": "O uso prolongado (mais de 4-6 semanas) e em altas doses pode causar aumento da pressão arterial, retenção de líquidos e queda de potássio. Contraindicado para pessoas com hipertensão, doenças cardíacas ou renais, e durante a gravidez.",
-    "imagemUrl": "https://i.imgur.com/b5R6s8T.jpeg"
+    "imagemUrl": "https://i.postimg.cc/KYcZ5LhL/unha-de-gato.jpg"
   }
 ];

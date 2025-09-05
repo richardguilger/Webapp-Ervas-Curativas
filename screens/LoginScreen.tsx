@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { LeafIcon, MailIcon, LockClosedIcon } from '../components/Icon';
 
@@ -25,7 +24,7 @@ const LoginScreen: React.FC<LoginScreenProps> = ({ onLogin }) => {
   return (
     <div 
         className="min-h-screen flex items-center justify-center p-4 font-sans bg-cover bg-center"
-        style={{backgroundImage: "url('https://images.unsplash.com/photo-1490750967868-88aa4486c946?q=80&w=1920&auto=format&fit=crop')"}}
+        style={{backgroundImage: "url('https://i.postimg.cc/8C5j3v8C/herbs-background.jpg')"}}
     >
       <div className="absolute inset-0 bg-black/50 backdrop-blur-sm"></div>
 
